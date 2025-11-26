@@ -1,0 +1,20 @@
+Feature,Detail
+The Trigger,"Loi Climat & Résilience (Art. 158). Mandatory DPE Collectif for <50 lots effective Jan 1, 2026."
+The Victim,Volunteer Syndics (Syndics bénévoles) and Small Professional Syndics. They manage small buildings and lack the big software tools of giant agencies (like Foncia/Nexity).
+The Manual Pain,"To generate this DPE, the Syndic must collect granular data from every single co-owner (window types, boiler models, insulation dates). Currently, they do this by sending 20+ emails, chasing people by phone, and manually filling a massive Excel sheet for the Diagnostiqueur."
+"The ""Dev"" Solution","A ""Data Collection Portal"" for DPE.1. Syndic creates a ""Building"" project.2. App sends a unique, mobile-friendly link to all co-owners.3. Co-owners upload photos of their boilers/windows and fill a simple form.4. App aggregates data into a pre-formatted CSV/XML ready for the Diagnostiqueur."
+Monetization,"€90 - €150 per building (one-off). Small syndics will happily pay this to save 20 hours of chasing neighbors. The fine/blocker is the inability to vote on mandatory works (PPT), freezing property sales."
+
+Feature,Detail
+The Trigger,"Loi Partage de la Valeur (transposition of ANI). New obligation for 11-49 employees effective Jan 1, 2025 (impacting 2026 fiscal closures)."
+The Victim,"SME Owners (11-49 employees) in profitable sectors (Construction, IT services, Wholesale) who have never had to deal with ""Participation"" or ""Intéressement"" before."
+The Manual Pain,"The calculation formula (RSP - Réserve Spéciale de Participation) is complex (B=21​(Bn​−5%Cp​)×VAS​). SME owners currently rely on expensive accountants (billing €500+) or try to do it in Excel, risking errors. They also need to generate a legal ""Accord d'intéressement"" document."
+"The ""Dev"" Solution","A ""Compliance Calculator & Generator"".1. User inputs 3 numbers from their ""Liasse Fiscale"" (Net Profit, Equity, Wages).2. Tool calculates if they are liable and how much.3. Tool auto-generates the legal PDF Agreement (Accord de Participation/Intéressement) ready to sign."
+Monetization,"€200 - €400 per year/report. Cheaper than a lawyer/CPA, instant peace of mind. The penalty is a heavy fine and URSSAF adjustments."
+
+Feature,Detail
+The Trigger,"Generalisation of Electronic Invoicing. Reception obligation effective Sept 1, 2026. Abandonment of the public PPF interface for direct use."
+The Victim,"Artisans, Freelancers, Micro-businesses who don't use accounting software (they use Word/Excel) but will suddenly start receiving .xml or hybrid files from suppliers (Metro, Rexel, Orange)."
+The Manual Pain,"They will receive a file format (Factur-X) they cannot easily ""read"" or print to check the details before paying. They will waste time trying to open XMLs or logging into 10 different supplier portals (PDPs) just to see how much they owe."
+"The ""Dev"" Solution","A ""Drag & Drop"" Factur-X Viewer & Converter.1. User drags the received file (XML/Factur-X) into the browser.2. Tool renders it as a clean, human-readable invoice.3. Killer Feature: Tool extracts the IBAN and Amount into a ""Payment List"" (SEPA XML) they can upload to their bank to pay everyone at once."
+Monetization,"€9 - €19 / month. Sold as a ""Universal Inbox"" for invoices. The pain is purely operational: ""I can't read my bills."""
