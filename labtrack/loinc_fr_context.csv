@@ -1,0 +1,5313 @@
+Code|Nom|Unite
+789-8|Hématies|10*12/L
+718-7|Hémoglobine|g/L
+4544-3|Hématocrite|%
+30428-7|VGM|fL
+28539-5|TCMH|pg
+28540-3|CCMH|g/dL
+30385-9|IDR|%
+6690-2|Leucocytes|10*9/L
+26511-6|Polynucléaires neutrophiles %|%
+26499-4|Polynucléaires neutrophiles|10*9/L
+26450-7|Polynucléaires éosinophiles %|%
+26449-9|Polynucléaires éosinophiles|10*9/L
+30180-4|Polynucléaires basophiles %|%
+26444-0|Polynucléaires basophiles|10*9/L
+26478-8|Lymphocytes %|%
+26474-7|Lymphocytes|10*9/L
+20482-6|Granulocytes|10*9/L
+71695-1|Myélémie %|%
+51584-1|Myélémie|10*9/L
+30466-7|Promonocytes %|%
+33855-8|Promonocytes|10*9/L
+26485-3|Monocytes %|%
+26484-6|Monocytes|10*9/L
+33990-3|Érythroblastes %|%
+715-3|Érythroblastes|10*9/L
+26446-5|Blastes %|%
+30376-8|Blastes|10*9/L
+30445-1|Myéloblastes %|%
+30444-4|Myéloblastes|10*9/L
+26524-9|Promyélocytes %|%
+26523-1|Promyélocytes|10*9/L
+26498-6|Myélocytes %|%
+30446-9|Myélocytes|10*9/L
+28541-1|Métamyélocytes %|%
+30433-7|Métamyélocytes|10*9/L
+30465-9|Prolymphocytes %|%
+30464-2|Prolymphocytes|10*9/L
+13046-8|Lymphocytes hyperbasophiles %|%
+26477-0|Lymphocytes hyperbasophiles|10*9/L
+30413-9|Lymphocytes atypiques %|%
+30412-1|Lymphocytes atypiques|10*9/L
+93953-8|Lymphocytes villeux|
+35082-7|Lymphocytes à grains|10*9/L
+11275-5|Lymphocytes à grains %|%
+30422-0|Cellules lymphomateuses|10*9/L
+30423-8|Cellules lymphomateuses %|%
+30418-8|Lymphocytes clivés|10*9/L
+30419-6|Lymphocytes clivés %|%
+35040-5|Immunoblastes|10*9/L
+34920-9|Immunoblastes %|%
+35039-7|Lymphoplasmocytes|10*9/L
+34921-7|Lymphoplasmocytes %|%
+13047-6|Plasmocytes %|%
+30458-4|Plasmocytes|10*9/L
+801-1|Recherche de drépanocytes|
+35058-7|Tricholeucocytes %|%
+30397-4|Tricholeucocytes|10*9/L
+11156-7|Leucocytes morphologie|
+34919-1|Cellules de sézary %|%
+34918-3|Cellules de sézary|10*9/L
+48069-9|Recherche de microsphérocytes|
+800-3|Recherche de Schizocytes|
+51630-2|Schizocytes %o|/10*3{RBCs}
+7789-1|Recherche d' acanthocytes|
+51639-3|Acanthocytes %o|/10*3{RBCs}
+716-1|Recherche de Corps de Heinz|
+7793-3|Recherche de Corps de Jolly|
+17849-1|Réticulocytes %|%
+60474-4|Réticulocytes|10*9/L
+14196-0|Réticulocytes|10*9/L
+48706-6|VMR|fL
+33516-6|Réticulocytes immatures %|%
+6742-1|Anomalies érythrocytaires|
+777-3|Plaquettes|10*9/L
+32623-1|VMP|fL
+32207-3|IDP|%
+11125-2|Anomalies plaquettaires|
+33255-1|Interprétation|
+5909-7|Commentaire Frottis|
+58445-8|Numération - Commentaire|
+51636-9|Réticulocytes immatures|10*9/L
+30156-4|Réticulocytes agrégats|%
+76141-1|Ret-He|pg/{RBC}
+76685-7|MPM|pg
+9317-9|Conclusion|
+30341-2|Vitesse de sédimentation 1ère heure|mm/h
+18184-2|Vitesse de sédimentation 2ème heure|mm/h
+11153-4|Hématocrite dans un liquide|%
+68435-7|Érythrocytes|10*12/L
+68434-0|Leucocytes|10*9/L
+68407-6|Lymphocytes|10*9/L
+72364-3|Lymphocytes %|%
+68424-1|Monocytes|10*9/L
+68423-3|Monocytes %|%
+68427-4|Polynucléaires neutrophiles|10*9/L
+68426-6|Polynucléaires neutrophiles %|%
+68402-7|Polynucléaires éosinophiles|10*9/L
+68403-5|Polynucléaires éosinophiles %|%
+68397-9|Polynucléaires basophiles|10*9/L
+68396-1|Polynucléaires basophiles %|%
+68419-1|Cellules mésothéliales|10*9/L
+68418-3|Cellules mésothéliales %|%
+68413-4|Macrophages|10*9/L
+68412-6|Macrophages %|%
+68433-2|Leucocytes autres|10*9/L
+68432-4|Leucocytes autres %|%
+20999-9|Interprétation - Formule|
+20506-2|Site du prélèvement|
+74232-0|Richesse de la moelle|
+11110-4|Mégacaryocytes %|%
+40688-4|Mégacaryocytes|
+11150-0|Blastes|%
+74233-8|Commentaire Blastes|
+55792-6|Cellules nucléées|
+11113-8|Myéloblastes|%
+11120-3|Promyélocytes|%
+11114-6|Myélocytes|%
+74426-8|Myélocytes neutrophiles|%
+50374-8|Myélocytes éosinophiles|%
+11111-2|Métamyélocytes|%
+93952-0|Métamyélocytes neutrophiles|%
+74429-2|Métamyélocytes éosinophiles|%
+11115-3|Polynucléaires neutrophiles|%
+11106-2|Polynucléaires éosinophiles|%
+11105-4|Polynucléaires basophiles|%
+40687-6|Cellules myéloïdes|
+67814-4|Total Granuleux|%
+74228-8|Commentaire Myélopoïèse|
+11124-5|Proérythroblastes|%
+11104-7|Érythroblastes basophiles|%
+11119-5|Érythroblastes polychromatophiles|%
+11116-1|Érythroblastes acidophiles|%
+51579-1|Total Érythroblastes|%
+42215-4|Erythrocytes nucléés|%
+11127-8|Morphologie Erythrocytes|
+40689-2|Cellules érythroïdes|
+74231-2|Commentaire Érythropoïèse|
+11122-9|Promonocytes|%
+11112-0|Monocytes|%
+63552-4|Macrophages|%
+74229-6|Commentaire Mégacaryopoïèse|
+11108-8|Lymphocytes|%
+11107-0|Lymphocytes atypiques|
+74230-4|Commentaire Lymphocytes|
+11118-7|Plasmocytes|%
+11117-9|Plasmocytes immatures|
+50725-1|Monoblastes|%
+50724-4|Lymphoblastes|%
+51581-7|Autres cellules|%
+44900-9|Cellules malignes|%
+43415-9|Cellules atypiques|%
+44903-3|Cellules malignes|
+11121-1|Prolymphocytes|%
+42204-8|Tricholeucocytes|%
+52127-8|Mégaloblastes|
+57012-7|Ostéoblastes|
+11109-6|Mastocytes|
+57764-3|Myélogramme - Interprétation|
+99394-9|Sidérocytes|
+99395-6|Sidérocytes %|
+99396-4|Sidérocytes Type I %|
+99397-2|Sidérocytes Type II %|
+99398-0|Sidérocytes Type III %|
+20572-4|Hémoglobine A %|%{Hb}
+51196-4|Hémoglobine A1 %|%{Hb}
+4549-2|Hémoglobine A1c %|%{Hb}
+4552-6|Hémoglobine A2 %|%{Hb}
+32682-7|Hémoglobine F %|%{Hb}
+32683-5|Hémoglobine S %|%{Hb}
+32681-9|Hémoglobine C %|%{Hb}
+4569-0|Hémoglobine D %|%{Hb}
+4573-2|Hémoglobine E %|%{Hb}
+4587-2|Hémoglobine H %|%{Hb}
+32017-6|Autre hémoglobine %|%{Hb}
+49316-3|Interprétation - Electrophorèse Hb|
+13514-5|Interprétation - Electrophorèse Hb|
+6864-3|Test d'ITANO|
+4579-9|Recherche de l'hémoglobine F|
+4576-5|Hémoglobine F|%{Hb}
+5894-1|TP %|%
+5902-2|TQ Patient|s
+5901-4|TQ Témoin|s
+92891-1|INR Cible|
+6301-6|INR|
+3289-6|Facteur II|%
+15159-7|Interprétation - Voie extrinsèque|
+3193-0|Facteur V|%
+3198-9|Facteur VII|%
+3218-5|Facteur X|%
+27814-3|Facteur VII+X|%
+14979-9|TCA Patient|s
+13488-2|TCA Témoin|s
+63561-5|TCA Patient/témoin|
+3270-6|HBPM|[IU]/mL
+3271-4|HBPM|[IU]/mL
+3273-0|HNF|[IU]/mL
+3274-8|HNF|[IU]/mL
+28652-6|Danaparoïde (Orgaran®)|[IU]/mL
+74871-5|Rivaroxaban|ng/mL
+74217-1|Fondaparinux|ng/mL
+74214-8|Apixaban (Anti-Xa)|ng/mL
+74220-5|Dabigatran|ng/mL
+48344-6|Temps de kaolin Patient|s
+57839-3|Temps de kaolin Témoin|s
+3255-7|Fibrinogène|g/L
+48664-7|Fibrinogène dérivé|g/L
+21002-1|Interprétation - Fg|
+30226-5|Fibrinogène  pondéral|g/L
+3256-5|Fibrinogène antigène|mg/dL
+3243-3|TT Patient|s
+5955-0|TT Témoin|s
+68325-0|TT Patient/témoin|%
+21032-8|Interprétation - TT|
+7799-0|D-Dimères|ug/L
+48058-2|D-Dimères|ug/L
+48067-3|D-Dimères|ug/L
+3209-4|Facteur VIII|%
+49865-9|Facteur VIII|%
+15160-5|Interprétation - Voie intrinsèque|
+3187-2|Facteur IX|%
+88449-4|Facteur IX|%
+3226-8|Facteur XI|%
+3232-6|Facteur XII|%
+27815-0|Facteur XIII|%
+52754-9|Kininogène HPM|%
+6014-5|vWF Activité|%
+68324-3|vWF Activité|%
+27816-8|Antigène Facteur willebrand|%
+48595-3|Interprétation - Facteur willebrand|
+53622-7|ADAMTS13|%
+27813-5|Antigène Facteur II|%
+3288-8|Antigène Facteur II|[arb'U]/mL
+3195-5|Antigène Facteur V|%
+3194-8|Antigène Facteur V|[arb'U]/mL
+49870-9|Antigène Facteur VII|%
+3221-9|Antigène Facteur X|%
+3220-1|Antigène Facteur X|[arb'U]/mL
+3190-6|Antigène Facteur IX|%
+3189-8|Antigène Facteur IX|[arb'U]/mL
+38521-1|Antigène Facteur VIII|%
+3213-6|Antigène Facteur VIII|[arb'U]/mL
+3229-2|Antigène Facteur XI|%
+3228-4|Antigène Facteur XI|[arb'U]/mL
+3235-9|Antigène Facteur XII|%
+3234-2|Antigène Facteur XII|[arb'U]/mL
+3238-3|Antigène Facteur XIII|mg/L
+69423-2|Indice de Rosner|%
+34571-0|ACC : TCA Patient|s
+48022-8|ACC : TCA Patient/témoin|
+75506-6|ACC : Test de neutralisation Patient|s
+75508-2|ACC : Test de neutralisation Patient/témoin|
+6683-7|ACC : Temps de reptilase Patient|s
+75513-2|Tps Screen Témoin pool|s
+6303-2|Tps Coag Screen Patient|s
+15359-3|Ratio Screen|{ratio}
+75512-4|Ratio Screen normalisé|{ratio}
+57838-5|Tps Coag Confirm Patient|s
+50410-0|Ratio Confirm|{ratio}
+68916-6|Ratio Confirm normalisé|{ratio}
+66736-0|SCT Ratio normalisé|{ratio}
+75514-0|Interprétation - Anticoagulant de type lupique|
+75882-1|Interprétation - Anticoagulant de type lupique|
+30086-3|Recherche d'un inhibiteur anti facteur IX|
+3185-6|Titrage d'un inhibiteur anti facteur IX|[beth'U]
+3206-0|Recherche d'un inhibiteur anti facteur VIII|
+3204-5|Titrage d'un inhibiteur anti facteur VIII|[beth'U]
+27811-9|Antithrombine|%
+20991-6|Interprétation - Antithrombine|
+27812-7|Antithrombine antigène|%
+48590-4|TCA avec PC activée|s
+13590-5|Ratio Patient|{ratio}
+48591-2|Interprétation - RPCA|
+27818-4|Protéine C activité amidolytique|%
+27819-2|Protéine C activité anticoagulante|%
+27822-6|Protéine S activité anticoagulante|%
+27823-4|Protéine S antigène|%
+27821-8|Protéine S libre antigène|%
+3244-1|Temps de lyse des euglobulines|s
+57761-9|Ac anti-Complexe-héparine|
+45155-9|Ac anti-Complexe-héparine - DO du patient|{OD_unit}
+73819-5|IgG anti-Complexe-héparine|
+73818-7|IgG anti-Complexe-héparine - DO du patient|{OD_unit}
+73816-1|Anti-PF4 - Interprétation|
+5971-7|tPA antigène|ng/mL
+22758-7|PAI-1 antigène|ng/mL
+28660-9|Plasminogène|%
+5970-9|Plasminogène|[arb'U]/mL
+4668-0|Plasminogène antigène|ng/mL
+27810-1|Alpha-2-antiplasmine|%
+5965-9|Alpha-2-antiplasmine|[arb'U]/mL
+5969-1|Complexe plasmine-antiplasmine|ug/mL
+5992-3|Agrégation plaquettaire (ADP)|%
+5993-1|Agrégation plaquettaire (Acide arachidonique)|%
+5995-6|Agrégation plaquettaire (Collagène)|%
+5998-0|Agrégation plaquettaire (Ristocétine)|%
+21027-8|Interprétation - Agrégation plaquettaire|
+94187-2|Interprétation - Agrégation plaquettaire|
+77397-8|Groupe sanguin ABO-RH1 (D)|
+13310-8|Phénotypage RH-KEL1|
+882-1|Groupe sanguin ABO-RH1/D|
+883-9|Groupe sanguin ABO|
+978-7|Antigène RH1|
+10331-7|Antigène RH1|
+93950-4|Antigène RH1 variant|
+948-0|Antigène RH2|
+1021-5|Antigène RH3|
+1159-3|Antigène RH4|
+1165-0|Antigène RH5|
+1096-7|Antigène KEL1|
+34474-7|Groupe sanguin ABO-RH1 (D) sur sang de cordon|
+51892-8|Groupe ABO sur sang de cordon|
+93948-8|Antigène RH1 sur sang de cordon|
+93946-2|Antigène RH2 sur sang de cordon|
+93945-4|Antigène RH3 sur sang de cordon|
+93944-7|Antigène RH4 sur sang de cordon|
+93943-9|Antigène RH5 sur sang de cordon|
+93942-1|Antigène KEL1 sur sang de cordon|
+19057-9|Groupe sanguin ABO-RH1 (D) du nouveau né|
+93906-6|Groupe sanguin ABO-RH1 (D) du nouveau né|
+14580-5|Groupe sanguin ABO du nouveau né|
+93940-5|Antigène RH1 du nouveau né|
+93938-9|Antigène RH2 du nouveau né|
+93937-1|Antigène RH3 du nouveau né|
+93936-3|Antigène RH4 du nouveau né|
+93935-5|Antigène RH5 du nouveau né|
+93934-8|Antigène KEL1 du nouveau né|
+93932-2|Groupe sanguin ABO-RH1 (D) après allogreffe CSH|
+93931-4|Groupe sanguin ABO après allogreffe CSH|
+93930-6|Antigène RH1 après allogreffe CSH|
+93928-0|Antigène RH2 après allogreffe CSH|
+93927-2|Antigène RH3 après allogreffe CSH|
+93926-4|Antigène RH4 après allogreffe CSH|
+93925-6|Antigène RH5 après allogreffe CSH|
+93924-9|Antigène KEL1 après allogreffe CSH|
+52116-1|Date de réception de la poche|
+881-3|Groupe sanguin ABO-RH1 (D) sur poche de sang|
+14578-9|Groupe sanguin ABO sur poche de sang|
+976-1|Antigène RH1 sur poche de sang|
+946-4|Antigène RH2 sur poche de sang|
+1019-9|Antigène RH3 sur poche de sang|
+1157-7|Antigène RH4 sur poche de sang|
+1163-5|Antigène RH5 sur poche de sang|
+1094-2|Antigène KEL1 sur poche de sang|
+51895-1|N° CGR|
+1250-0|Epreuve de compatibilité|
+931-6|Produit concerné|
+933-2|Produit concerné|
+927-4|Numéro d'identification du produit|
+46273-9|Aspect du sérum patient|
+14687-8|Date de transfusion|
+45376-1|Date de l'incident transfusionnel|
+45377-9|Heure de la réaction transfusionnelle|
+104490-8|Aspect du produit|
+50405-0|Symptomes après réaction transfusionnelle|
+46275-4|Compatibilité directe après réaction transfusionnelle|
+14924-5|Réaction transfusionnelle|
+90039-9|Groupe sanguin ABO-RH1 (D) après réaction transfusionelle|
+46270-5|Groupe sanguin ABO après réaction transfusionelle|
+46276-2|Antigène RH1 après réaction transfusionelle|
+93921-5|Antigène RH2 après réaction transfusionelle|
+93920-7|Antigène RH3 après réaction transfusionelle|
+93919-9|Antigène RH4 après réaction transfusionelle|
+93918-1|Antigène RH5 après réaction transfusionelle|
+93917-3|Antigène KEL1 après réaction transfusionelle|
+1033-0|Antigène FY2|
+1072-8|Antigène JK1|
+1078-5|Antigène JK2|
+1320-1|Antigène MNS3|
+1213-8|Antigène MNS4|
+1195-7|Antigène KEL2|
+1171-8|Antigène RH6|
+954-8|Antigène RH7|
+960-5|Antigène RH8|
+966-2|Antigène RH9|
+1334-2|Antigène RH10|
+1015-7|Antigène RH11|
+1041-3|Antigène RH12|
+93913-2|Antigène RH20|
+93912-4|Antigène RH22|
+93911-6|Antigène RH27|
+1102-3|Antigène KEL3|
+1108-0|Antigène KEL4|
+1027-2|Antigène FY1|
+93910-8|Antigène FY3|
+93909-0|Antigène JK3|
+1115-5|Antigène LE1|
+1121-3|Antigène LE2|
+1231-0|Antigène MNS1|
+1261-7|Antigène MNS2|
+1328-4|Antigène MNS5|
+1225-2|Antigène MNS11|
+1291-4|Antigène P1|
+1138-7|Antigène LU1|
+1147-8|Antigène LU2|
+826-8|Antigène LU18|
+93908-2|Antigène LU19|
+93907-4|Antigène LU20|
+996-9|Antigène DO1|
+58060-5|Antigène DO2|
+58053-0|Antigène CH/RG1|
+68965-3|Antigène CH/RGgénérique|
+58071-2|Antigène CG/RG11|
+58055-5|Antigène CO1|
+58056-3|Antigène CO2|
+101064-4|Antigène CO3|
+58058-9|Antigène COST1|
+101068-5|Antigène COST2|
+984-5|Antigène DI1|
+990-2|Antigène DI2|
+58073-8|Antigène DI3|
+101336-6|Antigène DI4|
+101087-5|Antigène GE2|
+101089-1|Antigène GE3|
+85737-5|Antigène H1|
+10400-0|Antigène I1|
+10408-3|Antigène I2|
+58064-7|Antigène JR1|
+101100-6|Antigène KEL5|
+1084-3|Antigène KEL6|
+1090-0|Antigène KEL7|
+101102-2|Antigène XK1|
+68964-6|Antigène LAN1|
+1234-4|Antigène MNS7|
+58083-7|Antigène MNS9|
+88046-8|Antigène P1PK3|
+85487-7|Antigène SC1|
+85488-5|Antigène SC2|
+104516-0|Antigène SC3|
+55342-0|Antigène Sda|
+58082-9|Antigène VEL1|
+1341-7|Antigène XG1|
+1347-4|Antigène YT1|
+1353-2|Antigène YT2|
+58066-2|Antigène KN1|
+58069-6|Antigène KN2|
+58075-3|Antigène KN5|
+1219-5|Antigène LW|
+58062-1|Antigène IN2|
+88039-3|Antigène GLOB1|
+101098-2|Antigène JMH1|
+92505-7|Phénotype déduit FY1 (Fya)|
+92504-0|Phénotype déduit FY2 (Fyb)|
+92501-6|Phénotype déduit JK1 (Jka)|
+92500-8|Phénotype déduit JK2 (Jkb)|
+92483-7|Phénotype déduit MNS3 (S)|
+92488-6|Phénotype déduit MNS4 (s)|
+92480-3|Phénotype déduit MNS5 (U)|
+92496-9|Phénotype déduit KEL1 (K)|
+92489-4|Phénotype déduit KEL2 (k)|
+92495-1|Phénotype déduit KEL3 (Kpa)|
+92494-4|Phénotype déduit KEL4 (Kpb)|
+92498-5|Phénotype déduit KEL6 (Jsa)|
+92497-7|Phénotype déduit KEL7 (Jsb)|
+92508-1|Phénotype déduit DO1 (Doa)|
+92507-3|Phénotype déduit DO2 (Dob)|
+92503-2|Phénotype déduit DO4 (Hy)|
+92499-3|Phénotype déduit DO5 (Joa)|
+92485-2|Phénotype déduit MNS1 (M)|
+92484-5|Phénotype déduit MNS2 (N)|
+92493-6|Phénotype déduit LU1 (Lua)|
+92492-8|Phénotype déduit LU2 (Lub)|
+92510-7|Phénotype déduit DI1 (Dia)|
+92509-9|Phénotype déduit DI2 (Dib)|
+92487-8|Phénotype déduit LW5 (LWa)|
+92486-0|Phénotype déduit LW7 (LWb)|
+92512-3|Phénotype déduit CO1 (Coa)|
+92511-5|Phénotype déduit CO2 (Cob)|
+92482-9|Phénotype déduit SC1 (Sc1)|
+92481-1|Phénotype déduit SC2 (Sc2)|
+92513-1|Phénotype déduit RH2 (C)|
+92506-5|Phénotype déduit RH3 (E)|
+92491-0|Phénotype déduit RH4 (c)|
+92490-2|Phénotype déduit RH5 (e)|
+92479-5|Phénotype déduit RH10 (V)|
+92478-7|Phénotype déduit RH20 (VS)|
+75263-4|Anticorps irréguliers (RAI)|
+75264-2|Test Indirect à l'Antiglobuline (RAI)|
+897-9|Dépistage d'anticorps anti-érythrocytaires sur éluat|
+904-3|Dépistage d'anticorps anti-érythrocytaires sur auto-adsorbat|
+75265-9|Dépistage d'anticorps anti-érythrocytaires sur PEG|
+1003-3|Test indirect à l'antiglobuline|
+50959-6|Test indirect à l'antiglobuline|
+34480-4|Test indirect à l'antiglobuline à 4°C|
+34481-2|Test indirect à l'antiglobuline à 22°C|
+1005-8|Test indirect à l'antiglobuline IgG spécifique|
+888-8|Identification d'anticorps anti-érythrocytaires|
+975-3|anti-RH1|
+943-1|anti-RH2|
+945-6|anti-RH2|
+1016-5|anti-RH3|
+1018-1|anti-RH3|
+1154-4|anti-RH4|
+1156-9|anti-RH4|
+1160-1|anti-RH5|
+1162-7|anti-RH5|
+1168-4|anti-RH6|
+951-4|anti-RH7|
+957-1|anti-RH8|
+963-9|anti-RH9|
+1331-8|anti-RH10|
+1012-4|anti-RH11|
+1038-9|anti-RH12|
+101139-4|anti-RH17|
+101091-7|anti-RH18|
+104513-7|anti-RH19|
+101103-0|anti-RH21|
+101069-3|anti-RH22|
+101078-4|anti-RH23|
+65331-1|anti-RH27|
+58061-3|anti-RH30|
+101092-5|anti-RH31|
+65332-9|anti-RH32|
+101061-0|anti-RH36|
+101082-6|anti-RH37|
+101075-0|anti-RH43|
+101084-2|anti-RH50|
+101062-8|anti-RH52|
+101097-4|anti-RH53|
+101079-2|anti-RH54|
+101072-7|anti-RH56|
+101073-5|anti-RH57|
+101071-9|anti-RH58|
+101070-1|anti-RH59|
+101074-3|anti-RH61|
+1093-4|anti-KEL1|
+1192-4|anti-KEL2|
+1099-1|anti-KEL3|
+1105-6|anti-KEL4|
+65325-3|anti-KEL5|
+1081-9|anti-KEL6|
+1087-6|anti-KEL7|
+101099-0|anti-KEL20|
+82872-3|anti-AnWj|
+65318-8|anti-Ata|
+57902-9|Anti-Bga|
+58054-8|anti-CH/RG1|
+58072-0|anti-CH/RG11|
+52109-6|anti-CO1|
+52108-8|anti-CO2|
+101063-6|anti-CO3|
+101065-1|anti-CO4|
+58057-1|anti-COST1|
+101067-7|anti-COST2|
+101066-9|anti-CROM1|
+104517-8|anti-CROM2|
+104519-4|anti-CROM3|
+104521-0|anti-CROM4|
+101077-6|anti-CROM5|
+101081-8|anti-CROM6|
+101095-8|anti-CROM7|
+104527-7|anti-CROM8|
+65338-6|anti-CROM9|
+981-1|anti-DI1|
+987-8|anti-DI2|
+58074-6|anti-DI3|
+65339-4|anti-DI4|
+104525-1|anti-DI5|
+104514-5|anti-DI6|
+104526-9|anti-DI7|
+65335-2|anti-DI14|
+993-6|anti-DO1|
+58059-7|anti-DO2|
+65322-0|anti-DO3|
+101096-6|anti-DO5|
+101138-6|anti-ER1|
+1024-9|anti-FY1|
+1030-6|anti-FY2|
+65320-4|anti-FY3|
+101083-4|anti-FY5|
+101085-9|anti-GE1|
+101086-7|anti-GE2|
+101088-3|anti-GE3|
+101090-9|anti-GE4|
+104523-6|anti-GE5|
+101060-2|anti-GE7|
+101076-8|anti-GE8|
+1279-9|anti-GLOB1|
+1044-7|anti-H1|
+58078-7|anti-HI|
+18298-0|Anti-HTLA|
+1060-3|anti-I1|
+1186-6|anti-I2|
+101094-1|anti-IN1|
+58063-9|anti-IN2|
+1069-4|anti-JK1|
+1075-1|anti-JK2|
+65324-6|anti-JK3|
+58079-5|anti-JMH1|
+58065-4|anti-JR1|
+58067-0|anti-KN1|
+58068-8|anti-KN2|
+58070-4|anti-KN3|
+58076-1|anti-KN5|
+65326-1|anti-LAN1|
+1135-3|anti-LU1|
+1144-5|anti-LU2|
+1141-1|anti-LU3|
+823-5|anti-LU18|
+82870-7|anti-LU19|
+1216-1|anti-LW|
+65328-7|anti-LW5|
+1228-6|anti-MNS1|
+1258-3|anti-MNS2|
+1317-7|anti-MNS3|
+1210-4|anti-MNS4|
+1325-0|anti-MNS5|
+1237-7|anti-MNS7|
+58084-5|anti-MNS9|
+1222-9|anti-MNS11|
+101093-3|anti-MNS19|
+68967-9|anti-MNS25|
+101080-0|anti-MNS28|
+101137-8|anti-MNS29|
+1288-0|anti-P1PK1|
+88043-5|anti-P1PK3|
+65333-7|anti-SC1|
+65334-5|anti-SC2|
+55338-8|anti-Sda|
+58081-1|anti-VEL1|
+1338-3|Anti-XG1|
+101101-4|anti-XK1|
+1344-1|anti-YT1|
+1350-8|anti-YT2|
+34477-0|Identification d'anticorps anti-érythrocytaires sur éluat|
+34482-0|Identification d'anticorps anti-érythrocytaires après auto-adsorption|
+55776-9|Test à l'antiglobuline anti-IgG|
+55774-4|Test à l'antiglobuline anti-C3d|
+55775-1|Test à l'antiglobuline anti-IgA|
+55777-7|Test à l'antiglobuline anti-IgM|
+56471-6|Test à l'antiglobuline anti-C3c|
+1004-1|Test à l'antiglobuline complément spécifique|
+1007-4|Test à l'antiglobuline polyvalente|
+32140-6|Test de Kleihauer|
+48555-7|Quantification|
+4633-4|% d'hémoglobine foetale|%{Hb}
+14276-0|Interprétation|
+80610-9|Recherche d'anti-A de classe IgG (Ac immuns) - résultat|
+80612-5|Recherche d'anti-B de classe IgG (Ac immuns) - résultat|
+50962-0|Recherche d'anticorps immuns du système ABO|{titer}
+50761-6|Titre d'anti-A de classe IgG (Ac immuns)|{titer}
+50764-0|Titre d'anti-B de classe IgG (Ac immuns)|{titer}
+50963-8|Recherche d'anticorps naturels du système ABO|{titer}
+50762-4|Titre d'anti-A de classe IgM (Ac naturels)|{titer}
+50763-2|Titre d'anti-B de classe IgM (Ac naturels)|{titer}
+50401-9|Spécificité de l'anticorps anti-érythrocytaire titré|
+56886-5|Titre en test indirect à l'antiglobuline|
+49057-3|Score en test indirect à l'antiglobuline|
+33644-6|Titrage anti-A1|{titer}
+1304-5|Titrage anti-RH1|{titer}
+34196-6|Titrage anti-RH2|{titer}
+34602-3|Titrage anti-RH3|{titer}
+55332-1|Titrage anti-RH4|{titer}
+34157-8|Titrage anti-RH5|{titer}
+55333-9|Titrage anti-RH6|{titer}
+55321-4|Titrage anti-RH8|{titer}
+55340-4|Titrage anti-RH10|{titer}
+34738-5|Titrage anti-KEL1|{titer}
+55334-7|Titrage anti-KEL2|{titer}
+55326-3|Titrage anti-KEL3|{titer}
+55327-1|Titrage anti-KEL4|{titer}
+55325-5|Titrage anti-KEL6|{titer}
+55597-9|Titrage anti-KEL7|{titer}
+57903-7|Titrage anti-Bga|{titer}
+104491-6|Titrage anti-CH/RG1|{titer}
+104515-2|Titrage anti-CH/RG11|{titer}
+104492-4|Titrage anti-CO1|{titer}
+104493-2|Titrage anti-CO2|{titer}
+104494-0|Titrage anti-CO3|{titer}
+104495-7|Titrage anti-CO4|{titer}
+104497-3|Titrage anti-COST1|{titer}
+104498-1|Titrage anti-COST2|{titer}
+104496-5|Titrage anti-CROM1|{titer}
+104518-6|Titrage anti-CROM2|{titer}
+104520-2|Titrage anti-CROM3|{titer}
+104522-8|Titrage anti-CROM4|{titer}
+104501-2|Titrage anti-CROM5|{titer}
+104502-0|Titrage anti-CROM6|{titer}
+104511-1|Titrage anti-CROM7|{titer}
+104528-5|Titrage anti-CROM8|{titer}
+104529-3|Titrage anti-CROM9|{titer}
+104499-9|Titrage anti-DO1|{titer}
+104500-4|Titrage anti-DO2|{titer}
+104509-5|Titrage anti-DO3|{titer}
+104510-3|Titrage anti-DO4|{titer}
+104512-9|Titrage anti-DO5|{titer}
+33977-0|Titrage anti-FY1|{titer}
+55322-2|Titrage anti-FY2|{titer}
+104503-8|Titrage anti-FY3|{titer}
+104504-6|Titrage anti-FY5|{titer}
+104505-3|Titrage anti-GE1|{titer}
+104506-1|Titrage anti-GE2|{titer}
+104507-9|Titrage anti-GE3|{titer}
+104508-7|Titrage anti-GE4|{titer}
+104524-4|Titrage anti-GE5|{titer}
+55323-0|Titrage anti-JK1 (Jka)|{titer}
+55324-8|Titrage anti-JK2 (Jkb)|{titer}
+55328-9|Titrage anti-LE1 (Lea)|{titer}
+55329-7|Titrage anti-LE2 (Leb)|{titer}
+55330-5|Titrage anti-LU1 (Lua)|{titer}
+55331-3|Titrage anti-LU2 (Lub)|{titer}
+34604-9|Titrage anti-MNS1 (M)|{titer}
+55336-2|Titrage anti-MNS2 (N)|{titer}
+33920-0|Titrage anti-MNS3 (S)|{titer}
+55335-4|Titrage anti-MNS4 (s)|{titer}
+55337-0|Titrage anti-P1 (P1)|{titer}
+55339-6|Titrage anti-sda|{titer}
+55341-2|Titrage anti-XG1|{titer}
+14868-4|Compte rendu médical|
+32144-8|Interprétation médicale|
+45355-5|Date injection immunoglobuline anti-RH1|
+10404-2|Dose immunoglobuline anti-RH1|
+5097-1|Dépistage d'agglutinines froides|
+5098-9|Titre sur hématies autologues|ng/mL{RBCs}
+34603-1|Titre sur hématies O I|ng/mL{RBCs}
+15344-5|Titre sur hématies O ii|ng/mL{RBCs}
+18288-1|Titre sur hématies O I à 37°C|ng/mL{RBCs}
+42324-4|Conclusion agglutinines froides|
+100281-5|Dosage pondéral anti-RH1|[IU]/mL
+24384-0|Dosage pondéral anti-RH4|[IU]/mL
+72328-8|Dépistage IgG anti-HLA classe 1 - technique sensible|
+72323-9|Dépistage IgG anti-HLA classe 2 - technique sensible|
+46994-0|% de réactivité IgG anti-HLA classe 1|%
+13303-3|Spécificités IgG anti-HLA classe 1 identifiées - technique sensible|
+46995-7|% de réactivité IgG anti-HLA classe 2|%
+50019-9|Spécificités IgG anti-HLA classe 2 identifiées - technique sensible|
+77640-1|Commentaire|
+77641-9|Spécificités IgG anti-HLA-A identifiées - Single Antigen|
+77642-7|Spécificités IgG anti-HLA-B identifiées - Single Antigen|
+77643-5|Spécificités IgG anti-HLA-C identifiées - Single Antigen|
+94449-6|Spécificités IgG anti-HLA Classe 1 identifiées - Single Antigen - MFI Forte|
+94450-4|Spécificités IgG anti-HLA Classe 1 identifiées - Single Antigen - MFI Moyenne|
+94430-6|Spécificités IgG anti-HLA Classe 1 identifiées - Single Antigen - MFI Faible|
+94441-3|Conclusion - identification IgG anti HLA classe 1 - Single Antigen|
+77646-8|Spécificités IgG anti-HLA-DR identifiées - Single Antigen|
+77645-0|Spécificités IgG anti-HLA-DQ identifiées -  Single Antigen|
+77644-3|Spécificités IgG anti-HLA-DP identifiées -  Single Antigen|
+94447-0|Spécificités IgG HLA classe 2 identifiées - Single Antigen - MFI Forte|
+94448-8|Spécificités IgG HLA classe 2 identifiées - Single Antigen - MFI Moyenne|
+94429-8|Spécificités IgG HLA classe 2 identifiées - Single Antigen - MFI Faible|
+94432-2|Conclusion - identification IgG anti HLA classe 2 - Single Antigen|
+44534-6|Dépistage anticorps anti-HLA - LCT (sans DTT)|
+46996-5|Nbre pop. lymph. positives (sans DTT)|
+46997-3|Nbre pop. lymph. testées|
+45153-4|%  réactivité (sans DTT)|%
+59586-8|Isotype des anticorps|
+50968-7|Spécificités des anticorps anti-HLA de classe 1 identifiées par LCT|
+73807-0|Auto-cross-match sur lymph. totaux - LCT - sans DTT|
+44780-5|Identité du donneur testé|
+96627-5|Typage HLA du donneur|
+44756-5|Contexte clinique|
+73809-6|Cross-match sur lymph. totaux - LCT - sans DTT|
+35459-7|Cross-match sur lymph. T - LCT - sans DTT|
+38357-0|Cross-match sur lymph. B - LCT - sans DTT|
+46720-9|Cross-match sur lymph. T - CF|
+96047-6|Cross-match sur lymph. T - CF|
+96048-4|DMF sur lymph. T|[arb'U]
+46715-9|Cross-match sur lymph. B - CF|
+96049-2|Cross-match sur lymph. B - CF|
+96050-0|DMF sur lymph. B|[arb'U]
+73808-8|Conclusion - Cross-match - CF|
+67723-7|Date du dernier évènement immunisant|
+38548-4|Locus A|
+38546-8|Locus B|
+38547-6|Locus C|
+42663-5|Locus C|
+21341-3|Locus DRB1|
+53938-7|Locus DQB1|
+43291-4|Recherche des allèles HLA-DQB1*02:01, DQB1*02:02, DQB1*03:02|
+13307-4|Recherche des allèles HLA-DQA1*05:01, DQA1*05:05, DQA1*03|
+12285-3|Locus DP|
+4693-8|Ag HLA absent|
+4694-6|Ag HLA présent|
+44724-3|Recherche de l'allèle HLA-A*29|
+4729-0|Recherche de l'antigène HLA-A29|
+4821-5|Recherche de l'allèle HLA-B*27|
+13911-3|Recherche de l'antigène HLA-B27|
+26028-1|Recherche de l'allèle HLA-B*27 par cytométrie de flux|
+44726-8|Recherche de l'allèle HLA-B*51|
+4839-7|Recherche de l'antigène HLA-B51|
+50956-2|Recherche de l'allèle HLA-B*57:01|
+42358-2|Recherche de l'allèle HLA-B*57:01|
+53738-1|Recherche des allèles HLA-DQB1*02 associés à la maladie coeliaque|
+58929-1|Recherche des allèles HLA-DQB1*03:02 (DQ8) associés à la maladie coeliaque|
+9419-3|Recherche de l'allèle HLA-DQB1*06|
+63558-1|Recherche de l'allèle HLA-DQB1*06:02 :|
+6803-1|Recherche de l'allèle HLA-DRB1*15|
+50599-0|Typage du système HPA-1|
+50597-4|Typage du système HPA-2|
+50600-6|Typage du système HPA-3|
+50601-4|Typage du système HPA-4|
+50602-2|Typage du système HPA-5|
+50598-2|Typage du système HPA-15|
+50603-0|Typage du système HPA-6|
+63479-0|Dépistage anticorps anti-glycoprotéine plaquettaire Ia-IIa (test direct)|
+48594-6|Dépistage anticorps anti-glycoprotéine plaquettaire IIb-IIIa  (test direct)|
+63478-2|Dépistage anticorps anti-glycoprotéine plaquettaire Ib-IX (test direct)|
+48502-9|Dépistage auto-anticorps anti-glycoprotéine plaquettaire Ia-IIa (test direct)|
+48503-7|Dépistage auto-anticorps anti-glycoprotéine plaquettaire Ib-IX (test direct)|
+48504-5|Dépistage auto-anticorps anti-glycoprotéine plaquettaire IIb-IIIa (test direct)|
+47084-9|Dépistage anticorps anti-glycoprotéine plaquettaire Ia-IIa (test indirect)|
+48505-2|Dépistage anticorps anti-glycoprotéine plaquettaire IIb-IIIa  (test indirect)|
+48506-0|Dépistage anticorps anti-glycoprotéine plaquettaire Ib-IX (test indirect)|
+87757-1|Recherche anticorps anti-CD36 (GPIV)|
+30364-4|Lymphocytes totaux|/uL
+8130-7|% CD45|%
+27071-0|CD45|/uL
+8124-0|% CD3|%
+8122-4|CD3|/uL
+8123-2|% CD4|%
+24467-3|CD4|/uL
+8101-8|% CD8|%
+14135-8|CD8|/uL
+79186-3|% CD3+CD4+CD8|%
+40900-3|CD4/CD8|%
+54218-3|CD4/CD8|%
+69052-9|Interprétation - Cytométrie|
+8117-4|% CD19+|%
+8116-6|CD19+|/uL
+15196-9|% CD3-CD19+|%
+15195-1|CD3-CD19+|/uL
+8112-5|% CD3-CD16+CD56+|%
+9728-7|CD3-CD16+CD56+|/uL
+18267-5|% CD16+CD56+|%
+20402-4|CD16+CD56+|/uL
+8132-3|% CD5|%
+9559-6|CD5|/uL
+8107-5|% CD10|%
+9554-7|CD10|/uL
+17122-3|Lymphocytes CD19+Kappa+ %|%
+50664-2|Lymphocytes CD19+Kappa+|/uL
+17123-1|Lymphocytes CD19+Lambda %|%
+50665-9|Lymphocytes CD19+Lambda+|/uL
+80722-2|Conclusion sous-populations|
+27415-9|Interféron Gamma|pg/mL
+33821-0|Interleukine-1 alpha|pg/mL
+13629-1|Interleukine-1 bêta|pg/mL
+33939-0|Interleukine-2|pg/mL
+76039-7|Interleukine-2 récepteur soluble|pg/mL
+27161-9|Interleukine-4|pg/mL
+33938-2|Interleukine-5|pg/mL
+26881-3|Interleukine-6|pg/mL
+33211-4|Interleukine-8|pg/mL
+26848-2|Interleukine-10|pg/mL
+41760-0|Interleukine-12|pg/mL
+33822-8|Interleukine-13|pg/mL
+82334-4|Interleukine-17a|pg/mL
+3074-2|TNF-alpha|pg/mL
+34694-0|VEGF|pg/mL
+66746-9|Nature du prélèvement|
+8310-5|Température corporelle|Cel
+3151-8|Oxygène inhalé|L/min
+11558-4|pH|[pH]
+11557-6|PCO2|mm[Hg]
+11556-8|PO2|mm[Hg]
+49701-6|pH /T° Patient|[pH]
+34705-4|PCO2 /T° Patient|mm[Hg]
+19254-2|PO2 /T° Patient|mm[Hg]
+1959-6|Bicarbonates Sang total|mmol/L
+20565-8|CO2 Total Sang total|mmol/L
+11555-0|Excès de base|mmol/L
+30318-0|Déficit basal|mmol/L
+20564-1|Saturation en O2|%
+2713-6|Saturation en O2|%
+20563-3|Carboxyhémoglobine|%{Hb}
+2614-6|Méthémoglobine|%{Hb}
+12180-6|Calcium ionisé|mmol/L
+47596-2|Calcium ionisé|mmol/L
+2744-1|pH artériel|[pH]
+2019-8|PCO2 artériel|mm[Hg]
+2703-7|PO2 artériel|mm[Hg]
+33254-4|pH artériel/T° Patient|[pH]
+32771-8|PCO2 artériel/T° Patient|mm[Hg]
+19255-9|PO2 artériel/T° Patient|mm[Hg]
+1960-4|Bicarbonates artériel|mmol/L
+19230-2|Bicarbonates standards artériel|mmol/L
+2026-3|CO2 Total artériel|mmol/L
+1925-7|Excès de base artériel|mmol/L
+1922-4|Déficit basal|mmol/L
+2708-6|Saturation en O2 artérielle|%
+51733-4|Saturation en O2 corrigée artérielle|%
+30313-1|Hémoglobine artérielle|g/L
+32354-3|Hématocrite artérielle|L/L
+2030-5|Carboxyhémoglobine artérielle|%{Hb}
+2615-3|Méthémoglobine artérielle|%{Hb}
+59470-5|Calcium ionisé artériel|mg/L
+34581-9|Calcium ionisé artériel|mmol/L
+2518-9|Lactates artériel|mmol/L
+2746-6|pH veineux|[pH]
+2021-4|PCO2 veineux|mm[Hg]
+2705-2|PO2 veineux|mm[Hg]
+39486-6|pH veineux/T° Patient|[pH]
+40619-9|PCO2 veineux/T° Patient|mm[Hg]
+19258-3|PO2 veineuxl/T° Patient|mm[Hg]
+14627-4|Bicarbonates veineux|mmol/L
+19232-8|Bicarbonates standards veineux|mmol/L
+2027-1|CO2 Total veineux|mmol/L
+1927-3|Excès de base veineux|mmol/L
+1924-0|Déficit basal|mmol/L
+2711-0|Saturation en O2 veineuse|%
+51731-8|Saturation en O2 corrigée artérielle|%
+30350-3|Hémoglobine veineuse|g/L
+41654-5|Hématocrite veineuse|L/L
+2032-1|Carboxyhémoglobine veineuse|%{Hb}
+2617-9|Méthémoglobine veineuse|%{Hb}
+59471-3|Calcium ionisé veineux|mmol/L
+41645-3|Calcium ionisé veineux|mmol/L
+2745-8|pH capillaire|[pH]
+2020-6|PCO2 capillaire|mm[Hg]
+2704-5|PO2 capillaire|mm[Hg]
+39485-8|pH capillaire/T° Patient|[pH]
+40620-7|PCO2 capillaire/T° Patient|mm[Hg]
+19256-7|PO2 capillaire/T° Patient|mm[Hg]
+1961-2|Bicarbonates capillaire|mmol/L
+19231-0|Bicarbonates standards capillaire|mmol/L
+16551-4|CO2 Total|mmol/L
+1926-5|Excès de base capillaire|mmol/L
+1923-2|Déficit basal|mmol/L
+2709-4|Saturation en O2 sang capillaire|%
+51732-6|Saturation en O2 corrigée capillaire|%
+30352-9|Hémoglobine capillaire|g/L
+42908-4|Hématocrite capillaire|L/L
+2031-3|Carboxyhémoglobine capillaire|%{Hb}
+2616-1|Méthémoglobine capillaire|%{Hb}
+28646-8|pH - sang de cordon artériel|[pH]
+28644-3|PCO2 - sang de cordon artériel|mm[Hg]
+28648-4|PO2 - sang de cordon artériel|mm[Hg]
+28638-5|Excès de base sang de cordon artériel|mmol/L
+28642-7|Saturation en O2 sang de cordon artériel|%
+30354-5|Hémoglobine - sang de cordon artériel|g/L
+28647-6|pH - sang de cordon veineux|[pH]
+28645-0|PCO2 - sang de cordon veineux|mm[Hg]
+28649-2|PO2 - sang de cordon veineux|mm[Hg]
+28639-3|Excès de base sang de cordon veineux|mmol/L
+28643-5|Saturation en O2 sang de cordon veineux|%
+30353-7|Hémoglobine - sang de cordon veineux|g/L
+14749-6|Glucose|mmol/L
+2345-7|Glucose|g/L
+40193-5|Glucose à jeun|mmol/L
+53049-3|Glucose à jeun|g/L
+67704-7|Type de repas|
+53094-9|Glucose post prandial|mmol/L
+16915-1|Glucose post prandial|g/L
+4269-7|Quantité de Glucose ingéré|g
+14996-3|HGPO : Glucose T0|mmol/L
+51597-3|HGPO : Glucose T01h|mmol/L
+14995-5|HGPO : Glucose T02h|mmol/L
+1552-9|HGPO : Glucose T0|g/L
+1507-3|HGPO : Glucose T01h|g/L
+1518-0|HGPO : Glucose T02h|g/L
+50667-5|Interprétation - HGPO|
+18296-4|Interprétation - HGPO|
+40148-9|HGPO : Glucose T0|mmol/L
+14763-7|HGPO : Glucose T30min|mmol/L
+14756-1|HGPO : Glucose T01h|mmol/L
+14752-0|HGPO : Glucose T01h30|mmol/L
+14759-5|HGPO : Glucose T02h|mmol/L
+39997-2|HGPO : Glucose T0|g/L
+20439-6|HGPO : Glucose T30min|g/L
+20438-8|HGPO : Glucose T01h|g/L
+20440-4|HGPO : Glucose T01h30|g/L
+20436-2|HGPO : Glucose T02h|g/L
+25666-9|HGPO : Glucose T02h30|mmol/L
+14765-2|HGPO : Glucose T03h|mmol/L
+25669-3|HGPO : Glucose T03h30|mmol/L
+14766-0|HGPO : Glucose T04h|mmol/L
+25672-7|HGPO : Glucose T04h30|mmol/L
+14767-8|HGPO : Glucose T05h|mmol/L
+25676-8|HGPO : Glucose T05h30|mmol/L
+25677-6|HGPO : Glucose T06h|mmol/L
+26554-6|HGPO : Glucose T02h30|g/L
+20437-0|HGPO : Glucose T03h|g/L
+26555-3|HGPO : Glucose T03h30|g/L
+26541-3|HGPO : Glucose T04h|g/L
+26543-9|HGPO : Glucose T05h|g/L
+17856-6|Hémoglobine A1c %|%{Hb}
+4548-4|Hémoglobine A1c %|%{Hb}
+59261-8|Hémoglobine A1c|mmol/mol
+46424-8|Indice d'hémolyse|
+46425-5|Indice lipémique|
+46426-3|Indice ictérique|
+2951-2|Sodium|mmol/L
+2947-0|Sodium Sang total|mmol/L
+2823-3|Potassium|mmol/L
+6298-4|Potassium Sang total|mmol/L
+2075-0|Chlorure|mmol/L
+2069-3|Chlorure Sang total|mmol/L
+1963-8|Bicarbonates|mmol/L
+2028-9|CO2 Total|mmol/L
+33037-3|Trou anionique|mmol/L
+41276-7|Trou anionique Sang total|mmol/L
+1962-0|Bicarbonates plasmatiques|mmol/L
+2885-2|Protéines|g/L
+22664-7|Urée|mmol/L
+3091-6|Urée|g/L
+30525-0|Age du patient|a
+29463-7|Poids du patient|kg
+8302-2|Taille du patient|cm
+8277-6|Surface corporelle|m2
+14682-9|Créatinine|umol/L
+2160-0|Créatinine|mg/L
+62238-1|DFG (CKD-EPI)|mL/min/{1.73_m2}
+50210-4|DFG (CKD-EPI)|mL/min/{1.73_m2}
+33914-3|DFG (MDRD)|mL/min/{1.73_m2}
+77147-7|DFG (MDRD)|mL/min/{1.73_m2}
+35591-7|Clairance à la créatinine  de Cockroft|mL/min
+50380-5|Clairance à la créatinine  de Cockroft|mL/min
+50381-3|Clairance à la créatinine  de Cockroft|mL/min
+2692-2|Osmolalité|mosm/L
+8344-4|Poids corporel après dialyse|kg
+69432-3|Durée de la dialyse|
+74688-3|Sodium après dialyse|mmol/L
+29349-8|Potassium après dialyse|mmol/L
+54369-4|Chlorure après dialyse|mmol/L
+74684-2|CO2 total après dialyse|mmol/L
+54359-5|Bicarbonates après dialyse|mmol/L
+39776-0|Urée après dialyse|mmol/L
+51620-3|Créatinine après dialyse|umol/L
+11041-1|Créatinine après dialyse|mg/L
+59148-7|Calcium après dialyse|mmol/L
+51950-4|Calcium après dialyse|mg/L
+83064-6|Calcium ionisé après filtration|mmol/L
+55972-4|Phosphates après dialyse|mmol/L
+48617-5|Phosphates après dialyse|mg/L
+87708-4|Bêta 2 microglobuline après dialyse|mg/L
+2524-7|Acide lactique|mmol/L
+32693-4|Acide lactique|mmol/L
+32338-6|Acide pyruvique|umol/L
+35867-1|Acétoacétate|umol/L
+72414-6|Acétoacétate AJ|umol/L
+72415-3|Acétoacétate PP|umol/L
+15069-8|Fructosamine|umol/L
+2000-8|Calcium|mmol/L
+29265-6|Calcium corrigé|mmol/L
+17861-6|Calcium|mg/L
+46099-8|Calcium corrigé|mg/L
+14879-1|Phosphates|mmol/L
+2777-1|Phosphates|mg/L
+2601-3|Magnésium|mmol/L
+19123-9|Magnésium|mg/L
+2597-3|Magnésium intra-érythrocytaire|mmol/L
+26746-8|Magnésium intra-érythrocytaire|mg/L
+14933-6|Acide urique|umol/L
+3084-1|Acide urique|mg/L
+1988-5|CRP|mg/L
+30522-7|CRPus|mg/L
+71426-1|CRPus Sang total|mg/L
+33959-8|Procalcitonine (PCT)|ug/L
+3040-3|Lipase|[IU]/L
+1798-8|Amylase|[IU]/L
+1761-6|Aldolase|U/L
+1742-6|ALAT|[IU]/L
+1743-4|ALAT|[IU]/L
+1920-8|ASAT|[IU]/L
+30239-8|ASAT|[IU]/L
+98488-0|Score de fibrose hépatique (FIB-4)|
+88447-8|Interprétation - FIB-4|
+2324-2|Gamma glutamyl transférase (GGT)|[IU]/L
+6768-6|Phosphatases alcalines|[IU]/L
+1777-2|Phosphatase alcaline osseuse|[IU]/L
+17838-4|Phosphatase alcaline osseuse|ug/L
+1690-7|5'-nucléotidase|[IU]/L
+14631-6|Bilirubine|umol/L
+1975-2|Bilirubine|mg/L
+14630-8|Bilirubine libre|umol/L
+1971-1|Bilirubine libre|mg/L
+29760-6|Bilirubine conjuguée|umol/L
+15152-2|Bilirubine conjuguée|mg/L
+1839-0|Ammoniaque|umol/L
+16362-6|Ammoniaque|umol/L
+32664-5|Ammoniaque|mg/L
+22763-7|Ammoniaque|ug/L
+14804-9|LDH|[IU]/L
+14805-6|LDH|[IU]/L
+2532-0|LDH|[IU]/L
+2157-6|Créatine kinase (CK)|[IU]/L
+32673-6|Créatine kinase MB (CKMB)|[IU]/L
+6598-7|Troponine T|pg/mL
+67151-1|Troponine T HS|pg/mL
+89575-5|Troponine T Interprétation|
+10839-9|Troponine I|pg/mL
+89579-7|Troponine I HS|pg/mL
+89578-9|Troponine I Interprétation|
+2639-3|Myoglobine|ug/L
+30934-4|BNP|ng/L
+42637-9|BNP Sang total|ng/L
+33762-6|NT-Pro BNP|ng/L
+71425-3|NT-Pro BNP Sang total|ng/L
+2098-2|Cholinestérases|[IU]/L
+11158-3|Aspect du sérum|
+14647-2|Cholestérol|mmol/L
+14927-8|Triglycérides|mmol/L
+14646-4|Cholestérol HDL|mmol/L
+22748-8|Cholestérol LDL|mmol/L
+39469-2|Cholestérol LDL|mmol/L
+44915-7|Cholestérol LDL/cholestérol HDL|{ratio}
+2093-3|Cholestérol|g/L
+2571-8|Triglycérides|g/L
+2085-9|Cholestérol HDL|g/L
+2089-1|Cholestérol LDL|g/L
+13457-7|Cholestérol LDL|g/L
+11054-4|Cholestérol LDL/cholestérol HDL|{ratio}
+1869-7|Apolipoprotéine AI|g/L
+1884-6|Apolipoprotéine B|g/L
+1874-7|ApoB/ApoA1|{ratio}
+10835-7|Lipoprotéine petit a|g/L
+45300-1|Glycérol|mmol/L
+2387-9|Glycérol|g/L
+32289-1|7-déhydrocholestérol|nmol/L
+14798-3|Fer sérique|umol/L
+14801-5|Coefficient de saturation|%
+14800-7|Capacité de fixation de la transferrine|umol/L
+2498-4|Fer sérique|mg/L
+2502-3|Coefficient de saturation|%
+2500-7|Capacité de fixation de la transferrine|mg/L
+14797-5|Interprétation - Fer|
+3034-6|Transferrine|g/L
+2276-4|Ferritine|ug/L
+14724-9|Interprétation - Ferritine|
+30248-9|Récepteur soluble Transferrine|mg/L
+12949-4|CDT (transferrine désialylée)|mg/L
+48495-6|CDT (transferrine désialylée)|%
+35475-3|Fraction asialo/tétrasialo|{ratio}
+35469-6|Fraction disialo/tétrasialo|{ratio}
+53808-2|CDT Interprétation|
+2465-3|Immunoglobuline G|g/L
+2458-8|Immunoglobuline A|g/L
+2472-9|Immunoglobuline M|g/L
+2466-1|IgG1|g/L
+2467-9|IgG2|g/L
+2468-7|IgG3|g/L
+2469-5|IgG4|g/L
+1751-7|Albumine|g/L
+2685-6|Orosomucoïde|g/L
+4542-7|Haptoglobine|g/L
+14338-8|Préalbumine|mg/L
+2064-4|Céruléoplasmine|g/L
+4532-8|Complément total|[arb'U]/mL
+4485-9|Complément C3|g/L
+4498-2|Complément C4|g/L
+44702-9|Inhibiteur C1q|g/L
+4477-6|Complément C1 estérase inhibiteur|g/L
+10634-4|Complément C1 estérase inhibiteur (%)|%
+87722-5|Complément C1q|g/L
+4478-4|Complément C1q|g/L
+1825-9|Alpha 1 antitrypsine|g/L
+1835-8|Alpha 2 macroglobuline|g/L
+1952-1|Bêta 2 microglobuline|mg/L
+5117-7|Cryoglobulines|
+11043-7|Cryofibrinogène|
+81311-3|Cryoglobulines IgA|
+33650-3|Cryoglobulines IgA|mg/L
+55848-6|Cryoglobulines IgG|
+33649-5|Cryoglobulines IgG|mg/L
+81312-1|Cryoglobulines IgM|
+33651-1|Cryoglobulines IgM|mg/L
+44082-6|Interprétation - Cryoglobulines|
+49260-3|Interprétation - Cryoglobulines|
+13980-8|Albumine %|%
+2862-1|Albumine|g/L
+10834-0|Globuline|g/L
+44429-9|Rapport Albumine/globuline|{ratio}
+13978-2|Alpha-1 globulines %|%
+2865-4|Alpha-1 globulines|g/L
+13981-6|Alpha-2 globulines %|%
+2868-8|Alpha-2 globulines|g/L
+13982-4|Bêta globulines %|%
+2871-2|Bêta globulines|g/L
+32732-0|Bêta-1 globulines %|%
+32730-4|Bêta-1 globulines|g/L
+32733-8|Bêta-2 globulines %|%
+32731-2|Bêta-2 globulines|g/L
+53589-8|Pic Bêta globulines %|%
+53587-2|Pic Bêta globulines|g/L
+13983-2|Gamma globulines %|%
+2874-6|Gamma globulines|g/L
+44914-0|Bloc Bêta-Gamma %|%
+44913-2|Bloc Bêta-Gamma|g/L
+53590-6|Pic Gamma globulines %|%
+53591-4|Pic Gamma globulines|g/L
+56154-8|Fraction anormale|%
+13348-8|Bandes monoclonales|
+33647-9|Immunoglobuline monoclonale %|%
+33358-3|Immunoglobuline monoclonale|g/L
+44932-2|Immunoglobuline monoclonale 2 %|%
+35559-4|Immunoglobuline monoclonale 2|g/L
+50792-1|Immunoglobuline monoclonale 3 %|%
+50796-2|Immunoglobuline monoclonale 3|g/L
+50793-9|Immunoglobuline monoclonale 4 %|%
+50797-0|Immunoglobuline monoclonale 4|g/L
+12851-2|Interprétation - Electrophorèse|
+34641-1|Interprétation - Electrophorèse|
+49296-7|Interprétation - Electrophorèse|
+49298-3|Interprétation - Electrophorèse|
+74665-1|Pic monoclonal|
+74641-2|Pic monoclonal 2|
+74640-4|Pic monoclonal 3|
+44587-4|IgA monoclonale|
+44597-3|IgG monoclonale|
+44601-3|IgM monoclonale|
+14895-7|Interprétation - Immunofixation|
+49297-5|Interprétation - Immunofixation|
+49275-1|Interprétation - Immunofixation|
+36916-5|Chaînes Kappa libres|mg/L
+33944-0|Chaînes Lambda libres|mg/L
+48378-4|Rapport Kappa / Lambda|{ratio}
+24458-2|IL-2 R soluble|pg/mL
+34316-0|Histamine|nmol/L
+12736-5|Hyaluronate|ug/L
+13965-9|Homocystéine|umol/L
+26604-9|Bêta alanine|umol/L
+20636-7|Alanine|umol/L
+26600-7|2-aminoadipate|umol/L
+30060-8|Amino bêta guanidinopropionate|umol/L
+26609-8|Gamma aminobutyrate|umol/L
+26605-6|Bêta aminoisobutyrate|umol/L
+20634-2|2-aminobutyrate|umol/L
+20633-4|1-méthylhistidine|umol/L
+20635-9|3-méthylhistidine|umol/L
+26599-1|Ansérine|umol/L
+20637-5|Arginine|umol/L
+20638-3|Asparagine|umol/L
+20639-1|Aspartate|umol/L
+26606-4|Carnosine|umol/L
+20640-9|Citrulline|umol/L
+26607-2|Cystathionine|umol/L
+22672-0|Cystine|umol/L
+20642-5|Glutamate|umol/L
+20643-3|Glutamine|umol/L
+20644-1|Glycine|umol/L
+20645-8|Histidine|umol/L
+20646-6|Homocystine|umol/L
+26610-6|Hydroxylysine|umol/L
+20647-4|Hydroxyproline|umol/L
+20648-2|Isoleucine|umol/L
+20649-0|Leucine|umol/L
+20650-8|Lysine|umol/L
+20651-6|Méthionine|umol/L
+20652-4|Ornithine|umol/L
+14875-9|Phénylalanine|umol/L
+26612-2|Phosphoéthanolamine|umol/L
+20654-0|Phosphosérine|umol/L
+20655-7|Proline|umol/L
+26613-0|Sarcosine|umol/L
+20656-5|Sérine|umol/L
+20657-3|Taurine|umol/L
+20658-1|Thréonine|umol/L
+20659-9|Tryptophane|umol/L
+20660-7|Tyrosine|umol/L
+20661-5|Valine|umol/L
+13500-4|Acides aminés totaux - interprétation|umol/L
+75152-9|Uracile|nmol/L
+15066-4|Acides gras libres|mmol/L
+35145-2|Acide octanoïque (C8:0)|mmol/L
+35146-0|Acide caprique (C10:0)|mmol/L
+35147-8|Acide décènoïque (C10:1)|mmol/L
+35150-2|Acide laurique (C12:0)|mmol/L
+35151-0|Acide lauroléique (C12:1)|mmol/L
+35157-7|Acide myristique (C14:0)|mmol/L
+35158-5|Acide myristoléique (C14:1)|mmol/L
+35148-6|Acide tétradécadiènoïque (C14:2)|mmol/L
+35161-9|Acide palmitique (C16:0)|mmol/L
+35162-7|Acide palmitoléique (C16:1 n-7)|mmol/L
+35155-1|Acide hexadécènoïque (C16:1 n-9)|mmol/L
+35154-4|Acide hexadécadiénoïque (C16:2)|mmol/L
+35149-4|Acide stéarique (C18:0)|mmol/L
+35166-8|Acide oléique (C18:1 n-9)|mmol/L
+35167-6|Acide vaccénique (C18:1 n-7)|mmol/L
+35165-0|Acide linoléique (C18:2 n-6)|mmol/L
+35164-3|Acide alpha-linolénique (C18:3 n-3)|mmol/L
+35163-5|Acide gamma-linolénique (C18:3 n-6)|mmol/L
+79695-3|Acide octadécatétraénoïque (C18:4 n-3)|mmol/L
+22761-1|Acide pristanique (C15:0)|mmol/L
+22671-2|Acide phytanique (C16:0)|mmol/L
+30550-8|Acide pristanique/Acide phytanique|
+35169-2|Acide arachidate (C20:0)|mmol/L
+79703-5|Acide cis-13-eicosénoïque (C20:1 n-7)|mmol/L
+79699-5|Acide cis-11-eicosénoïque (C20:1 n-9)|mmol/L
+79694-6|Acide eicosadiénoïque (C20:2 n-6)|mmol/L
+35171-8|Acide homogamma linolénique (C20:3 n-6)|mmol/L
+35172-6|Acides gras (C20:3 n-9)|mmol/L
+35168-4|Acide arachidonique (C20:4 n-6)|mmol/L
+35411-8|Acide triénoïque/Acide arachidonique|
+35173-4|Acide eicosapentaénoïque (C20:5 n-3)|mmol/L
+35160-1|Acide docosanoïque (C22:1)|mmol/L
+79698-7|Acide docosadiénoïque (C22:2 n-6)|mmol/L
+35182-5|Acide docosatétraénoïque (C22:4 n-6)|mmol/L
+35180-9|Acide docosapentaénoïque (C22:5 n-3)|mmol/L
+35181-7|Acide docosapentaénoïque (C22:5 n-6)|mmol/L
+35174-2|Acide docosahexaénoïque (C22:6 n-3)|mmol/L
+30194-5|AGTLC (C22:0)|mmol/L
+79701-9|AGTLC (C22:1 n-9)|mmol/L
+35170-0|Acide nervonique (C24:1)|mmol/L
+30195-2|AGTLC (C24:0)|mmol/L
+30197-8|AGTLC (C26:0)|mmol/L
+33036-5|AGTLC (C26:1)|mmol/L
+24461-6|Acides gras totaux|mmol/L
+35175-9|Somme des acides gras saturés|mmol/L
+35176-7|Somme des acides gras mono-insaturés|mmol/L
+35177-5|Somme des acides gras poly-insaturés|mmol/L
+35178-3|Somme w3|mmol/L
+35179-1|Somme w6|mmol/L
+49262-9|Acides gras - Interprétation|
+29763-0|Protoporphyrine zinc|nmol/g
+34417-6|Protoporphyrine zinc|ug/g{Hb}
+2857-1|PSA|ng/mL
+10886-0|PSA libre|ng/mL
+12841-3|PSA libre/PSA totale|%
+72576-2|PSA libre/PSA totale|
+2039-6|ACE|ng/mL
+19176-7|AFP|[IU]/mL
+1834-1|AFP|ng/mL
+41274-2|Interprétation - AFP|
+49246-2|Interprétation - AFP|
+6875-9|Ca 15.3|[arb'U]/mL
+10334-1|Ca 125|[arb'U]/mL
+55180-4|HE4|pmol/L
+69570-0|Score ROMA (Post-ménopause)|
+69569-2|Score ROMA (Pré-ménopause)|
+24108-3|CA 19.9|[arb'U]/mL
+9679-2|SCC|ug/L
+15060-7|NSE|ug/L
+25390-6|Cyfra 21|ug/L
+17843-4|Ca 72-4|kU/L
+34256-8|Ca 50|kU/L
+21198-7|Bêta-hCG|[IU]/L
+20994-0|Interprétation - Bêta HCG|
+19180-9|Bêta-hCG libre|[IU]/L
+25373-2|Bêta-hCG libre|ng/mL
+53959-3|Bêta-hCG|[IU]/L
+20450-3|Alpha foetoprotéine MoM|
+20465-1|hCG MoM|
+32046-5|PAPP|m[IU]/mL
+32123-2|PAPP MoM|
+43995-0|Risque Trisomie 21|
+49586-1|Interprétation - Dépistage Trisomie 21|
+75365-7|Interprétation - Dépistage Trisomie 21|
+9811-1|Chromogranine A|ug/L
+3125-2|VIP|ng/L
+47275-3|Protéine S-100|ug/L
+19184-1|TPA|U/L
+15087-0|PTH rP|pmol/L
+14566-4|1,25 dihydroxy vitamines D|pmol/L
+1649-3|1,25 dihydroxy vitamines D|pg/mL
+68438-1|Vitamines D|nmol/L
+62292-8|Vitamines D|ng/mL
+14635-7|Vitamines D|nmol/L
+1989-3|Vitamines D|ng/mL
+46269-7|Vitamine D2|nmol/L
+49054-0|Vitamine D2|ng/mL
+49591-1|Interprétation - Vitamines D|
+14732-2|Folates|nmol/L
+2284-8|Folates|ug/L
+49264-5|Interprétation - Folates + B12|
+14731-4|Folates érythrocytaires|nmol/L
+2283-0|Folates érythrocytaires|ug/L
+14685-2|Vitamine B12|pmol/L
+2132-9|Vitamine B12|ng/L
+20468-5|Vitamine B1|nmol/L
+49038-3|Vitamine B2|nmol/L
+62236-5|Vitamine B6|nmol/L
+30552-4|Vitamine B6|mg/L
+79344-8|Interprétation - B6|
+34398-8|Vitamine B8|umol/L
+14905-4|Vitamine A|umol/L
+2923-1|Vitamine A|mg/L
+14622-5|Vitamine C|umol/L
+29747-3|Vitamine E|umol/L
+47791-9|Vitamine E|mg/L
+49245-4|Interprétation - Vit E|
+34342-6|Vitamine PP (B3)|umol/L
+1992-7|Calcitonine|ng/L
+3013-0|Thyroglobuline|ug/L
+15061-5|Erythropoïétine (EPO)|[IU]/L
+2697-1|Ostéocalcine|ng/mL
+41171-0|Crosslaps|ng/mL
+53092-3|Crosslaps|pmol/L
+47255-5|P1NP|ng/mL
+14852-8|Noradrénaline|nmol/L
+2666-6|Noradrénaline|pg/mL
+14711-6|Adrénaline|nmol/L
+2230-1|Adrénaline|pg/mL
+14703-3|Dopamine|nmol/L
+2216-0|Dopamine|pg/mL
+14910-4|Sérotonine|umol/L
+27057-9|Sérotonine|ug/L
+25474-8|Métanéphrines|nmol/L
+32167-9|Clarté|
+50560-2|Ph urinaire|[pH]
+5803-2|Ph urinaire|[pH]
+5794-3|Recherche de sang dans les urines|
+25428-4|Recherche de Glucose urinaire|
+5792-7|Glucose urinaire|g/L
+20454-5|Recherche de Protéines urinaires|
+5804-0|Protéines urinaires|g/L
+2514-8|Recherche de Corps cétoniques urinaires|
+5797-6|Corps cétoniques urinaires|mg/L
+5770-3|Recherche de bilirubine urinaire|
+20505-4|Bilirubine urinaire|mg/L
+5818-0|Recherche d'urobilinogène|
+20405-7|Urobilinogène|mg/L
+5799-2|Leucocytes estérases|
+20408-1|Leucocyturie|/mL
+5802-4|Nitrites urinaires|
+3167-4|Volume des urines de 24h|mL
+2955-3|Sodium urinaire|mmol/L
+2828-2|Potassium urinaire|mmol/L
+2078-4|Chlorure urinaire|mmol/L
+2956-1|Sodium urinaire /24h|mmol/(24.h)
+2829-0|Potassium urinaire /24h|mmol/(24.h)
+2079-2|Chlorure urinaire /24h|mmol/(24.h)
+19096-7|Interprétation - Ionogramme urinaire|
+14683-7|Créatinine urinaire|mmol/L
+14684-5|Créatinine urinaire /24h|mmol/(24.h)
+2161-8|Créatinine urinaire|mg/L
+2162-6|Créatinine urinaire /24h|mg/(24.h)
+13362-9|Temps de recueil|h
+2164-2|Clairance à la créatinine|mL/min
+33558-8|Clairance à la créatinine|mL/min
+12195-4|Clairance à la créatinine corrigée|mL/min/{1.73_m2}
+22700-9|Urée urinaire|mmol/L
+3092-4|Urée urinaire|g/L
+25550-5|Urée urinaire /24h|mmol/(24.h)
+48999-7|Urée urinaire /24h|g/(24.h)
+14934-4|Acide urique urinaire|mmol/L
+3086-6|Acide urique urinaire|mg/L
+14935-1|Acide urique urinaire /24h|mmol/(24.h)
+3087-4|Acide urique urinaire /24h|mg/(24.h)
+15076-3|Glucose urinaire|mmol/L
+2350-7|Glucose urinaire|g/L
+2888-6|Protéines urinaires|g/L
+34366-5|Protéines urinaires/créatinine|g/mmol
+2890-2|Protéines urinaires/créatinine|g/g{creat}
+15077-1|Glucose urinaire /24h|mmol/(24.h)
+2351-5|Glucose urinaire /24h|g/(24.h)
+2889-4|Protéines urinaires /24h|g/(24.h)
+21028-6|Interprétation - Protéines urinaires|
+1754-1|Albumine urinaire|mg/L
+32294-1|Albumine urinaire/créatinine|mg/mmol{creat}
+1755-8|Albumine urinaire /24h|mg/(24.h)
+14957-5|Microalbuminurie|mg/L
+14956-7|Microalbuminurie /24h|mg/(24.h)
+14959-1|Microalbuminurie/créatinine|mg/mg{creat}
+30000-4|Microalbuminurie/créatinine|mg/mmol{creat}
+14958-3|Microalbuminurie/créatinine par 24h|mg/mg{creat}
+30003-8|Microalbuminurie /24h|mg/L
+1953-9|Bêta 2 microglobuline urinaire|mg/L
+13485-8|Bêta 2 microglobuline urinaire/créatinine|mg/mg{creat}
+10873-8|Bêta 2 microglobuline urinaire /24h|mg/(24.h)
+46723-3|Alpha-1-microglobuline urinaire|mg/L
+48415-4|Alpha-1-microglobuline urinaire/créatinine|mg/mg{creat}
+48414-7|Alpha-1-microglobuline urinaire /24h|mg/(24.h)
+6942-7|Albumine|g/L
+13992-3|Albumine urinaire %|%
+49047-4|Globulines|g/L
+9734-5|Alpha-1 globulines|g/L
+13990-7|Alpha-1 globulines %|%
+38190-5|Alpha-2 globulines|g/L
+13993-1|Alpha-2 globulines %|%
+9744-4|Bêta globulines|g/L
+13994-9|Bêta globulines %|%
+54353-8|Bêta-1 globulines|g/L
+32736-1|Bêta-1 globulines %|%
+54354-6|Bêta-2 globulines|g/L
+32737-9|Bêta-2 globulines %|%
+9745-1|Gamma globulines|g/L
+13995-6|Gamma globulines %|%
+13438-7|Interprétation Electrophorèse|
+49299-1|Commentaire Electrophorèse|
+55900-5|Recherche Protéine Bence Jones|
+44604-7|Chaines légères libres kappa|
+56481-5|Chaines légères libres lambda|
+14795-9|Interprétation Protéine Bence Jones|
+2004-0|Calcium urinaire|mmol/L
+24518-3|Calcium/créatinine Ur|mmol/mmol{creat}
+17862-4|Calcium urinaire|mg/L
+9321-1|Calcium/créatinine Ur|mg/mg{creat}
+14637-3|Calcium urinaire /24h|mmol/(24.h)
+6874-2|Calcium urinaire /24h|mg/(24.h)
+13539-2|Phosphates urinaires|mmol/L
+34354-1|Phosphates/créatinine Ur|mmol/mmol{creat}
+2778-9|Phosphates urinaires|mg/L
+11141-9|Phosphates/créatinine Ur|mg/mg{creat}
+14881-7|Phosphates urinaires /24h|mmol/(24.h)
+2779-7|Phosphates urinaires /24h|mg/(24.h)
+2776-3|Clairance des phosphates|mL/min
+56925-1|TRP|%
+50058-7|TRP|%
+50057-9|Taux de réabsorption tubulaire des phosphates|{ratio}
+2598-1|Magnésium urinaire|mmol/L
+19124-7|Magnésium urinaire|mg/L
+2599-9|Magnésium urinaire /24h|mmol/(24.h)
+24447-5|Magnésium urinaire /24h|mg/(24.h)
+48586-2|Crosslaps urinaire|ug/L
+48587-0|Crosslaps urinaire/créatinine|ug/mmol{creat}
+53052-7|Crosslaps urinaire /24h|ug/(24.h)
+27296-3|Arginine urinaire|umol/L
+22697-7|Arginine/créatinine|umol/mmol{creat}
+25322-9|Arginine urinaire /24h|umol/(24.h)
+27056-1|Citrulline urinaire|umol/L
+22694-4|Citrulline/créatinine|umol/mmol{creat}
+25376-5|Citrulline urinaire /24h|umol/(24.h)
+34266-7|Citrate urinaire|umol/L
+29527-9|Citrate urinaire/créatinine|umol/mmol{creat}
+14650-6|Citrate urinaire /24h|umol/(24.h)
+15086-2|Oxalate urinaire|mmol/L
+14862-7|Oxalate urinaire /24h|mmol/(24.h)
+30563-1|Taurine|umol/L
+25138-9|Taurine/créatinine|umol/mmol{creat}
+33876-4|Sulfocystéine/créatinine|umol/mmol{creat}
+26680-9|Aspartate|umol/L
+22691-0|Aspartate/créatinine|umol/mmol{creat}
+26740-1|Hydroxyproline|umol/L
+25110-8|Hydroxyproline/créatinine|umol/mmol{creat}
+27322-7|Thréonine|umol/L
+22688-6|Thréonine/créatinine|umol/mmol{creat}
+26741-9|Sérine|umol/L
+22684-5|Sérine/créatinine|umol/mmol{creat}
+27317-7|Asparagine|umol/L
+26577-7|Asparagine/créatinine|umol/mmol{creat}
+30348-7|Glutamate|umol/L
+22711-6|Glutamate/créatinine|umol/mmol{creat}
+27043-9|Glutamine|umol/L
+22710-8|Glutamine/créatinine|umol/mmol{creat}
+26726-0|Proline|umol/L
+22690-2|Proline/créatinine|umol/mmol{creat}
+27325-0|Glycine|umol/L
+22709-0|Glycine/créatinine|umol/mmol{creat}
+27326-8|Alanine|umol/L
+22698-5|Alanine/créatinine|umol/mmol{creat}
+26961-3|Valine|umol/L
+22692-8|Valine/créatinine|umol/mmol{creat}
+50054-6|Hémicystine/créatinine|umol/mmol{creat}
+26963-9|Méthionine|umol/L
+22681-1|Méthionine/créatinine|umol/mmol{creat}
+26965-4|Isoleucine|umol/L
+22706-6|Isoleucine/créatinine|umol/mmol{creat}
+27323-5|Leucine|umol/L
+22693-6|Leucine/créatinine|umol/mmol{creat}
+26966-2|Tyrosine|umol/L
+22685-2|Tyrosine/créatinine|umol/mmol{creat}
+74484-7|Argininosuccinate|umol/L
+29878-6|Argininosuccinate/créatinine|umol/mmol{creat}
+26967-0|Phénylalanine|umol/L
+18475-4|Phénylalanine/créatinine|umol/mmol{creat}
+27341-7|2-aminobutyrate|umol/L
+26919-1|2-aminobutyrate/créatinine|umol/mmol{creat}
+79623-5|2-aminoisobutyrate/créatinine|umol/mmol{creat}
+27911-7|Gamma aminobutyrate|umol/L
+26581-9|Gamma aminobutyrate/créatinine|umol/mmol{creat}
+32020-0|Homocystéine|umol/L
+26582-7|Homocystéine/créatinine|umol/mmol{creat}
+26999-3|Homocystine|umol/L
+22707-4|Homocystine/créatinine|umol/mmol{creat}
+27292-2|Ornithine|umol/L
+22682-9|Ornithine/créatinine|umol/mmol{creat}
+27044-7|1-méthylhistidine|umol/L
+26574-4|1-méthylhistidine/créatinine|umol/mmol{creat}
+27904-2|Histidine|umol/L
+22703-3|Histidine/créatinine|umol/mmol{creat}
+27304-5|Lysine|umol/L
+22679-5|Lysine/créatinine|umol/mmol{creat}
+27046-2|3-méthylhistidine|umol/L
+26575-1|3-méthylhistidine/créatinine|umol/mmol{creat}
+27291-4|Hydroxylysine|umol/L
+25109-0|Hydroxylysine/créatinine|umol/mmol{creat}
+47727-3|Pipécolate/créatinine|umol/mmol{creat}
+26968-8|Bêta alanine|umol/L
+26578-5|Bêta alanine/créatinine|umol/mmol{creat}
+27294-8|Carnosine|umol/L
+26580-1|Carnosine/créatinine|umol/mmol{creat}
+26964-7|Cystathionine|umol/L
+25092-8|Cystathionine/créatinine|umol/mmol{creat}
+34300-4|Éthanolamine|umol/L
+25098-5|Éthanolamine/créatinine|umol/mmol{creat}
+25502-6|Phosphoéthanolamine|umol/L
+25122-3|Phosphoéthanolamine/créatinine|umol/mmol{creat}
+34384-8|Tryptophane|umol/L
+25139-7|Tryptophane/créatinine|umol/mmol{creat}
+26724-5|Sarcosine|umol/L
+25133-0|Sarcosine/créatinine|umol/mmol{creat}
+27254-2|Amino bêta guanidinopropionate/créatinine|umol/mmol{creat}
+27047-0|Ansérine|umol/L
+26576-9|Ansérine/créatinine|umol/mmol{creat}
+25086-0|Bêta aminoisobutyrate/créatinine|umol/mmol{creat}
+26601-5|2-aminoadipate/créatinine|umol/mmol{creat}
+80894-9|2-méthyltyrosine/créatinine|umol/mmol{creat}
+26962-1|Cystine|umol/L
+22687-8|Cystine/créatinine|umol/mmol{creat}
+26738-5|Phosphosérine|umol/L
+25128-0|Phosphosérine/créatinine|umol/mmol{creat}
+12177-2|Acides aminés/créatinine|umol/mmol{creat}
+49248-8|Interprétation - Acides aminés|
+32296-6|Interprétation - Acides aminés|
+29507-1|2-cétoglutarate/créatinine|umol/mmol{creat}
+29523-8|2-éthyl,3-hydroxypropionate/créatinine|umol/mmol{creat}
+47808-1|2-éthylhydracrylate/créatinine|umol/mmol{creat}
+29505-5|2-hydroxy-3-méthylvalérate/créatinine|umol/mmol{creat}
+29500-6|2-hydroxyadipate/créatinine|umol/mmol{creat}
+29858-8|2-hydroxybutyrate/créatinine|umol/mmol{creat}
+29502-2|2-hydroxyglutarate/créatinine|umol/mmol{creat}
+29503-0|2-hydroxyisocaproate/créatinine|umol/mmol{creat}
+29504-8|2-hydroxyisovalérate/créatinine|umol/mmol{creat}
+25082-9|2-méthyl-3-hydroxybutyrate/créatinine|umol/mmol{creat}
+25114-0|2-méthylcitrate/créatinine|umol/mmol{creat}
+25117-3|2-méthylsuccinate/créatinine|umol/mmol{creat}
+25083-7|2-oxo-3-méthylvalérate/créatinine|umol/mmol{creat}
+29506-3|2-oxoadipate/créatinine|umol/mmol{creat}
+25084-5|2-oxoisocaproate/créatinine|umol/mmol{creat}
+25085-2|2-oxoisovalérate/créatinine|umol/mmol{creat}
+26583-5|3-hydroxy-3-méthylglutarate/créatinine|umol/mmol{creat}
+29508-9|3-hydroxyadipate/créatinine|umol/mmol{creat}
+29510-5|3-hydroxyglutarate/créatinine|umol/mmol{creat}
+29511-3|3-hydroxyisobutyrate/créatinine|umol/mmol{creat}
+29514-7|3-hydroxyisovalérate/créatinine|umol/mmol{creat}
+29515-4|3-hydroxypropionate/créatinine|umol/mmol{creat}
+29516-2|3-hydroxyvalérate/créatinine|umol/mmol{creat}
+24436-8|3-méthylcrotonylglycine/créatinine|umol/mmol{creat}
+25087-8|3-méthylglutaconate/créatinine|umol/mmol{creat}
+29518-8|3-méthylglutarate/créatinine|umol/mmol{creat}
+25125-6|3-phényllactate/créatinine|umol/mmol{creat}
+25126-4|3-phénylpyruvate/créatinine|umol/mmol{creat}
+25088-6|4-hydroxyphénylacétate/créatinine|umol/mmol{creat}
+25089-4|4-hydroxyphényllactate/créatinine|umol/mmol{creat}
+29519-6|4-hydroxyphénylpyruvate/créatinine|umol/mmol{creat}
+29521-2|5-hydroxyhexanoate/créatinine|umol/mmol{creat}
+29524-6|Acétoacétate/créatinine|umol/mmol{creat}
+25119-9|Acétyltyrosine/créatinine|umol/mmol{creat}
+29525-3|Aconitate/créatinine|umol/mmol{creat}
+29859-6|Adipate/créatinine|umol/mmol{creat}
+29526-1|Azélate/créatinine|umol/mmol{creat}
+25090-2|Benzoate/créatinine|umol/mmol{creat}
+29509-7|Bêta hydroxybutyrate/créatinine|umol/mmol{creat}
+25093-6|Décadiènedioate/créatinine|umol/mmol{creat}
+25094-4|Décènedioate/créatinine|umol/mmol{creat}
+25097-7|Dodécanedioate/créatinine|umol/mmol{creat}
+25099-3|Éthylmalonate/créatinine|umol/mmol{creat}
+25101-7|Fumarate/créatinine|umol/mmol{creat}
+25103-3|Glutaconate/créatinine|umol/mmol{creat}
+25104-1|Glutarate/créatinine|umol/mmol{creat}
+25105-8|Glycérate/créatinine|umol/mmol{creat}
+25106-6|Glycolate/créatinine|umol/mmol{creat}
+25107-4|Glyoxylate/créatinine|umol/mmol{creat}
+24438-4|Hexanoylglycine/créatinine|umol/mmol{creat}
+29528-7|Hippurate/créatinine|umol/mmol{creat}
+25108-2|Hydroxydécanedioate/créatinine|umol/mmol{creat}
+25111-6|Isocitrate/créatinine|umol/mmol{creat}
+24440-0|Isovalérylglycine/créatinine|umol/mmol{creat}
+25112-4|Lactates/créatinine|umol/mmol{creat}
+25113-2|Malate/créatinine|umol/mmol{creat}
+25116-5|Méthylmalonate/créatinine|umol/mmol{creat}
+25118-1|Mévalonate/créatinine|umol/mmol{creat}
+25120-7|Octanoate/créatinine|umol/mmol{creat}
+25121-5|Octènedioate/créatinine|umol/mmol{creat}
+17869-9|Orotate/créatinine|umol/mmol{creat}
+25124-9|Phénylacétate/créatinine|umol/mmol{creat}
+24441-8|Phénylpropionylglycine/créatinine|umol/mmol{creat}
+24442-6|Propionylglycine/créatinine|umol/mmol{creat}
+29522-0|Pyroglutamate/créatinine|umol/mmol{creat}
+25132-2|Pyruvate/créatinine|umol/mmol{creat}
+25134-8|Sébacate/créatinine|umol/mmol{creat}
+25135-5|Subérate/créatinine|umol/mmol{creat}
+24443-4|Subérylglycine/créatinine|umol/mmol{creat}
+25136-3|Succinate/créatinine|umol/mmol{creat}
+25137-1|Succinylacétone/créatinine|umol/mmol{creat}
+24444-2|Tiglylglycine/créatinine|umol/mmol{creat}
+25140-5|Uracile/créatinine|umol/mmol{creat}
+33477-1|Acides organiques  - Interprétation|
+49287-6|Acides organiques  - Commentaire|
+1799-6|Amylasurie|U/L
+1800-2|Amylasurie /24h|U/(24.h)
+5782-8|Identification de cristaux|
+5771-1|Cristaux de bilirubine|
+5773-7|Cristaux de carbonate de calcium|
+5777-8|Cristaux de cholestérol|
+5784-4|Cristaux de cystine|
+5798-4|Cristaux de leucine|
+5817-2|Cristaux d'acide urique|
+12454-5|Cristaux d'urate amorphe|
+5766-1|Cristaux d'urate d'ammonium|
+53788-6|Cristaux d'urate de sodium|
+5774-5|Cristaux d'oxalate de calcium|
+5795-0|Cristaux d'hippurate|
+12512-0|Cristaux d'hydrogénophosphate de calcium|
+12453-7|Cristaux de phosphate amorphe|
+5775-2|Cristaux de phosphate de calcium|
+5814-9|Cristaux phospho-ammoniaco-magnésiens|
+5776-0|Cristaux de sulfate de calcium|
+5815-6|Cristaux de tyrosine|
+5783-6|Cristaux non identifié|
+51483-6|Cylindres|/mL
+25160-3|Cylindres granuleux|
+25162-9|Cylindres hyalins|
+33804-6|Cylindres hématiques|
+33825-1|Cylindres leucocytaires|
+34261-8|Catécholamines urinaires|nmol/L
+34262-6|Catécholamines urinaires/créatinine|nmol/mmol
+2057-8|Catécholamines urinaires|ug/L
+15036-7|Catécholamines urinaires /24h|nmol/(24.h)
+2058-6|Catécholamines urinaires /24h|ug/(24.h)
+15058-1|Dopamine|nmol/L
+15059-9|Dopamine /24h|nmol/(24.h)
+24524-1|Dopamine/créatinine|nmol/L/mmol{creat}
+24521-7|Adrénaline urinaire|nmol/L
+14712-4|Adrénaline /24h|nmol/(24.h)
+24522-5|Adrénaline/créatinine|nmol/L/mmol{creat}
+14853-6|Noradrénaline urinaire|nmol/L
+14854-4|Noradrénaline urinaire /24h|nmol/(24.h)
+24523-3|Noradrénaline/créatinine|nmol/mg{creat}
+2217-8|Dopamine|ug/L
+2218-6|Dopamine /24h|ug/(24.h)
+13733-1|Dopamine/créatinine|ug/g{creat}
+11046-0|Adrénaline urinaire|ug/L
+2232-7|Adrénaline /24h|ug/(24.h)
+13734-9|Adrénaline urinaire/créatinine|ug/g{creat}
+2667-4|Noradrénaline urinaire|ug/L
+2668-2|Noradrénaline urinaire /24h|ug/(24.h)
+13782-8|Noradrénaline urinaire/créatinine|ug/g{creat}
+49256-1|Interprétation - Catécholamines|
+14832-0|Métanéphrines urinaires|nmol/L
+2608-8|Métanéphrines urinaires|ug/L
+14833-8|Métanéphrines urinaires /24h|nmol/(24.h)
+27978-6|Métanéphrines urinaires/créatinine|nmol/L/mmol{creat}
+2609-6|Métanéphrines urinaires /24h|ug/(24.h)
+32655-3|Métanéphrines urinaires/créatinine|ug/g{creat}
+34347-5|Normétanéphrines urinaires|nmol/L
+15083-9|Normétanéphrines urinaires /24h|nmol/(24.h)
+44924-9|Normétanéphrines urinaires/créatinine|nmol/mmol
+48380-0|3 méthoxy tyramine urinaire|nmol/L
+40409-5|3 méthoxy tyramine urinaire /24h|nmol/L
+48381-8|3 méthoxy tyramine urinaire/créatinine|nmol/L
+49283-5|Interprétation - Métanéphrines|
+17003-5|Sérotonine urinaire|ug/L
+34373-1|Sérotonine urinaire|nmol/L
+32339-4|Sérotonine /24h|nmol/(24.h)
+18253-5|Sérotonine /24h|ug/(24.h)
+15009-4|5HIAA|umol/L
+1694-9|5HIAA|mg/L
+14573-0|5HIAA /24h|umol/(24.h)
+29520-4|5HIAA/créatinine|umol/mmol{creat}
+11145-0|5HIAA/créatinine|mg/mg{creat}
+1695-6|5HIAA /24h|mg/(24.h)
+44909-0|Interprétation - 5HIAA|
+14782-7|HVA|umol/L
+14783-5|HVA /24h|umol/(24.h)
+22708-2|HVA/créatinine|umol/mmol{creat}
+11144-3|HVA|mg/L
+2436-4|HVA /24h|mg/(24.h)
+11146-8|HVA/créatinine|mg/mg{creat}
+15097-9|VMA|umol/L
+14947-6|VMA /24h|umol/(24.h)
+14948-4|VMA/créatinine|umol/mmol{creat}
+9624-8|VMA|mg/L
+3122-9|VMA /24h|mg/(24.h)
+3124-5|VMA/créatinine|mg/mg{creat}
+44908-2|Interprétation - HVA|
+49269-4|Interprétation - HVA|
+50948-9|Interprétation - VMA|
+12246-5|Porphyrines|
+39771-1|Porphyrines|nmol/L
+57378-2|Porphyrines/créatinine|nmol/mmol
+40396-4|Porphyrines /24h|nmol/(24.h)
+34284-0|Delta aminolévulinate|umol/L
+39782-8|Delta aminolévulinate/créatinine|umol/mmol{creat}
+14689-4|Delta aminolévulinate /24h|umol/(24.h)
+2811-8|Porphobilinogène|umol/L
+34357-4|Porphobilinogène/créatinine|umol/mmol{creat}
+14882-5|Porphobilinogène /24h|umol/(24.h)
+25166-0|Uroporphyrine|nmol/L
+45319-1|Uroporphyrine/créatinine|nmol/mmol
+15096-1|Uroporphyrine /24h|nmol/(24.h)
+25167-8|Coproporphyrine|nmol/L
+48395-8|Coproporphyrine/créatinine|nmol/mmol
+15041-7|Coproporphyrine /24h|nmol/(24.h)
+50932-3|Uroporphyrine %|%
+51417-4|Coproporphyrine %|%
+14670-4|Coproporphyrine 1 %|%
+49291-8|Porphyrines urinaires - Interprétation|
+34253-5|Peptide C|nmol/L
+25358-3|Peptide C /24h|nmol/(24.h)
+1987-7|Peptide C|ug/L
+27944-8|Peptide C /24h|ug/(24.h)
+14744-7|Glucose LCR|mmol/L
+2342-4|Glucose LCR|g/L
+2880-3|Protéines LCR|g/L
+1746-7|Albumine LCR|mg/L
+2464-6|IgG (LCR)|mg/L
+2470-3|IgG/albumine (LCR)|
+2861-3|Albumine|mg/L
+14433-7|Albumine/globulines|
+13974-1|Albumine %|%
+2864-7|Alpha-1 globulines|mg/L
+13972-5|Alpha-1 globulines %|%
+2867-0|Alpha-2 globulines|mg/L
+13975-8|Alpha-2 globulines %|%
+2870-4|Bêta globulines|mg/L
+13976-6|Bêta globulines %|%
+55914-6|Bêta-1 globulines|mg/L
+32728-8|Bêta-1 globulines %|%
+55915-3|Bêta-2 globulines|mg/L
+32729-6|Bêta-2 globulines %|%
+2873-8|Gamma globulines|mg/L
+13977-4|Gamma globulines %|%
+2876-1|Préalbumine|mg/L
+13973-3|Préalbumine %|%
+13439-5|Protéines électrophorèse - Interprétation|
+12782-9|Protéines fractions oligoclonales|
+49293-4|Protéines fractions oligoclonales - Commentaire|
+1833-3|AFP LCR|ug/L
+59564-5|AFP LCR|[IU]/mL
+2520-5|Lactates LCR|mmol/L
+14122-6|Pyruvate LCR|mmol/L
+54309-0|Lactates/Pyruvate LCR|
+12480-0|Enzyme de conversion (LCR)|[IU]/L
+60023-9|LDH dans le LCR|[IU]/L
+60024-7|LDH dans le LCR|[IU]/L
+26589-2|Bêta alanine|umol/L
+22657-1|Alanine|umol/L
+22658-9|Alloisoleucine|umol/L
+27337-5|Amino bêta guanidinopropionate|umol/L
+26594-2|Gamma aminobutyrate|umol/L
+26590-0|Bêta aminoisobutyrate|umol/L
+26586-8|2-aminobutyrate|umol/L
+26588-4|Ansérine|umol/L
+22656-3|Arginine|umol/L
+40838-5|Argininosuccinate|umol/L
+26603-1|Asparagine|umol/L
+22655-5|Aspartate|umol/L
+94713-5|Aspartylglycosamine|umol/L
+26591-8|Carnosine|umol/L
+22654-8|Citrulline|umol/L
+26592-6|Cystathionine|umol/L
+22653-0|Cystine|umol/L
+26593-4|Ethanolamine|umol/L
+22652-2|Glutamate|umol/L
+22641-5|Glutamine|umol/L
+22650-6|Glycine|umol/L
+9453-2|Histidine|umol/L
+55875-9|Homocitrulline|umol/L
+49727-1|Homocystéine|umol/L
+22660-5|Homocystine|umol/L
+26595-9|Hydroxylysine|umol/L
+26596-7|Hydroxyproline|umol/L
+22659-7|Isoleucine|umol/L
+9412-8|Leucine|umol/L
+22651-4|Lysine|umol/L
+22648-0|Méthionine|umol/L
+26584-3|1-méthylhistidine|umol/L
+26585-0|3-méthylhistidine|umol/L
+22647-2|Ornithine|umol/L
+22646-4|Phénylalanine|umol/L
+26597-5|Phosphoéthanolamine|umol/L
+26737-7|Phosphosérine|umol/L
+22645-6|Proline|umol/L
+81781-7|Saccharopine|umol/L
+26598-3|Sarcosine|umol/L
+22644-9|Sérine|umol/L
+54336-3|Sulfocystéine|umol/L
+26614-8|Taurine|umol/L
+22643-1|Thréonine|umol/L
+26602-3|Tryptophane|umol/L
+22642-3|Tyrosine|umol/L
+22649-8|Valine|umol/L
+49303-1|Acides aminés - Interprétation|
+14725-6|Origine du liquide de ponction|
+44910-8|AFP - liquide de ponction|ng/mL
+12515-3|ACE - Liquide de ponction|ng/mL
+11210-2|Ca 125 - Liquide de ponction|[arb'U]/mL
+29153-4|Ca 15.3 - Liquide de ponction|[arb'U]/mL
+26924-1|Ca 19.9 - Liquide de ponction|[arb'U]/mL
+25386-4|Créatinine - Liquide de ponction|umol/L
+2821-7|Potassium - Liquide de ponction|mmol/L
+14745-4|Glucose - Liquide de ponction|mmol/L
+15212-4|Lipase - Liquide de ponction|[IU]/L
+2881-1|Protéines - Liquide de ponction|g/L
+25549-7|Urée - Liquide de ponction|mmol/L
+51706-0|Acide hyaluronique|ug/L
+55858-5|Estradiol sur liquide|pmol/L
+25907-7|Elastase fécale|ug/g
+38445-3|Calprotectine fécale|ug/g
+9407-8|Alpha 1 antitrypsine fécale|g/L
+29771-3|Recherche de sang dans les selles|
+19080-1|hCG|[IU]/L
+11580-8|TSH|m[IU]/L
+3016-3|TSH|m[IU]/L
+14920-3|T4 libre|pmol/L
+3024-7|T4 libre|pg/mL
+14928-6|T3 libre|pmol/L
+3051-0|T3 libre|pg/mL
+27980-2|TBG|nmol/L
+3021-3|TBG|mg/L
+14796-7|Insuline|pmol/L
+20448-7|Insuline|m[IU]/L
+59179-2|Insuline à jeun|pmol/L
+27873-9|Insuline à jeun|m[IU]/L
+93727-6|Insuline post-prandial|pmol/L
+47862-8|Insuline post-prandial|m[IU]/L
+14633-2|Peptide C|nmol/L
+1986-9|Peptide C|ug/L
+42180-0|Peptide C à jeun|nmol/L
+13037-7|Peptide C à jeun|ug/L
+55919-5|Peptide C post-prandial|nmol/L
+55918-7|Peptide C post-prandial|ug/L
+15072-2|Gastrine|pmol/L
+2333-3|Gastrine|ng/L
+14674-6|ACTH|pmol/L
+2141-0|ACTH|pg/mL
+58615-6|ACTH 8h|pmol/L
+48096-2|ACTH 8h|pg/mL
+58543-0|ACTH 12h|pmol/L
+58604-0|ACTH 16h|pmol/L
+48095-4|ACTH 16h|pg/mL
+58616-4|ACTH 20h|pmol/L
+58542-2|ACTH 24h|pmol/L
+58603-2|ACTH 4h|pmol/L
+14675-3|Cortisol|nmol/L
+2143-6|Cortisol|ng/mL
+45050-2|Cortisol 8h|nmol/L
+48104-4|Cortisol 8h|ng/mL
+45048-6|Cortisol 12h|nmol/L
+48099-6|Cortisol 12h|ng/mL
+45049-4|Cortisol 16h|nmol/L
+21226-6|Cortisol 16h|ng/mL
+45051-0|Cortisol 20h|nmol/L
+48105-1|Cortisol 20h|ng/mL
+45047-8|Cortisol 24h|nmol/L
+48098-8|Cortisol 24h|ng/mL
+48103-6|Cortisol 4h|nmol/L
+48102-8|Cortisol 4h|ng/mL
+51844-9|Cortisol salivaire|nmol/L
+58675-0|Cortisol salivaire 8h|nmol/L
+58674-3|Cortisol salivaire 8h|ug/L
+58669-3|Cortisol salivaire 16h|nmol/L
+58668-5|Cortisol salivaire 16h|ug/L
+30173-9|Cortisol libre|nmol/L
+14676-1|Cortisol libre /24h|nmol/(24.h)
+11040-3|Cortisol libre|ug/L
+33346-8|Cortisol libre|ug/L
+2147-7|Cortisol libre /24h|ug/(24.h)
+3033-8|CBG|mg/L
+15067-2|FSH|[IU]/L
+27203-9|FSH urinaire|[IU]/L
+15068-0|FSH urinaire /24h|[IU]/(24.h)
+10501-5|LH|[IU]/L
+29156-7|LH urinaire|[IU]/L
+15080-5|LH urinaire /24h|[IU]/(24.h)
+2842-3|Prolactine|ng/mL
+15081-3|Prolactine|m[IU]/L
+38926-2|Macroprolactine|ng/mL
+74953-1|Macroprolactine|m[IU]/L
+51441-4|Macroprolactine %|%
+78984-2|Macroprolactine %|%
+42607-2|Prolactine little|ng/mL
+78994-1|Prolactine little|m[IU]/L
+50366-4|Prolactine little %|%
+78995-8|Prolactine little %|%
+78985-9|Big-Big Prolactine|m[IU]/L
+78986-7|Big-Big Prolactine %|%
+79398-4|Prolactine - Interprétation|
+14715-7|Estradiol|pmol/L
+2243-4|Estradiol|pg/mL
+22663-9|Estrone|pmol/L
+2258-2|Estrone|pg/mL
+14890-8|Progestérone|nmol/L
+2839-9|Progestérone|ng/mL
+14569-8|17-hydroxyprogestérone|nmol/L
+1668-3|17-hydroxyprogestérone|ng/mL
+72490-6|17-hydroxyprogestérone salivaire|nmol/L
+12728-2|Sous-unité alpha|[IU]/L
+25316-1|17-hydroxyprégnénolone|nmol/L
+6765-2|17-hydroxyprégnénolone|ng/mL
+48377-6|AMH|pmol/L
+38476-8|AMH|ng/mL
+14603-5|Delta-4-Androstènedione|nmol/L
+1854-9|Delta-4-Androstènedione|ng/mL
+15008-6|Androstanediol glucuronide|nmol/L
+14567-2|11-déoxycortisol|nmol/L
+1657-6|11-déoxycortisol|ng/mL
+57500-1|11-déoxycortisol avant métopirone|nmol/L
+57502-7|11-déoxycortisol J01 après métopirone|nmol/L
+50250-0|21-déoxycortisol|nmol/L
+74872-3|21-déoxycortisol|ng/mL
+25382-3|Cortisone|nmol/L
+14159-8|Cortisone|ug/L
+73881-5|Cortisone urinaire|umol/L
+71894-0|Cortisone urinaire /24h|umol/(24.h)
+25381-5|Corticostérone|nmol/L
+2139-4|Corticostérone|ug/L
+15054-0|DHEA|nmol/L
+2193-1|DHEA|ng/mL
+14688-6|SDHEA|nmol/L
+2191-5|SDHEA|ng/mL
+14913-8|Testostérone|nmol/L
+2986-8|Testostérone|ng/mL
+14914-6|Testostérone libre|pmol/L
+2991-8|Testostérone libre|pg/mL
+15057-3|Dihydrotestostérone (DHT)|nmol/L
+1848-1|Dihydrotestostérone (DHT)|ng/mL
+13967-5|TEBG|nmol/L
+2942-1|TEBG|ng/mL
+29775-4|IGF-1|nmol/L
+32023-4|IGF-1|ng/mL
+2484-4|IGF-1|ng/mL
+33808-7|IGBP 3|nmol/L
+2483-6|IGBP 3|ng/mL
+2963-7|Hormone de croissance|ng/mL
+33858-2|Hormone de croissance|mU/L
+14949-2|Hormone anti-diurétique (ADH)|pmol/L
+3126-0|Hormone anti-diurétique (ADH)|pg/mL
+99378-2|Hormone anti-diurétique (ADH) urinaire|pmol/L
+97169-7|Hormone anti-diurétique (ADH) /24h|pmol/(24.h)
+13903-0|Hormone anti-diurétique (ADH) urinaire|ng/L
+97168-9|Hormone anti-diurétique (ADH) /24h|ng/(24.h)
+14866-8|Parathormone|pmol/L
+2731-8|Parathormone|pg/mL
+49288-4|Interprétation - PTH|
+35570-1|Rénine|pg/mL
+2917-3|Rénine couchée|pg/mL
+47883-4|Rénine debout|pg/mL
+14586-2|Aldostérone|pmol/L
+1763-2|Aldostérone|pg/mL
+15011-0|Aldostérone couchée|pmol/L
+1767-3|Aldostérone couchée|pg/mL
+15012-8|Aldostérone debout|pmol/L
+1768-1|Aldostérone debout|pg/mL
+30894-0|Aldostérone/rénine|
+25845-9|Aldostérone urinaire|nmol/L
+14587-0|Aldostérone urinaire/24h|nmol/(24.h)
+31992-1|Aldostérone urinaire|ug/L
+1765-7|Aldostérone urinaire|ug/(24.h)
+15032-6|Angiotensine II|pmol/L
+2742-5|Enzyme de conversion|[IU]/L
+23883-2|Inhibine A|pg/mL
+34319-4|Inhibine B|pg/mL
+47608-5|Cortisol avant synacthène|nmol/L
+26535-5|Cortisol T30min synacthène|nmol/L
+26536-3|Cortisol T1h synacthène|nmol/L
+41407-8|Cortisol avant synacthène|ng/mL
+26530-6|Cortisol T30min synacthène|ng/mL
+26528-0|Cortisol T1h synacthène|ng/mL
+44917-3|Cortisol après freinage|nmol/L
+47851-1|Cortisol après freinage|ng/mL
+47663-0|Insuline HGPO T30min|m[IU]/L
+47657-2|Insuline HGPO T1h|m[IU]/L
+47658-0|Insuline HGPO T1h30min|m[IU]/L
+47659-8|Insuline HGPO T2h|m[IU]/L
+47660-6|Insuline HGPO T2h30min|m[IU]/L
+47662-2|Insuline HGPO T3h|m[IU]/L
+27862-2|Insuline HGPO T4h|m[IU]/L
+50171-8|Aldostérone avant synacthène|pmol/L
+50172-6|Aldostérone T30min synacthène|pmol/L
+50173-4|Aldostérone T1h synacthène|pmol/L
+57596-9|Aldostérone avant synacthène|pg/mL
+13855-2|Aldostérone T30min synacthène|pg/mL
+13852-9|Aldostérone T1h synacthène|pg/mL
+33773-3|Caryotype sur liquide amniotique|
+64094-6|Caryotype sur liquide amniotique|
+29770-5|Caryotype sur sang|
+50619-6|Caryotype sur sang|
+59267-5|FISH sur sang|
+77011-5|Trisomie 21|
+77012-3|Trisomie 18|
+77013-1|Trisomie 13|
+77021-4|Chromosome Y|
+77020-6|Chromosome Y - Interprétation|
+35456-3|Dépistage de microdélétions du chromosome Y|
+71359-4|Délétion région AZFa|
+71360-2|Délétion région AZFb|
+71361-0|Délétion région AZFc|
+24475-6|Recherche mutation facteur II G20210A|
+91712-0|Recherche mutation facteur V Leiden|
+21695-2|Recherche mutation C282Y HFE|
+21696-0|Recherche mutation H63D HFE|
+38380-2|Recherche mutation S65C HFE|
+28005-7|Recherche mutation MTHFR c.677C>T|
+28060-2|Recherche mutation MTHFR c.1298A>C|
+21656-4|Recherche des principales mutations du gène CFTR|
+97655-5|Recherche de prédisposition au cancer du sein et de l'ovaire|
+95786-0|Recherche ciblée d'une mutation familiale chez un apparenté|
+10587-4|Délai d'abstinence|d
+13358-7|Heure du recueil|
+54453-6|Technique d'analyse du sperme|
+3160-9|Volume Ejaculat|mL
+10569-2|Couleur du sperme|
+32789-0|Viscosité|
+2752-4|pH du sperme|[pH]
+10580-9|Temps de liquéfaction|min
+10579-1|Leucocytes|/mL
+26503-3|Polynucléaires neutrophiles|/mL
+43245-0|Érythrocytes|/mL
+9780-8|Nombre de spermatozoïdes|10*6/mL
+10585-8|Cellules rondes|/mL
+80725-5|Recherche de Trichomonas|
+13943-6|Recherche de Fructose|
+10574-2|Fructose|mmol/L
+10567-6|Citrate|mmol/L
+54345-4|Acétylcarnitine|umol/L
+10561-9|Carnitine|umol/L
+10633-6|Zinc|mmol/L
+1814-3|Alpha glucosidase|mU/mL
+1713-7|Phosphatase acide prostatique|k[IU]/L
+10622-9|Spermatozoïdes normaux|%
+15376-7|Spermatozoïdes anormaux|%
+38498-2|Spermatozoïdes non viables|%
+6800-7|Spermatozoïdes mobiles|%
+10611-2|Spermatozoïdes non mobiles|%
+38500-5|Mobilité type (a) des Spermatozoïdes|%
+80654-7|Mobilité type (a+b) des Spermatozoïdes|%
+38501-3|Mobilité type (b) des Spermatozoïdes|%
+38503-9|Mobilité type (c) des Spermatozoïdes|%
+38502-1|Mobilité type (d) des Spermatozoïdes|%
+57445-9|Mobilité type (a) après concentration|%
+57444-2|Mobilité type (b) après concentration|%
+57443-4|Mobilité type (c) après concentration|%
+10608-8|Résidus cytoplasmiques|%
+10602-1|Spermatozoïdes à tête anormale|%
+10594-0|Spermatozoïdes à tête allongée|%
+10606-2|Spermatozoïdes à tête amorphe|%
+10609-6|Spermatozoïdes à tête double|%
+10623-7|Spermatozoïdes à tête effilée|%
+48372-7|Spermatozoïdes à tête isolée|%
+10593-2|Spermatozoïdes à tête pyriforme|%
+10625-2|Spermatozoïdes à tête ronde|%
+10629-4|Spermatozoïdes à tête vacuolée|%
+66494-6|Spermatozoïdes à acrosome anormal|%
+66497-9|Spermatozoïdes à doubles formes|%
+10604-7|Spermatozoïdes à flagelle anormal|%
+48375-0|Spermatozoïdes à flagelle court|%
+10610-4|Spermatozoïdes à flagelle double|%
+10607-0|Spermatozoïdes à flagelle enroulé|%
+48374-3|Spermatozoïdes à flagelle isolé|%
+10603-9|Spermatozoïdes à pièce intermédiaire anormale|%
+48373-5|Spermatozoïdes à pièce intermédiaire angulée|%
+61187-1|Spermatozoïdes à pièce intermédiaire coudée|%
+61186-3|Spermatozoïdes à pièce intermédiaire grêle|%
+66495-3|Spermatozoïdes à forme de tête anormale|%
+10621-1|Spermatozoïdes à tête normale|%
+68910-9|Index de tératospermie|{index_val}
+19113-0|IgE Totale|kU/L
+82023-3|Phadiatop|
+103104-6|Phadiatop|
+82024-1|Phadiatop enfant|
+103105-3|Phadiatop enfant|
+23801-4|fx5|
+31008-6|fx24|
+31009-4|fx25|
+34394-7|fx26|
+34395-4|fx27|
+34393-9|fx28|
+6096-2|Dermatophagoides pteronyssinus, d1|kU/L
+63456-8|Dermatophagoides pteronyssinus, nDer p1|kU/L
+63457-6|Dermatophagoides pteronyssinus, rDer p2|kU/L
+63463-4|Dermatophagoides pteronyssinus, rDer p10|kU/L
+6095-4|Dermatophagoides farinae, d2|kU/L
+14036-8|Dermatophagoides microceras, d3|kU/L
+6254-7|Acarus siro, d70|kU/L
+6160-6|Lepidoglyphus destructor, d71|kU/L
+6256-2|Tyrophagus putrescentiae, d72|kU/L
+6126-7|Glycyphagus domesticus, d73|kU/L
+6114-3|Euroglyphus maynei, d74|kU/L
+10921-5|Blomia tropicalis, d201|kU/L
+23800-6|mx1|
+15234-8|mx2|
+51529-6|mx4|
+90881-4|Pneumallergène, IP6|
+15256-1|Pneumallergène, rx1|
+15257-9|Pneumallergène, rx2|
+51525-4|Pneumallergène, rx3|
+15259-5|Pneumallergène, rx4|
+51526-2|Pneumallergène, rx5|
+6212-5|Penicillium notatum, m1|kU/L
+11187-2|Penicillium frequentans, m209|kU/L
+6075-6|Cladosporium herbarum, m2|kU/L
+6025-1|Aspergillus fumigatus, m3|kU/L
+30986-4|Aspergillus fumigatus, rAspf1|kU/L
+30990-6|Aspergillus fumigatus, rAspf2|kU/L
+30991-4|Aspergillus fumigatus, rAspf3|kU/L
+30992-2|Aspergillus fumigatus, rAspf4|kU/L
+30993-0|Aspergillus fumigatus, rAspf6|kU/L
+6026-9|Aspergillus terreus, m36|kU/L
+6830-4|Aspergillus niger, m207|kU/L
+6024-4|Aspergillus flavus, m228|kU/L
+6182-0|Mucor racemosus, m4|kU/L
+6059-0|Candida albicans, m5|kU/L
+6020-2|Alternaria alternata, m6|kU/L
+58774-1|Alternaria alternata, rAlt a1|kU/L
+6049-1|Botrytis cinerea, m7|kU/L
+6138-2|Helminthosporium halodes, m8|kU/L
+6121-8|Fusarium moniliforme, m9|kU/L
+6252-1|Stemphylium botryosum, m10|kU/L
+6229-9|Rhizopus nigricans, m11|kU/L
+6029-3|Aureobasidium pullulans, m12|kU/L
+6216-6|Phoma betae, m13|kU/L
+6111-9|Epicoccum purpurascens, m14|kU/L
+6267-9|Trichoderma viride, m15|kU/L
+6094-7|Curvularia lunata, m16|kU/L
+10949-6|Malassezia furfur, m70|kU/L
+7708-1|Ustilago tritici, m201|kU/L
+6066-5|Cephalosporium acremonium, m202|kU/L
+25801-2|Trichophyton mentagrophytes, m211|kU/L
+6860-1|Trichophyton rubrum, m205|kU/L
+7200-9|Chaetomium globosum, m208|kU/L
+51856-3|Staphylococcal enterotox.TSST, m226|kU/L
+9828-5|Poussières de maison Greer, h1|kU/L
+7425-2|Poussières de maison Hollister Stier, h2|kU/L
+37987-5|Poussières, hx2|kU/L
+23798-2|ex1|
+15213-2|ex2|
+15214-0|ex70|
+15215-7|ex71|
+31005-2|ex72|
+23799-0|ex73|
+6833-8|Chat, e1|kU/L
+64975-6|Chat, rFel d1|kU/L
+19732-7|Chat, rFel d2|kU/L
+64976-4|Chat, rFel d4|kU/L
+6099-6|Chien, e2|kU/L
+6098-8|Chien, e5|kU/L
+58773-3|Chien, rCan f1|kU/L
+58772-5|Chien, rCan f2|kU/L
+19738-4|Chien, rCan f3|kU/L
+64973-1|Chien, rCan f5|kU/L
+30088-9|Cheval, e3|kU/L
+10935-5|Cheval, e205|kU/L
+64974-9|Cheval, rEquc1|kU/L
+6091-3|Vache, e4|kU/L
+10922-3|Albumine sérique bovine, e204|kU/L
+6127-5|Chèvre, e80|kU/L
+6243-0|Mouton, e81|kU/L
+6223-2|Lapin, e82|kU/L
+10960-3|Lapin (Protéines sériques), e206|kU/L
+10961-1|Lapin (Protéines urinaires), e211|kU/L
+6262-0|Porc, e83|kU/L
+6134-1|Cobaye, e6|kU/L
+6179-6|Souris, e71|kU/L
+6180-4|Souris (Protéines sériques), e76|kU/L
+6181-2|Souris (Protéines urinaires), e72|kU/L
+19751-7|Souris, e88|kU/L
+6224-0|Rat, e73|kU/L
+6226-5|Rat (Protéines urinaires), e74|kU/L
+6225-7|Rat (Protéines sériques), e75|kU/L
+19753-3|Rat, e87|kU/L
+6135-8|Hamster, e84|kU/L
+30987-2|Chinchilla, e208|kU/L
+7334-6|Gerbille, e209|kU/L
+6070-7|Poule (plumes), e85|kU/L
+19734-3|Poule (déjections), e218|kU/L
+6836-1|Poule (protéines sériques), e219|kU/L
+6100-2|Canard (plumes), e86|kU/L
+7753-7|Dinde (plumes), e89|kU/L
+6217-4|Pigeon, e7|kU/L
+10948-8|Plumes de Pigeon, e215|kU/L
+6129-1|Oie (Plumes), e70|kU/L
+6304-0|Perruche ondulée (déjections), e77|kU/L
+6030-1|Perruche ondulée (plumes), e78|kU/L
+6031-9|Perruche ondulée (protéines sériques), e79|kU/L
+6202-6|Perroquet (plumes), e213|kU/L
+16535-7|Canari (déjections), e200|kU/L
+7171-2|Canri (plumes), e201|kU/L
+13833-9|Pinson (plumes), e214|kU/L
+19740-0|Renard, e210|kU/L
+11172-4|Furet, e217|kU/L
+10926-4|Cerf, e216|kU/L
+23803-0|gx1|
+51523-9|gx2|
+15229-8|gx3|
+24132-3|gx4|
+31003-7|gx6|
+6261-2|Flouve odorante, g1|kU/L
+6041-8|Chiendent digité g2|kU/L
+65775-9|Chiendent digité, nCynd1|kU/L
+6195-2|Dactyle pelotonn, g3|kU/L
+6169-7|Fétuque des prés, g4|kU/L
+7369-2|Ivraie vivace, g5|kU/L
+6265-3|Phléole des prés, g6|kU/L
+30994-8|Phléole des prés, rPhl p1|kU/L
+30995-5|Phléole des prés, rPhlp2|kU/L
+30997-1|Phléole des prés, nPhlp4|kU/L
+30996-3|Phléole des prés, rPhlp5 g215|kU/L
+58981-2|Phléole des prés, rPhl p5b|kU/L
+30998-9|Phléole des prés, rPhlp6|kU/L
+30999-7|Phléole des prés, rPhl p7|kU/L
+31000-3|Phléole des prés, rPhl p11|kU/L
+34428-3|Phléole des prés, rPhl p12|kU/L
+34429-1|Phléole des prés, rPhl p1 + rPhl p5b|kU/L
+34430-9|Phléole des prés, rPhl p7 + rPhl p12|kU/L
+6855-1|Roseau à balai, g7|kU/L
+6153-1|Paturin des prés, g8|kU/L
+6228-1|Agrostide, g9|kU/L
+6152-3|Sorgho, g10|kU/L
+6053-3|Brome, g11|kU/L
+6236-4|Seigle (pollen), g12|kU/L
+6272-9|Houlque laineuse, g13|kU/L
+6093-9|Avoine cultivée, g14|kU/L
+6277-8|Blé (pollen), g15|kU/L
+6170-5|Vulpin des prés, g16|kU/L
+6034-3|Herbe de Bahia, g17|kU/L
+16922-7|Ivraie sauvage, g70|kU/L
+6058-2|Alpiste, g71|kU/L
+7116-7|Orge (pollen), g201|kU/L
+7248-8|Maïs (pollen), g202|kU/L
+6238-0|Herbes des prés salés, g203|kU/L
+6726-4|Fromental, g204|kU/L
+96605-1|Canne à sucre (pollen) g900|kU/L
+15271-0|wx1|
+15272-8|wx2|
+15273-6|wx3|
+15274-4|wx5|
+15275-1|wx6|
+15276-9|wx7|
+15261-1|wx209|
+6085-5|Ambroisie élevée, w1|kU/L
+6275-2|Ambroisie à épi grêle,  w2|kU/L
+6124-2|Ambroisie trilobée, w3|kU/L
+65782-5|Ambroisie w230,nAmba1|kU/L
+6115-0|Fausse ambroisie, w4|kU/L
+6286-9|Absinthe, w5|kU/L
+6183-8|Armoise commune, w6|kU/L
+63458-4|Armoise commune, nArt v1|kU/L
+65783-3|Armoise commune, nArt v3|kU/L
+6196-0|Grande marguerite, w7|kU/L
+6097-0|Pissenlit, w8|kU/L
+6110-1|Plantain lancéolé, w9|kU/L
+64972-3|Plantain lancéolé, rPla l1|kU/L
+6156-4|Chénopode blanc, w10|kU/L
+6234-9|Soude, w11|kU/L
+65784-1|Soude,nSalk1|kU/L
+6128-3|Solidage, w12|kU/L
+6077-2|Lampourde, w13|kU/L
+7604-2|Amaranthe commune, w14|kU/L
+6239-8|Arroche, w15|kU/L
+6232-3|Iva, w16|kU/L
+6118-4|Ansérine à balais, w17|kU/L
+6244-8|Petite oseille, w18|kU/L
+6200-0|Pariétaire officinale, w19|kU/L
+6186-1|Ortie, w20|kU/L
+6199-4|Pariétaire, w21|kU/L
+56882-4|Pariétaire w211,rParj2|kU/L
+6738-9|Oseille, w23|kU/L
+7065-6|Luzerne, w45|kU/L
+6060-8|Amaranthe de Palmer, w82|kU/L
+6084-8|Colza, w203|kU/L
+7726-3|Tournesol (pollen), w204|kU/L
+6057-4|Camomille, w206|kU/L
+11180-7|Lupin, w207|kU/L
+7147-2|Betterave sucrière, w210|kU/L
+15262-9|tx1|
+23797-4|tx2|
+15264-5|tx3|
+51527-0|tx4|
+15266-0|tx5|
+15267-8|tx6|
+15268-6|tx7|
+15270-2|tx8|
+15269-4|tx9|
+15260-3|tx10|
+7155-5|Érable t1|kU/L
+15284-3|Aulne t2|kU/L
+15283-5|Bouleau, t3|kU/L
+15579-6|Bouleau, t3|
+102182-3|Bouleau, t3|
+61229-1|Bouleau, rBet v1|kU/L
+30984-9|Bouleau, rBet v1|kU/L
+30985-6|Bouleau, rBet v2|kU/L
+34250-1|Bouleau, rBet v4|kU/L
+51524-7|Bouleau, rBet v2 + rBetv4|kU/L
+82572-9|Bouleau, rBet v6|kU/L
+6137-4|Noisetier, t4|kU/L
+6038-4|Hêtre, t5|kU/L
+6178-8|Genévrier, t6|kU/L
+6189-5|Chêne, t7|kU/L
+15875-8|Chêne, t7|
+102464-5|Chêne, t7|
+6109-3|Orme, t8|kU/L
+6192-9|Olivier, t9|kU/L
+15892-3|Olivier, t9|
+102477-7|Olivier, t9|
+58754-3|Olivier, nOle e1|kU/L
+65779-1|Olivier, nOle e7|kU/L
+65780-9|Olivier, nOle e9|kU/L
+7765-1|Noyer, t10|kU/L
+15285-0|Platane, t11|kU/L
+64969-9|Platane, rPlaa1|kU/L
+6285-1|Saule, t12|kU/L
+6090-5|Peuplier, t14|kU/L
+6278-6|Frêne blanc, t15|kU/L
+60238-3|Frêne, t25|kU/L
+6282-8|Pin blanc, t16|kU/L
+6151-5|Cyprès, t23|kU/L
+65778-3|Cyprès, nCup a1|kU/L
+7310-6|Sapin de Douglas, t207|kU/L
+7609-1|Pin de Monterey, t213|kU/L
+6857-7|Épicéa, t201|kU/L
+6113-5|Eucalyptus, t18|kU/L
+6015-2|Mimosa, t19|kU/L
+6173-9|Prosopis, t20|kU/L
+6171-3|Melaleuca, t21|kU/L
+78701-0|Orme cèdre, t45|kU/L
+14035-0|Cèdre du Japon, t17|kU/L
+7695-0|Genêt à balai, t55|kU/L
+7123-3|Cirier, t56|kU/L
+6281-0|Mûrier, t70|kU/L
+7514-3|Mûrier rouge, t71|kU/L
+6222-4|Palmier, t72|kU/L
+6032-7|Filao, t73|kU/L
+7220-7|Marronnier, t203|kU/L
+6108-5|Sureau, t205|kU/L
+6069-9|Châtaignier, t206|kU/L
+11179-9|Tilleul, t208|kU/L
+7416-1|Charme, t209|kU/L
+7632-3|Troène, t210|kU/L
+7275-1|Dattier, t214|kU/L
+6213-3|Poivrier, t217|kU/L
+6022-8|Ascaris, p1|kU/L
+6103-6|Echinococcus, p2|kU/L
+7693-5|Schistosoma, p3|kU/L
+10919-9|Anisakis, p4|kU/L
+6132-5|Café verts (grain), k70|kU/L
+6063-2|Ricin (graine), k71|kU/L
+6150-7|Ispaghule, k72|kU/L
+19758-2|Déchet de Soie, k73|kU/L
+6247-1|Soie naturelle, k74|kU/L
+7431-0|Isocyanate TDI, k75|kU/L
+7430-2|Isocyanate MDI, k76|kU/L
+7429-4|Isocyanate HDI, k77|kU/L
+6112-7|Oxyde d'éthylène, k78|kU/L
+7601-8|Anhydride phtalique, k79|kU/L
+6119-2|Formaldéhyde, k80|kU/L
+6116-8|Ficus, k81|kU/L
+6089-7|Coton, k83|kU/L
+6258-8|Tournesol, k84|kU/L
+6072-3|Chloramine T, k85|kU/L
+7746-1|Anhydride triméllitique, k86|kU/L
+7073-0|Alpha-amylase, k87|kU/L
+10923-1|Broméline, k202|kU/L
+11182-3|Lysozyme, k208 nGAld4|kU/L
+96793-5|Mélange bois tendres, Kx4|kU/L
+15235-5|Pneumallergènes, pax1|
+15236-3|Pneumallergènes, pax2|
+15237-1|Pneumallergènes, pax3|
+15238-9|Pneumallergènes, pax4|
+15239-7|Pneumallergènes, pax5|
+15240-5|Pneumallergène, pax6|
+6106-9|Blanc d'œuf, f1|kU/L
+15689-3|Blanc d'œuf, f1|
+102286-2|Blanc d'œuf, f1|
+6107-7|Jaune d'œuf, f75|kU/L
+7557-2|Ovomucoïde, f233|kU/L
+7556-4|Ovalbumine, f232|kU/L
+25615-6|Conalbumine, f323|kU/L
+7291-8|Oeuf entier, f245|kU/L
+7258-7|Lait de vache, f2|kU/L
+25383-1|Lait de vache, f2|
+102871-1|Lait de vache, f2|
+7445-0|Alpha-lactalbumine, f76|kU/L
+41397-1|Bêta-lactoglobuline, f77|kU/L
+6062-4|Caséine, f78|kU/L
+26029-9|Lactoferrine bovine, f334|kU/L
+10940-5|Lait de vache bouilli, f231|kU/L
+7774-3|Petit lait de vache, f236|kU/L
+7340-3|Lait de chèvre, f300|kU/L
+19756-6|Lait de brebis, f325|kU/L
+6068-1|Fromage (fermenté), f82|kU/L
+6067-3|Fromage (pâte cuite), f81|kU/L
+15218-1|fx2|
+15227-2|fx74|
+6082-2|Morue, f3|kU/L
+15650-5|Morue, f3|
+102247-4|Morue, f3|
+63473-3|Morue, rGad c1|kU/L
+66445-8|Carpe, rCyp c1|kU/L
+6270-3|Thon, f40|kU/L
+6237-2|Saumon, f41|kU/L
+7384-1|Aiglefin, f42|kU/L
+10925-6|Maquereau du pacifique, f50|kU/L
+11184-9|Chinchard, f60|kU/L
+11197-1|Sardine, f308|kU/L
+7316-3|Flet, f147|kU/L
+6268-7|Truite, f204|kU/L
+6139-0|Hareng, f205|kU/L
+7474-0|Maquereau, f206|kU/L
+10959-5|Carrelet, f254|kU/L
+6105-1|Anguille, f264|kU/L
+6842-9|Flétan, f303|kU/L
+19741-8|Merlu, f307|kU/L
+7728-9|Espadon, f312|kU/L
+7079-7|Anchois, f313|kU/L
+7709-9|Sole, f337|kU/L
+54911-3|Mérou, f410|kU/L
+11196-3|Empereur, f412|kU/L
+11191-4|Lieu noir, f413|kU/L
+32572-0|Tilapia, f414|kU/L
+6092-1|Crabe, f23|kU/L
+6246-3|Crevette, f24|kU/L
+16018-4|Crevette, f24|
+102594-9|Crevette, f24|
+58986-1|Crevette grise (tropomyosine), rPen a1|kU/L
+6165-5|Homard, f80|kU/L
+6249-7|Langouste, f304|kU/L
+7265-2|Écrevisse, f320|kU/L
+6048-3|Moule, f37|kU/L
+6076-4|Palourde, f207|kU/L
+7558-0|Huitre, f290|kU/L
+7060-7|Ormeau, f346|kU/L
+7691-9|Coquille saint jacque, f338|kU/L
+6858-5|Calamar, f258|kU/L
+14038-4|Calamar du pacifique, f58|kU/L
+10944-7|Poulpe, f59|kU/L
+15217-3|fx1|
+15253-8|fx7|
+15254-6|fx8|
+15255-3|fx9|
+15242-1|fx11|
+15243-9|fx12|
+15244-7|fx13|
+15245-4|fx14|
+15246-2|fx15|
+31006-0|fx16|
+34392-1|fx17|
+15248-8|fx18|
+15249-6|fx19|
+15251-2|fx21|
+15252-0|fx22|
+51528-8|fx29|
+82547-1|fx30|
+82550-5|fx32|
+6206-7|Arachide, f13|kU/L
+15917-8|Arachide, f13|
+102501-4|Arachide, f13|
+63477-4|Arachide, rAra h8|kU/L
+58779-0|Arachide, rAra h1|kU/L
+58778-2|Arachide, rAra h2|kU/L
+58777-4|Arachide, rAra h3|kU/L
+64965-7|Arachide, rAra h9|kU/L
+87718-3|Arachide, rAra h6|kU/L
+90880-6|Arachide, rAra h6|kU/L
+103129-3|Arachide, rAra h6|kU/L
+6019-4|Amande, f20|kU/L
+6136-6|Noisette, f17|kU/L
+15766-9|Noisette, f17|
+102361-3|Noisette, f17|
+58753-5|Noisette, rCor a8|kU/L
+69421-6|Noisette, rCor a1|kU/L
+81788-2|Noisette, rCor a14|kU/L
+65765-0|Noisette, nCor a9|kU/L
+6273-7|Noix, f256|kU/L
+81790-8|Noix, rjugr1 f441|kU/L
+81789-0|Noix, rjugr3 f442|kU/L
+6208-3|Noix de pécan, f201|kU/L
+6050-9|Noix de Brésil, f18|kU/L
+64963-2|Noix de Brésil, rBer e1|kU/L
+6718-1|Noix de cajou, f202|kU/L
+82539-8|Noix de cajou, rAna o3|kU/L
+11183-1|Noix de macadamia, f345|kU/L
+6188-7|Noix de muscade, f282|kU/L
+6081-4|Noix de coco, f36|kU/L
+7613-3|Pistache, f203|kU/L
+10954-6|Pignon, f253|kU/L
+6080-6|Cacao, f93|kU/L
+6194-5|Orange, f33|kU/L
+6159-8|Citron, f208|kU/L
+7464-1|Citron vert, f306|kU/L
+6131-7|Pamplemousse, f209|kU/L
+7731-3|Mandarine, f302|kU/L
+6257-0|Fraise, f44|kU/L
+7656-2|Framboise, f343|kU/L
+7151-4|Mûre, f211|kU/L
+7152-2|Myrtille, f288|kU/L
+6021-0|Pomme, f49|kU/L
+15539-0|Pomme, f49|
+102143-5|Pomme, f49|
+64961-6|Pomme, rMal d1|kU/L
+81791-6|Pomme, rMal d3|kU/L
+6207-5|Poire, f94|kU/L
+6205-9|Pêche, f95|kU/L
+15916-0|Pêche, f95|
+102500-6|Pêche, f95|
+58776-6|Pêche, rPru p1|kU/L
+59391-3|Pêche, rPru p3|kU/L
+58775-8|Pêche, rPru p4|kU/L
+6154-9|Kiwi, f84|kU/L
+15802-2|Kiwi, f84|
+102397-7|Kiwi, f84|
+64959-0|Kiwi, rActd8|kU/L
+57884-9|Melon, f87|kU/L
+6167-1|Mangue, f91|kU/L
+6035-0|Banane, f92|kU/L
+6218-2|Ananas, f210|kU/L
+6841-1|Raisin, f259|kU/L
+7091-2|Abricot, f237|kU/L
+6719-9|Cerise, f242|kU/L
+19754-1|Groseille, f322|kU/L
+11173-2|Figue, f328|kU/L
+7770-1|Pastèque, f329|kU/L
+6853-6|Prune, f255|kU/L
+25714-7|Litchi, f348|kU/L
+31002-9|Datte, f289|kU/L
+6259-6|Châtaigne, f299|kU/L
+10934-8|Goyave, f292|kU/L
+6850-2|Papaye, f293|kU/L
+10947-0|Kaki, f301|kU/L
+10946-2|Fruit de la passion, f294|kU/L
+10924-9|Carambole, f295|kU/L
+6204-2|Pois, f12|kU/L
+15913-7|Pois, f12|
+102497-5|Pois, f12|
+7573-9|Pois chiche, f309|kU/L
+6831-2|Haricot vert, f315|kU/L
+6279-4|Haricot blanc, f15|kU/L
+7131-6|Haricot de Lima, f182|kU/L
+7129-0|Haricot rouge, f287|kU/L
+6266-1|Tomate, f25|kU/L
+6061-6|Carotte, f31|kU/L
+6220-8|Pomme de terre, f35|kU/L
+7627-3|Patate douce, f54|kU/L
+6193-7|Oignon, f48|kU/L
+10920-7|Pousse de bambou, f51|kU/L
+6065-7|Céleri, f85|kU/L
+15618-2|Céleri, f85|
+102218-5|Céleri, f85|
+64960-8|Céleri, rApig1|kU/L
+6033-5|Avocat, f96|kU/L
+15551-5|Avocat, f96|
+102155-9|Avocat, f96|
+6848-6|Champignon, f212|kU/L
+6856-9|Épinard, f214|kU/L
+6161-4|Laitue, f215|kU/L
+7169-6|Chou, f216|kU/L
+7160-5|Chou de bruxelles, f217|kU/L
+6835-3|Chou-fleur, f291|kU/L
+6052-5|Brocoli, f260|kU/L
+7586-1|Poivron doux, f218|kU/L
+6854-4|Citrouille, f225|kU/L
+19728-5|Betterave, f319|kU/L
+24165-3|Betterave sucrière (graine), f227|kU/L
+7458-3|Lentille, f235|kU/L
+6724-9|Concombre, f244|kU/L
+7099-5|Asperge, f261|kU/L
+7718-0|Courgette, f118|kU/L
+7296-7|Aubergine, f262|kU/L
+10928-0|Fenouil, f276|kU/L
+21428-8|Olive noire, f342|kU/L
+25743-6|Quinoa, f347|kU/L
+15241-3|fx10|
+31007-8|fx23|
+24163-8|fx73|
+6219-0|Porc, f26|kU/L
+15956-6|Porc, f26|
+102538-6|Porc, f26|
+6039-2|Boeuf, f27|kU/L
+6071-5|Poulet (viande) f83|kU/L
+6155-6|Mouton (viande) f88|kU/L
+7642-2|Lapin (viande) f213|kU/L
+6271-1|Dinde (viande) f284|kU/L
+19743-4|Cheval (viande) f321|kU/L
+11200-3|Escargot, f314|kU/L
+31010-2|fx70|
+15224-9|fx71|
+15225-6|fx72|
+6122-6|Ail, f47|kU/L
+7118-3|Basilic, f269|kU/L
+6203-4|Persil, f86|kU/L
+7081-3|Anis, f271|kU/L
+7178-7|Cumin, f265|kU/L
+15280-1|Muscade, f266|kU/L
+15279-3|Cardamone, f267|kU/L
+7234-8|Clou de girofle, f268|kU/L
+11202-9|Estragon, f272|kU/L
+7737-0|Thym, f273|kU/L
+15278-5|Livèche, f275|kU/L
+7280-1|Aneth, f277|kU/L
+7270-2|Curry, f281|kU/L
+7552-3|Origan, f283|kU/L
+16650-4|Coriandre, f317|kU/L
+11190-6|Menthe poivrée, f332|kU/L
+6045-9|Poivre noir, f280|kU/L
+6852-8|Poivre vert, f263|kU/L
+7335-3|Gingembre, f270|kU/L
+10937-1|Marjolaine, f274|kU/L
+7591-1|Piment, f279|kU/L
+7125-8|Laurier, f278|kU/L
+19755-8|Safran, f331|kU/L
+25609-9|Rouge carmin, f340|kU/L
+7678-6|Sauge, f344|kU/L
+15219-9|fx3|
+15250-4|fx20|
+6276-0|Blé, f4|kU/L
+16085-3|Blé, f4|
+102656-6|Blé, f4|
+58752-7|Blé, rTri a19|kU/L
+64966-5|Blé, rTri a14|kU/L
+7674-5|Seigle, f5|kU/L
+6037-6|Orge, f6|kU/L
+6190-3|Avoine, f7|kU/L
+6087-1|Maïs (grain), f8|kU/L
+6230-7|Riz, f9|kU/L
+6242-2|Sésame, f10|kU/L
+6054-1|Sarrasin, f11|kU/L
+6248-9|Soja, f14|kU/L
+15568-9|Soja, f14|
+102172-4|Soja, f14|
+63476-6|Soja (graine), rGly m4|kU/L
+73719-7|Soja (graine), rGly m5|kU/L
+65772-6|Soja (graine), rGly m6|kU/L
+11195-5|Colza (graine), f316|kU/L
+33002-7|Épeautre, f124|kU/L
+6185-3|Moutarde, f89|kU/L
+10929-8|Fenouil (graine), f219|kU/L
+50650-1|Lupin, f335|kU/L
+7623-2|Pavot (graine), f224|kU/L
+11193-0|Citrouille (graine), f226|kU/L
+7312-2|Lin (graine), f333|kU/L
+6083-0|Café (grain), f221|kU/L
+6231-5|Cynorrhodon, f330|kU/L
+19739-2|Fénugrec, f305|kU/L
+7179-5|Caroube, f296|kU/L
+6125-9|Gluten, f79|kU/L
+6141-6|Houblon, f324|kU/L
+7382-5|Gomme arabique, f297|kU/L
+10933-0|Gomme de Guar, f246|kU/L
+7743-8|Gomme tragacanthe, f298|kU/L
+25703-0|Jujube, f336|kU/L
+6051-7|Levure de bière, f45|kU/L
+6166-3|Malt, f90|kU/L
+7412-0|Miel, f247|kU/L
+6175-4|Millet commun, f55|kU/L
+6264-6|Thé, f222|kU/L
+7756-0|Vanille, f234|kU/L
+19729-3|Vesce bleue, f310|kU/L
+82577-8|fx31|
+6844-5|Venin d'abeille, i1|kU/L
+60421-5|Venin d'abeille, rApip m1|kU/L
+79167-3|Venin d'abeille, rApip m2|kU/L
+82613-1|Venin d'abeille, rApip m10|kU/L
+6280-2|Venin de frelon à tête blanche, i2|kU/L
+6288-5|Venin de frelon à tête jaune, i5|kU/L
+6142-4|Venin de frelon, i75|kU/L
+97653-0|Frelon asiatique (venin)|kU/L
+58804-6|Venin de guêpe (poliste européenne), i77|kU/L
+13176-3|Venin de guêpe, i3|kU/L
+66714-7|Venin de guêpe, rVes v1|kU/L
+60240-9|Venin de guêpe, rVes v5|kU/L
+6198-6|Venin de guêpe (poliste), i4|kU/L
+63436-0|Venin de guêpe (poliste), i210|kU/L
+6056-6|Venin de Bourdon, i205|kU/L
+6144-0|Taon, i204|kU/L
+15281-9|Mouche du cheval, i201|kU/L
+6133-3|Mouche du Soudan, i72|kU/L
+6078-0|Blatte germanique, i6|kU/L
+30170-5|Blatte américaine, i206|kU/L
+25611-5|Blatte orientale, i207|kU/L
+7502-8|Ver à soie, i8|kU/L
+6117-6|Fourmi rouge, i70|kU/L
+54909-7|Moustique, i71|kU/L
+6047-5|Ver de vase, i73|kU/L
+10938-9|Éphestia, i203|kU/L
+17045-6|Latex, k82|kU/L
+50646-9|Latex, rHevb1|kU/L
+56595-2|Latex, rHevb3|kU/L
+56596-0|Latex, rHev b5|kU/L
+50648-5|Latex, rHev b6.01|kU/L
+50649-3|Latex, rHev b6.02|kU/L
+56597-8|Latex, rHev b8|kU/L
+59395-4|Latex, rHev b9|kU/L
+50647-7|Latex, rHev b11|kU/L
+6240-6|Liquide séminal, o70|kU/L
+7719-8|Staphylococcus aureus, o71|kU/L
+6859-3|Feuille de tabac, o201|kU/L
+58984-6|Broméline (MUXF3 CDD), o214|kU/L
+6851-0|Penicilline G, c1|kU/L
+6210-9|Penicilline V, c2|kU/L
+6712-4|Ampicilline, c5|kU/L
+6829-6|Amoxicilline, c6|kU/L
+19733-5|Céfaclor, c7|kU/L
+66717-0|Chlorhexidine, c8|kU/L
+6149-9|Insuline porcine, c70|kU/L
+6147-3|Insuline bovine, c71|kU/L
+6148-1|Insuline humaine, c73|kU/L
+7332-0|Gélatine, c74|kU/L
+11201-1|Succinylcholine, c202|kU/L
+11192-2|Protamine, rc207|kU/L
+6074-9|Chymopapaïne, c209|kU/L
+49871-7|Morphine, c260|kU/L
+73720-5|Pholcodine, c261|kU/L
+56703-2|Piroxicam|kU/L
+49864-2|Novocaïne|kU/L
+73721-3|Rocuronium u254|kU/L
+50031-4|Sulfaméthoxazole|kU/L
+18258-4|Triméthoprime|kU/L
+21582-2|Tryptase|ug/L
+42254-3|Antinucléaires|
+13068-2|Aspect|
+33253-6|Titre Antinucléaires|{IFA_titer}
+16570-4|Anti-Centromère|
+5077-3|Titre Anti-Centromère|{IFA_titer}
+49311-4|Interprétation - Antinucléaires|
+47383-5|Antinucléaires|
+40655-3|Titre Antinucléaires|{EIA_titer}
+16137-2|Recherche Anti-Centromère|
+8068-9|Anti-Centromère|[arb'U]/mL
+53981-7|Recherche Anti-centromère cenpB|
+53982-5|Anti-Centromère cenpB|[arb'U]/mL
+53015-4|Recherche Anti-nucléosome|
+63300-8|Recherche Anti-Nucléosomes|
+34416-8|Anti-nucléosome|[arb'U]
+31592-9|Recherche Anti-ribosome P|
+47301-7|Anti-ribosome P|[arb'U]/mL
+58765-9|Recherche Anti-Histones|
+30359-4|Anti-Histones|[arb'U]/mL
+43231-0|Anti-Histones|[arb'U]/mL
+35284-9|Recherche IgG Anti-Histones|
+35274-0|Recherche IgG Anti-Histones|
+31423-7|Anti-Histones IgG|[arb'U]/mL
+29996-6|Anti-Histones IgG|[arb'U]/mL
+14611-8|Interprétation - Antinucléaires|
+49310-6|Interprétation - Antinucléaires|
+95726-6|Anti-HMGCoA réductase|[arb'U]/mL
+94098-1|Recherche Anti-DFS70|
+95129-3|Anti-DFS70|[arb'U]/mL
+5131-8|Recherche Anti-ADN natif|
+34187-5|Titre Anti-ADN natif|{IFA_titer}
+58466-4|Titre IgG Anti-ADN natif|{IFA_titer}
+63236-4|Recherche IgM Anti-ADN natif|
+11013-0|Titre Anti-ADN natif|{titer}
+5130-0|Anti-ADN natif|[IU]/mL
+32677-7|Anti-ADN natif|[IU]/mL
+58465-6|Recherche IgG Anti-ADN natif|
+33799-8|Anti-ADN natif IgG|[IU]/mL
+63237-2|Anti-ADN natif IgM|[IU]/mL
+12277-0|Recherche Anti-ADN natif|
+47299-3|Anti-ADN natif|[IU]/L
+24383-2|Anti-Facteur intrinsèque|
+11564-2|Anti-Facteur intrinsèque|[arb'U]/mL
+56539-0|Anti-Facteur intrinsèque|[arb'U]/mL
+17535-6|Recherche Anti-RNP|
+17536-4|Anti-RNP - Titre|{titer}
+17591-9|Recherche Anti-Sm|
+17592-7|Anti-Sm - Titre|{titer}
+30556-5|Anti-Sm-RNP|[arb'U]/mL
+17583-6|Anti-SSA|
+17584-4|Anti-SSA - Titre|{titer}
+17586-9|Recherche Anti-SSB|
+17587-7|Anti-SSB - Titre|{titer}
+17569-5|Recherche Anti-Scl70|
+53007-1|Recherche Anti-PM-Scl|
+53008-9|Titre Anti-PM/Scl|{titer}
+17031-6|Recherche Anti-Jo1|
+17032-4|Anti-Jo1 - Titre|{titer}
+47074-0|Recherche Anti-PCNA|
+53006-3|Titre Anti-PCNA|{titer}
+63391-7|Recherche Anti-Antigènes nucléaires solubles|
+30342-0|Anti-Antigènes nucléaires solubles|{index_val}
+29954-5|Anti-Antigènes nucléaires solubles - Index|{index_val}
+5301-7|Recherche Anti-RNP|
+29374-6|Anti-RNP|[arb'U]/mL
+51928-0|Anti-RNP|[arb'U]/mL
+57662-9|Anti-U1 RNP nucléaire|[IU]/L
+63316-4|Anti-U1 RNP 70 kD|[arb'U]/mL
+5356-1|Recherche Anti-Sm|
+11090-8|Anti-Sm|[arb'U]/mL
+43182-5|Anti-Sm|[arb'U]/mL
+63548-2|Anti-Sm B|[arb'U]/mL
+5351-2|Recherche Anti-SSA|
+17792-3|Anti-SSA|[arb'U]/mL
+33569-5|Anti-SSA|[arb'U]/mL
+63342-0|Recherche Anti-Ro52kd|
+56549-9|Anti-Ro 52kd|[arb'U]/mL
+63411-3|Recherche Anti-Ro 60kd|
+17791-5|Anti-SSB|[arb'U]/mL
+5353-8|Recherche Anti-SSB|
+45142-7|Anti-SSB|[arb'U]/mL
+5348-8|Recherche Anti-Scl70|
+27416-7|Anti-Scl70|[arb'U]/mL
+26975-3|Anti-Scl70|[arb'U]/mL
+31563-0|Recherche Anti-PM-Scl|
+5234-0|Recherche Anti-Jo1|
+11565-9|Anti-Jo1|[arb'U]/mL
+35333-4|Anti-Jo1|[arb'U]/mL
+5275-3|Recherche Anti-PCNA|
+26880-5|Recherche Anti-Sm+RNP|
+14030-1|Anti-Sm-RNP|[arb'U]/mL
+18485-3|Recherche Anti-Mi2|
+56637-2|Anti-Mi2|[arb'U]/mL
+44083-4|Interprétation|
+56731-3|Anti-Jo1|
+82389-8|Anti-HMGCoA réductase|
+63559-9|Anti-SRP|
+56721-4|Anti-PM-Scl|
+69556-9|Anti-Ku|
+56743-8|Anti-Mi2|
+82997-8|Anti-Mi2 alpha|
+82996-0|Anti-Mi2 bêta|
+82448-2|Anti-TIF1 gamma|
+82440-9|Anti-SAE1|
+82442-5|Anti-SAE2|
+56744-6|Anti-synthétase (PL-7)|
+56745-3|Anti-synthétase (PL-12)|
+82392-2|Anti-EJ|
+69557-7|Anti-OJ|
+82424-3|Anti-MDA5|
+82426-8|Anti-NXP2|
+81732-0|Anti-PM/Scl100|
+81733-8|Anti-PM/Scl75|
+82422-7|Anti-Ks|
+82415-1|Anti-Ha|
+82453-2|Anti-Zo|
+57431-9|Recherche Anti-Antigènes nucléaires solubles|
+81716-3|Recherche Anti-ADN natif|
+57739-5|Anti-centromère|
+81714-8|Anti-centromère protéine A|
+56734-7|Anti-centromère protéine B|
+56723-0|Anti-RNP|
+56693-5|Anti-Scl70|
+89513-6|Anti-RNA POL3|
+81737-9|Anti-RP11|
+81738-7|Anti-RP155|
+82394-8|Anti-fibrillarine|
+81743-7|Anti-Th/To|
+82418-5|Anti-NOR90|
+82432-6|Anti-récepteur PDGF|
+82451-6|Anti-U1 RNP A|
+82452-4|Anti-U1 RNP C|
+56717-2|Anti-Histones|
+82450-8|Anti-RNP70|
+56730-5|Recherche Anti-Sm|
+89501-1|Anti-Sm+RNP|
+88882-6|Anti-Sm B|
+88881-8|Anti-Sm D|
+56725-5|Anti-SSB|
+56724-8|Anti-SSA|
+63445-1|Anti-Ro52Kd|
+59014-1|Anti-Ro60Kd|
+89504-5|Anti-Ribosomes|
+82998-6|Anti-DFS70|
+63328-9|Recherche Anti-ARN polymérase III|
+63329-7|Anti-ARN polymérase III|[arb'U]/mL
+72317-1|IgG Anti-RP11|
+72316-3|IgG Anti-RP155|
+49963-2|Anti-Fibrillarine|
+82913-5|IgG Anti-Centromère protéine B|
+56760-2|Anti-LKM|
+59072-9|Anti-LKM1|
+89520-1|Anti-Actine|
+81712-2|Anti-Actine F|
+85095-8|IgG Anti-3-PGDH|
+56719-8|Anti-cytosol|
+82921-8|IgG Anti-cytosol|
+57413-7|Anti-mitochondries|
+56735-4|Anti-mitochondries M2|
+82928-3|IgG Anti-mitochondries M2|
+81727-0|Anti-mitochondries M2-3E|
+54025-2|Anti-Gp210|
+82931-7|IgG Anti-Gp210|
+56753-7|Anti-PML|
+82923-4|IgG Anti-PML|
+82933-3|IgG Anti-Ro52Kd|
+56722-2|Anti-SLA|
+78433-0|IgG Anti-SLA|
+82932-5|IgG Anti-Sp-100|
+72318-9|IgG Anti-Centromère protéine A|
+69952-0|IgG Anti-LKM1|
+51715-1|Anti-mitochondries M2|[arb'U]
+17585-1|IgG Anti-Ro|
+17570-3|Anti-SCL-70|
+59066-1|Anti-Sp-100|
+56532-5|Anti-récepteur à l'asialoglycoprotéine|
+5047-6|Antinucléaires|{index_val}
+26969-6|Anti-Cellules pariétales gastrique|
+5271-2|Titre Anti-Cellules pariétales gastrique|{IFA_titer}
+8087-9|Anti-Cellules pariétales gastrique|[arb'U]/mL
+56147-2|Anti-Cellules pariétales gastrique|[arb'U]/mL
+41201-5|Anti-canaux calciques|mmol/L
+6928-6|Facteurs rhumatoïdes|[IU]/mL
+15205-8|Facteurs rhumatoïdes|[IU]/mL
+9338-5|Facteurs rhumatoïdes IgM|[IU]/mL
+32218-0|Anti-CCP|[arb'U]/mL
+94874-5|IgG Anti-CCP|[arb'U]/mL
+46435-4|Interprétation - Anti-CCP et FR|
+33313-8|Facteurs rhumatoïdes IgA|[IU]/mL
+53027-9|Anti-CCP|[arb'U]/mL
+33935-8|Anti-CCP IgG|[arb'U]/mL
+5076-5|Anti-Cardiolipine IgA|[APL'U]
+8065-5|Anti-Cardiolipine IgG|[GPL'U]
+3181-5|Anti-Cardiolipine IgG|[GPL'U]
+20424-8|Interprétation Anti-cardiolipine IgG|
+8067-1|Anti-Cardiolipine IgM|[GPL'U]
+3182-3|Anti-Cardiolipine IgM|[GPL'U]
+20425-5|Interprétation Anti-Cardiolipine IgM|
+27817-6|Recherche Anti-Bêta-2 glycoprotéine 1|
+21108-6|Anti-Bêta-2 glycoprotéine 1 IgA|[arb'U]/mL
+44447-1|Anti-Bêta-2 glycoprotéine 1 IgA|[arb'U]/mL
+16135-6|Anti-Bêta-2 glycoprotéine 1 IgG|[arb'U]/mL
+44448-9|Anti-Bêta-2 glycoprotéine 1 IgG|[arb'U]/mL
+16136-4|Anti-Bêta-2 glycoprotéine 1 IgM|[arb'U]/mL
+44449-7|Anti-Bêta-2 glycoprotéine 1 IgM|[arb'U]/mL
+3286-2|Anti-phospholipides IgG|[arb'U]/mL
+3287-0|Anti-phospholipides IgM|[arb'U]/mL
+13076-5|Anti-Phosphatidyléthanolamine IgG|[arb'U]/mL
+13077-3|Anti-Phosphatidyléthanolamine IgM|[arb'U]/mL
+85359-8|Anti-PS/PT IgG|[arb'U]/mL
+85358-0|Anti-PS/PT IgM|[arb'U]/mL
+44431-5|Anti-Annexine V IgG|[arb'U]/mL
+44432-3|Anti-Annexine V IgM|[arb'U]/mL
+26971-2|Recherche Anti-muscle lisse|
+5358-7|Titre Anti-muscle lisse|{IFA_titer}
+14252-1|Anti-muscle lisse|
+8095-2|Titre Anti-muscle lisse|{titer}
+31629-9|Index Anti-muscle lisse|{index_val}
+53979-1|Anti-Actine|
+53980-9|Titre Anti-Actine|{titer}
+63484-0|Anti-Actine F|
+57410-3|Anti-Actine F|[arb'U]/mL
+17284-1|Recherche Anti-mitochondries|
+5247-2|Titre Anti-mitochondries|{IFA_titer}
+58458-1|Interprétation - Anti-mitochondrie|
+51794-6|Titre Anti-mitochondries M2|{IFA_titer}
+56632-3|Titre IgG Anti-mitochondries M2|{IFA_titer}
+63283-6|Recherche Anti-mitochondries M2|
+14251-3|Anti-mitochondries M2|[arb'U]
+72320-5|Anti-mitochondries M2-3E|
+63284-4|Recherche Anti-mitochondries M5|
+63285-1|Titre Anti-mitochondries M5|[arb'U]/mL
+53030-3|Recherche d'Anti-LKM|
+11566-7|Anti-LKM|
+9838-4|Anti-LKM|{IFA_titer}
+30535-9|Recherche d'Anti-LKM1|
+58907-7|Recherche d'Anti-LKM1|
+32220-6|Anti-LKM1|
+57434-3|Anti-LKM1|{IFA_titer}
+63274-5|Recherche d'Anti-LKM2|
+63275-2|Anti-LKM2|{IFA_titer}
+13175-5|Anti-cytosol|
+34621-3|Anti-cytosol|
+63395-8|Titre Anti-cytosol|
+35279-9|ANCA|
+21419-7|Aspect - ANCA|
+21023-7|Titre ANCA|{titer}
+29967-7|Titre IgG ANCA|{IFA_titer}
+51924-9|Titre ANCA|{IFA_titer}
+17353-4|ANCA (Fixation à l'éthanol)|
+14277-8|Titre ANCA (Fixation à l'éthanol)|{IFA_titer}
+72522-6|ANCA (Fixation au formol)|
+72521-8|ANCA (Fixation au formol)|
+17357-5|ANCA périnucléaires|
+14278-6|Titre ANCA périnucléaires|{IFA_titer}
+29641-8|ANCA atypiques|
+53012-1|Titre ANCA atypiques|{IFA_titer}
+51801-9|Titre Anti-MPO|{IFA_titer}
+63311-5|Anti-PR3|
+17352-6|Interprétation - ANCA|
+49308-0|Aspect de la fluorescence|
+29643-4|Anti-MPO|
+48404-8|Anti-MPO IgG|[arb'U]/mL
+46266-3|Anti-MPO|[arb'U]/mL
+63310-7|Anti-PR3|
+74106-6|Anti-PR3 IgG|[arb'U]/mL
+46267-1|Anti-PR3|[arb'U]/mL
+89507-8|Anti-MPO|
+89505-2|Anti-PR3|
+53260-6|Anti-membrane basale glomérulaire|
+53259-8|Titre Anti-membrane basale glomérulaire|{IFA_titer}
+63262-0|Anti-membrane basale glomérulaire|
+59394-7|Anti-membrane basale glomérulaire|[arb'U]/mL
+89514-4|Anti-membrane basale glomérulaire|
+63331-3|IgA Anti-Saccharomyces cerevisiae|
+31032-6|Anti-Saccharomyces cerevisiae|[arb'U]/mL
+47320-7|IgA Anti-Saccharomyces cerevisiae|[arb'U]/mL
+63333-9|IgG Anti-Saccharomyces cerevisiae|
+6713-2|Anti-Saccharomyces cerevisiae IgG|[arb'U]/mL
+47321-5|IgG Anti-Saccharomyces cerevisiae|[arb'U]/mL
+82982-0|Anti-pancréas exocrine|
+34406-9|Titre Anti-pancréas exocrine|{titer}
+5056-7|Anti-Membrane basale|
+31252-0|Anti-Membrane basale|
+57737-9|Titre Anti-Membrane basale|{IFA_titer}
+63566-4|Interprétation - Anti-membrane basale|
+17020-9|Anti-Substance intercellulaire|
+31441-9|Anti-Substance intercellulaire|
+51708-6|Titre Anti-Substance intercellulaire|{IFA_titer}
+82975-4|Anti-Desmosome|
+71368-5|Titre Anti-Desmosome|
+5152-4|Titre Anti-épiderme|{IFA_titer}
+21352-0|Interprétation - Anti-SIC|
+23857-6|Interprétation - Anti-épiderme|
+57738-7|Anti-BP 180|[arb'U]/mL
+53807-4|Anti-BP 230|[arb'U]/mL
+63218-2|Anti-Desmogléine 1|
+57411-1|Anti-Desmogléine 1|[arb'U]/mL
+63219-0|Anti-Desmogléine 3|
+57412-9|Anti-Desmogléine 3|[arb'U]/mL
+72524-2|Anti-Myéline|
+56629-9|Titre Anti-Myéline|{IFA_titer}
+26775-7|Anti-MAG|
+33422-7|Anti-amphiphysine|
+72504-4|Recherche anti-CV2|
+14249-7|Recherche anti-YO|
+84926-5|Recherche anti-Tr|
+94340-7|Titre Anti-amphiphysine|{IFA_titer}
+49738-8|Anti-Hu|
+43187-4|Anti-Ri|
+57749-4|Anti-amphiphysine|
+47402-3|Anti-CV2|
+35278-1|Anti-Hu|
+33008-4|Anti-Ri|
+69558-5|Anti-Ma1|
+34142-0|Anti-PNMA2|
+25834-3|Anti-recovérine|
+82449-0|Anti-Titine|
+63440-2|Anti-Tr|
+12853-8|Anti-YO|
+83002-6|Anti-Zic4|
+57750-2|Recherche Anti-amphiphysine|
+94272-2|Recherche Anti-APCA-1|
+99626-4|Recherche Anti-APCA-2|
+57451-7|Recherche Anti-CV2|
+44769-8|Recherche Anti-Hu1|
+89538-3|Recherche Anti-Hu2|
+57452-5|Recherche Anti-Ma+Ta|
+69559-3|Recherche Anti-ma1|
+81728-8|Recherche Anti-noyau|
+94383-7|Recherche Anti-cellule gliale type 1|
+53715-9|Recherche Anti-paranéoplasiques|
+84929-9|Anti-récepteur 1 AMPA|
+95604-5|Titre Anti-récepteur 1 AMPA|{IFA_titer}
+84930-7|Anti-récepteur 2 AMPA|
+93490-1|Titre Anti-récepteur 2 AMPA|{IFA_titer}
+82979-6|Anti-CASPR2|
+95600-3|Titre Anti-CASPR2|{IFA_titer}
+82977-0|Anti-récepteur B GABA|
+93427-3|Titre Anti-récepteur B GABA|{IFA_titer}
+82978-8|Anti-LGI1|
+84873-9|Titre Anti-MOG|{IFA_titer}
+44740-9|Anti-ganglioside GD1a IgG+IgM|
+82396-3|IgG+IgM Anti-ganglioside GD1a|
+88724-0|IgG+IgM Anti-ganglioside GD1a|[arb'U]/mL
+57968-0|Anti-ganglioside GD1a IgG|
+82395-5|IgG Anti-ganglioside GD1a|
+31397-3|Anti-ganglioside GD1a IgG|[arb'U]/mL
+57969-8|Anti-ganglioside GD1a IgM|
+82397-1|IgM Anti-ganglioside GD1a|
+31399-9|Anti-ganglioside GD1a IgM|[arb'U]/mL
+26926-6|IgG+IgM Anti-ganglioside GD1b|
+82398-9|IgG+IgM Anti-ganglioside GD1b|
+88730-7|IgG+IgM Anti-ganglioside GD1b|[arb'U]/mL
+43601-4|Anti-ganglioside GD1b IgG|
+94868-7|IgG Anti-ganglioside GD1b|
+56739-6|IgG Anti-ganglioside GD1b|
+56541-6|IgG Anti-ganglioside GD1b|[arb'U]/mL
+43600-6|Anti-ganglioside GD1b IgM|
+94870-3|IgM Anti-ganglioside GD1b|
+56740-4|IgM Anti-ganglioside GD1b|
+58977-0|IgM Anti-ganglioside GD1b|[arb'U]/mL
+82400-3|IgG+IgM Anti-ganglioside GD2|
+82399-7|IgG Anti-ganglioside GD2|
+59034-9|IgG Anti-ganglioside GD2|[arb'U]/mL
+82401-1|IgM Anti-ganglioside GD2|
+58980-4|IgM Anti-ganglioside GD2|[arb'U]/mL
+63240-6|IgG+IgM Anti-ganglioside GD3|
+89512-8|IgG+IgM Anti-ganglioside GD3|
+82402-9|IgG Anti-ganglioside GD3|
+58979-6|IgG Anti-ganglioside GD3|[arb'U]/mL
+82404-5|IgM Anti-ganglioside GD3|
+58978-8|IgM Anti-ganglioside GD3|[arb'U]/mL
+63244-8|IgG+IgM Anti-ganglioside GM1|
+89519-3|IgG+IgM Anti-ganglioside GM1|
+31500-2|Anti-ganglioside GM1 IgG+IgM|[arb'U]/mL
+48660-5|IgG+IgM Anti-ganglioside GM1|[arb'U]/mL
+63243-0|IgG Anti-ganglioside GM1|
+89521-9|IgG Anti-ganglioside GM1|
+51729-2|IgG Anti-ganglioside GM1|[arb'U]/mL
+63247-1|IgM Anti-ganglioside GM1|
+89518-5|IgM Anti-ganglioside GM1|
+51703-7|IgM Anti-ganglioside GM1|[arb'U]/mL
+63249-7|IgG+IgM Anti-ganglioside GM2|
+89517-7|IgG+IgM Anti-ganglioside GM2|
+88731-5|IgG+IgM Anti-ganglioside GM2|[arb'U]/mL
+63248-9|IgG Anti-ganglioside GM2|
+89525-0|IgG Anti-ganglioside GM2|
+56543-2|IgG Anti-ganglioside GM2|[arb'U]/mL
+63250-5|IgM Anti-ganglioside GM2|
+89524-3|IgM Anti-ganglioside GM2|
+56544-0|IgM Anti-ganglioside GM2|[arb'U]/mL
+63252-1|IgG+IgM Anti-ganglioside GM3|
+89511-0|IgG+IgM Anti-ganglioside GM3|
+63251-3|IgG Anti-ganglioside GM3|
+89522-7|IgG Anti-ganglioside GM3|
+59033-1|IgG Anti-ganglioside GM3|[arb'U]/mL
+63253-9|IgM Anti-ganglioside GM3|
+89510-2|IgM Anti-ganglioside GM3|
+58967-1|IgM Anti-ganglioside GM3|[arb'U]/mL
+82408-6|IgG+IgM Anti-ganglioside GM4|
+82407-8|IgG Anti-ganglioside GM4|
+58966-3|IgG Anti-ganglioside GM4|[arb'U]/mL
+82409-4|IgM Anti-ganglioside GM4|
+58965-5|IgM Anti-ganglioside GM4|[arb'U]/mL
+17578-6|IgG+IgM Anti-ganglioside GQ1b|
+82410-2|IgG+IgM Anti-ganglioside GQ1b|
+88729-9|IgG+IgM Anti-ganglioside GQ1b|[arb'U]/mL
+63254-7|IgG Anti-ganglioside GQ1b|
+56741-2|IgG Anti-ganglioside GQ1b|
+57660-3|IgG Anti-ganglioside GQ1b|[arb'U]/mL
+63255-4|IgM Anti-ganglioside GQ1b|
+56742-0|IgM Anti-ganglioside GQ1b|
+56545-7|IgM Anti-ganglioside GQ1b|[arb'U]/mL
+63256-2|IgG+IgM Anti-ganglioside GT1a|
+89509-4|IgG+IgM Anti-ganglioside GT1a|
+82411-0|IgG Anti-ganglioside GT1a|
+58964-8|IgG Anti-ganglioside GT1a|[arb'U]/mL
+82413-6|IgM Anti-ganglioside GT1a|
+58963-0|IgM Anti-ganglioside GT1a|[arb'U]/mL
+63258-8|IgG+IgM Anti-ganglioside GT1b|
+89516-9|IgG+IgM Anti-ganglioside GT1b|
+63257-0|IgG Anti-ganglioside GT1b|
+89523-5|IgG Anti-ganglioside GT1b|
+58962-2|IgG Anti-ganglioside GT1b|[arb'U]/mL
+63259-6|IgM Anti-ganglioside GT1b|
+89515-1|IgM Anti-ganglioside GT1b|
+58961-4|IgM Anti-ganglioside GT1b|[arb'U]/mL
+44736-7|IgG+IgM Anti-ganglioside asialo-GM1|
+88723-2|IgG+IgM Anti-ganglioside asialo-GM1|[arb'U]/mL
+63212-5|IgG Anti-ganglioside asialo-GM1|
+44708-6|IgG Anti-ganglioside asialo-GM1|[arb'U]/mL
+63384-2|IgM Anti-ganglioside asialo-GM1|
+44709-4|IgM Anti-ganglioside asialo-GM1|[arb'U]/mL
+31667-9|Anti-sulfatide IgG+IgM|
+82445-8|IgG+IgM Anti-sulfatide|
+89500-3|IgG Anti-sulfatide|
+27894-5|IgG Anti-sulfatide|
+17669-3|IgG Anti-sulfatide|[arb'U]/mL
+44753-2|Anti-sulfatide IgM|
+82447-4|IgM Anti-sulfatide|
+17671-9|IgM Anti-sulfatide|[arb'U]/mL
+5265-4|Anti-ilots de Langerhans|
+56687-7|Titre IgG anti-ilots de Langerhans|{titer}
+45225-0|Titre IgG anti-ilots de Langerhans|{titer}
+63571-4|Interprétation - Anti-ilots de Langerhans|
+72523-4|Recherche anti-GAD|
+56540-8|Anti-GAD|[arb'U]/mL
+56546-5|Anti-insuline|[arb'U]/mL
+56718-0|Anti-IA2|[arb'U]/mL
+76651-9|Anti-ZnT8|[arb'U]/mL
+10362-2|IgA Anti-Endomysium|
+46126-9|IgA Anti-Endomysium|
+10863-9|Titre IgA Anti-Endomysium|{titer}
+27038-9|Titre IgA Anti-Endomysium|{titer}
+39554-1|IgG Anti-Endomysium|
+14708-2|Titre Anti-Endomysium|{titer}
+51699-7|Titre IgG Anti-Endomysium|{titer}
+54929-5|Titre Anti-Transglutaminase tissulaire|{IFA_titer}
+31017-7|Transglutaminase tissulaire IgA|[arb'U]/mL
+46128-5|IgA Anti-Transglutaminase tissulaire|[arb'U]/mL
+32998-7|Transglutaminase tissulaire IgG|{index_val}
+56537-4|IgG Anti-Transglutaminase tissulaire|{index_val}
+20495-8|IgA Anti-gliadine|[arb'U]/mL
+20496-6|IgG Anti-gliadine|[arb'U]/mL
+63453-5|IgA Anti-gliadine déaminée|[arb'U]/mL
+63459-2|IgG Anti-gliadine déaminée|[arb'U]/mL
+57414-5|Anti-Réticuline R1|
+51722-7|Titre Anti-Réticuline R1|{IFA_titer}
+17522-4|Titre IgA Anti-Réticuline R1|{IFA_titer}
+17524-0|Titre IgG Anti-Réticuline R1|{IFA_titer}
+35280-7|IgA Anti-Transglutaminase tissulaire|
+68937-2|Anti-RACH|nmol/L
+56477-3|Anti-Thyropéroxidase|[IU]/mL
+56536-6|Anti-Thyroglobuline|[IU]/mL
+8099-4|Anti-Thyropéroxidase|[IU]/mL
+8098-6|Anti-Thyroglobuline|[IU]/mL
+5385-0|Anti-Récepteur à la TSH (TRAK)|U/L
+57416-0|Anti-Récepteur à la TSH (TRAK)|[IU]/L
+80387-4|Dépistage rapide VIH 1+2|
+56888-1|VIH 1+2 Ac+VIH 1 p24 Ag|
+58900-2|VIH 1+2 Ac+VIH 1 p24 Ag - Index|{EIA_index}
+31201-7|Dépistage Ac VIH 1+2|
+22357-8|VIH 1+2 Ac|{EIA_index}
+5223-3|VIH 1+2 Ac - Index|{EIA_index}
+42339-2|VIH 1 p24 Ag|pg/mL
+53601-1|VIH 1 p24 - Index Ag|{EIA_index}
+42768-2|Interprétation - Sérologie VIH|
+5221-7|Recherche d'Ac Anti-VIH-1|
+32827-8|p17+p18|
+9664-4|p24|
+9666-9|p31|
+35565-1|p40|
+9667-7|p51|
+9668-5|p55|
+12894-2|p68|
+9662-8|Gp41|
+9661-0|Gp120|
+9660-2|Gp160|
+43185-8|Interprétation immunoblot - Sérologie VIH|
+13499-9|Interprétation immunoblot - Sérologie VIH-1|
+5225-8|Recherche d'anti-VIH 2|
+10902-5|Gp36|
+21334-8|Gp105|
+57976-3|Gp140|
+57977-1|p16|
+11079-1|p26|
+57978-9|p34|
+11081-7|p56|
+11082-5|p68|
+31073-0|Interprétation immunoblot - Sérologie VIH-2|
+29901-6|Recherche Ac HTLV 1+2|
+5226-6|HTLV 1+2 Ac - Index|{EIA_index}
+42769-0|Interprétation - Sérologie HTLV|
+16982-1|Recherche Ac HTLV 1+2|
+77741-7|Streptavidine|
+44580-9|HTLV p21 env|
+14027-7|HTLV rgp21|
+14020-2|HTLV p19|
+77745-8|HTLV p19-I|
+14021-0|HTLV p24|
+14022-8|HTLV p26|
+14023-6|HTLV p28|
+14024-4|HTLV p32|
+14025-1|HTLV p36|
+14019-4|HTLV gp46|
+77746-6|HTLV gp46-I|
+77747-4|HTLV gp46-II|
+14026-9|HTLV p53|
+21347-0|Interprétation immunoblot - Sérologie HTLV|
+13950-1|Recherche IgM HVA|
+5181-3|HVA - Index IgM|{EIA_index}
+53776-1|Interprétation - Sérologie Hépatite A|
+13951-9|Recherche Ac HVA|
+5183-9|Ac HVA totaux|[IU]/L
+40724-7|Recherche IgG HVA|
+22313-1|HVA - Index IgG|{EIA_index}
+5179-7|HVA - Index IgG|{EIA_index}
+5196-1|Recherche Ag HBs|
+10900-9|Recherche Ac HBs|
+13952-7|Recherche Ac HBc|
+5193-8|Ac HBs|[IU]/L
+95235-8|Interprétation - Sérologie Hépatite B|
+45159-1|Commentaire - Sérologie Hépatite B|
+7905-3|Recherche Ag HBs|
+63557-3|Ag HBs|[IU]/L
+95234-1|Interprétation - Ag Hbs|
+5187-0|Ac HBc - Index|{EIA_index}
+106938-4|Ac HBc - Index|{EIA_index}
+24113-3|Recherche IgM HBc|
+5185-4|HBc - Index IgM|{EIA_index}
+13954-3|Recherche Ag Hbe|
+5191-2|Hbe - Index Ag|{EIA_index}
+13953-5|Recherche Ac Hbe|
+5189-6|HBV - Index HBe|{EIA_index}
+40727-0|Recherche Ac HDV|
+5200-1|HDV - Index|{EIA_index}
+44938-9|Recherche IgM HDV|
+44826-6|HDV - Index IgM|{EIA_index}
+35273-2|Recherche IgG HDV|
+49775-0|HDV - Index IgG|{EIA_index}
+95238-2|Interprétation - Sérologie Hépatite D|
+44754-0|Recherche Ag HDV|
+44755-7|Ag HDV|{EIA_index}
+13955-0|Recherche Ac HCV|
+5198-7|HCV - Index|{EIA_index}
+40726-2|Recherche IgG HCV|
+16936-7|Hépatite C virus Ac IgG|{EIA_index}
+57006-9|HCV - Index IgG|{EIA_index}
+95237-4|Interprétation - Sérologie Hépatite C|
+5199-5|Recherche Ac HCV|
+33462-3|Recherche IgG HCV|
+56926-9|HCV Ac - C1|
+56927-7|HCV Ac - C2|
+56928-5|HCV Ac - E2|
+56929-3|HCV Ac - NS3|
+56930-1|HCV Ac - NS4|
+23871-7|HCV Ac - NS5|
+9609-9|HCV Ac - 22-3|
+44813-4|HCV Ac - c22p|
+9610-7|HCV Ac - c33c|
+11076-7|HCV Ac - 5-1-1|
+23870-9|HCV Ac - 100+5-1-1|
+51649-2|HCV Ac - c100p+5-1-1|
+9608-1|HCV Ac - 100-3|
+11077-5|HCV Ac - SOD|
+24011-9|Interprétation immunoblot - Sérologie Hépatite C|
+34162-8|Interprétation immunoblot - Sérologie IgG Hépatite C|
+58936-6|Recherche Ac HEV|
+49776-8|HEV - Index|{EIA_index}
+49693-5|Recherche IgG HEV|
+56513-5|HEV - Index IgG|{EIA_index}
+14212-5|Recherche IgM HEV|
+51798-7|HEV - Index IgM|{EIA_index}
+95240-8|Interprétation - Sérologie Hépatite E|
+13949-3|Recherche IgG CMV|
+7852-7|IgG CMV|[arb'U]/mL
+5124-3|IgG CMV|[arb'U]/mL
+30325-5|Recherche IgM CMV|
+24119-0|Recherche IgM CMV|
+5126-8|IgM CMV|[arb'U]/mL
+78445-4|CMV Avidité|
+52984-2|CMV : Pourcentage d'avidité|%
+20475-0|Interprétation - Sérologie CMV|
+36921-5|Recherche IgG HSV 1+2|
+90461-5|Recherche IgG HSV 1+2|
+27948-9|HSV 1+2 Ac IgG|[arb'U]/mL
+41149-6|Recherche IgM HSV 1+2|
+90464-9|Recherche IgM HSV-1+2|
+41399-7|HSV 1+2 Ac IgM|[arb'U]/mL
+51916-5|Recherche IgG HSV 1|
+5206-8|HSV 1 Ac IgG|[arb'U]/mL
+43180-9|Recherche IgG HSV 2|
+5209-2|HSV 2 Ac IgG|[arb'U]/mL
+13505-3|Interprétation - Sérologie HSV 1+2|
+44521-3|Recherche d'IgG anti-HHV-6|
+97991-4|Index IgG HHV-6|{index_val}
+25416-9|Titre IgG HHV-6|{titer}
+97992-2|Recherche d'IgM anti-HHV-6|
+25417-7|Titre IgM HHV-6|{titer}
+51730-0|Interprétation Sérologie HHV-6|
+40834-4|Recherche d'IgG anti-HHV-8|
+42508-2|Index IgG HHV-8|{index_val}
+47050-0|Titre IgG HHV-8|{titer}
+97863-5|Recherche d'IgM anti-HHV-8|
+48358-6|Titre IgM HHV-8|{titer}
+6425-3|MNI Test|
+6424-6|MNI Test - Titre Ac|{HA_titer}
+24114-1|Recherche IgG VCA EBV|
+7885-7|Epstein barr virus Ac capside IgG|[arb'U]/mL
+5157-3|IgG VCA EBV|[arb'U]/mL
+30340-4|Epstein barr virus Ac capside IgM|
+24115-8|Recherche IgM VCA EBV|
+7886-5|Epstein barr virus Ac capside IgM|[arb'U]/mL
+5159-9|IgM VCA EBV|[arb'U]/mL
+5156-5|Recherche IgG EBNA EBV|
+31374-2|Epstein barr virus Ac nucléaire IgG|{EIA_index}
+30083-0|EBV - index IgG EBNA|{EIA_index}
+40752-8|Recherche IgG EA EBV|
+24007-7|IgG EA EBV|[arb'U]/mL
+97993-0|Titre IgM EA EBV|{titer}
+47072-4|Titre IgA EA EBV|{titer}
+49564-8|Interprétation immunoblot - Sérologie EBV|
+15410-4|Recherche IgG VZV|
+5403-1|Ac VZV IgG|[IU]/L
+6569-8|VZV - Titre IgG|{IFA_titer}
+29662-4|Recherche IgM VZV|
+5404-9|VZV - Index IgM|{EIA_index}
+43810-1|Recherche Ac virus de la rubéole|
+8013-5|Ac virus de la rubéole|[IU]/mL
+51931-4|Ac virus de la rubéole|[IU]/mL
+40667-8|Recherche IgG virus de la rubéole|
+8014-3|IgG virus de la rubéole|[IU]/mL
+5334-8|IgG virus de la rubéole|[IU]/mL
+20458-6|Interprétation - Sérologie IgG Rubéole|
+31616-6|Recherche IgM virus de la rubéole|
+24116-6|Recherche IgM virus de la rubéole|
+5335-5|IgM virus de la rubéole|[arb'U]/mL
+52986-7|Virus de la rubéole - Indice d'avidité|%
+69765-6|Recherche IgM virus de la rubéole|
+74415-1|Recherche IgG virus de la rubéole|
+35275-7|Recherche IgG virus de la rougeole|
+5244-9|IgG virus de la rougeole|[arb'U]/mL
+35276-5|Recherche IgM virus de la rougeole|
+25421-9|IgM virus de la rougeole|[arb'U]/mL
+44012-3|Interprétation - Sérologie de la rougeole|
+53537-7|Recherche IgM virus de la rougeole|
+53536-9|Recherche IgG virus de la rougeole|
+6476-6|Recherche IgG virus des oreillons|
+25418-5|IgG virus des oreillons|[arb'U]/mL
+6478-2|Recherche IgM virus des oreillons|
+25419-3|IgM virus des oreillons|[arb'U]/mL
+73560-5|Interpétation - Sérologie des oreillons|
+44556-9|Recherche Grippe A|
+20862-9|Recherche Grippe A|
+22822-1|Recherche Grippe A|
+86567-5|Recherche IgM Grippe A|
+86566-7|Recherche IgG Grippe A|
+44568-4|Recherche Grippe B|
+49533-3|Recherche Grippe B|
+86570-9|Recherche IgM Grippe B|
+88903-0|Recherche IgG Grippe B|
+44010-7|Interprétation - Sérologie de la grippe|
+80382-5|Recherche Ag Grippe A|
+80383-3|Recherche Ag Grippe B|
+5869-3|Ag Parainfluenza virus 1|
+5871-9|Ag Parainfluenza virus 2|
+5873-5|Ag Parainfluenza virus 3|
+5268-8|Parainfluenza virus 1 - Titre Ac|{titer}
+5269-6|Parainfluenza virus 2 - Titre Ac|{titer}
+5270-4|Parainfluenza virus 3 - Titre Ac|{titer}
+94768-9|Recherche IgA Anti-Coronavirus SARS-CoV-2|
+94507-1|Recherche IgG Anti-Coronavirus SARS-CoV-2|
+94508-9|Recherche IgM Anti-Coronavirus SARS-CoV-2|
+94762-2|Recherche Ac Anti-Coronavirus SARS-CoV-2|
+94761-4|Recherche IgG Anti-Coronavirus SARS-CoV-2|
+94563-4|Recherche IgG Anti-Coronavirus SARS-CoV-2|
+94505-5|IgG Anti-Coronavirus SARS-CoV-2|{index_val}
+99597-7|IgG Anti-protéine Spike Coronavirus SARS-CoV-2|{index_val}
+99596-9|IgG Anti-nucléocapside Coronavirus SARS-CoV-2|{index_val}
+95416-4|Recherche IgM Anti-Coronavirus SARS-CoV-2|
+94564-2|Recherche IgM Anti-Coronavirus SARS-CoV-2|
+94506-3|IgM Anti-Coronavirus SARS-CoV-2|{index_val}
+94562-6|Recherche IgA Anti-Coronavirus SARS-CoV-2|
+94720-0|IgA Anti-Coronavirus SARS-CoV-2|{index_val}
+94661-6|Interprétation -  Sérologie Coronavirus SARS-CoV-2|
+94558-4|Antigène COVID-19|
+96119-3|Antigène COVID-19|
+97097-0|Antigène COVID-19|
+29660-8|Recherche IgG Parvovirus B19|
+5273-8|Parvovirus B19 - Index IgG|{EIA_index}
+40658-7|Recherche IgM Parvovirus B19|
+5274-6|Parvovirus B19 - Index IgM|{EIA_index}
+58737-8|Interpétation - Sérologie Parvovirus B19|
+43618-8|Recherche Ac Adénovirus|
+44289-7|Adénovirus Ac|[arb'U]/mL
+5041-9|Titre Ac Adénovirus|{titer}
+17547-1|Recherche Ag Rotavirus|
+72174-6|Recherche Ag Rotavirus|
+31711-5|Recherche Ag Adénovirus|
+78529-5|Recherche Ag Adénovirus|
+80375-9|Recherche Ag Norovirus|
+32134-9|Dépistage Adénovirus+rotavirus|
+29661-6|Recherche IgG virus de la Dengue|
+23991-3|Dengue virus - Index IgG|{EIA_index}
+29663-2|Recherche IgM virus de la Dengue|
+23992-1|Dengue virus - Index IgM|{EIA_index}
+51785-4|Interprétation - Sérologie de la Dengue|
+75377-2|Recherche de l'antigène NS1|
+91064-6|Recherche de l'antigène NS1|
+62466-8|Recherche IgG Virus BK|
+88630-9|Recherche IgG anti-Virus Chikungunya|
+97866-8|IgG anti-Virus Chikungunya|{index_val}
+88629-1|Recherche IgM anti-Virus Chikungunya|
+97867-6|IgM anti-Virus Chikungunya|{index_val}
+95687-0|Recherche IgM anti-Virus Chikungunya|
+95672-2|Recherche IgG anti-Virus Chikungunya|
+70173-0|Recherche Ac anti-virus JC|
+41249-4|Recherche d'Ac anti-fièvre jaune|
+6591-2|Ac anti-fièvre jaune|{index_val}
+6589-6|Titre d'Ac anti-fièvre jaune|{titer}
+77954-6|Recherche IgG anti-fièvre jaune|
+6592-0|IgG anti-fièvre jaune|{index_val}
+77955-3|Recherche IgM anti-fièvre jaune|
+6593-8|IgM anti-fièvre jaune|{index_val}
+91080-2|Recherche IgG anti-virus Zika|
+97870-0|IgG anti-virus Zika|{index_val}
+80824-6|Recherche IgM anti-virus Zika|
+80619-0|IgM anti-virus Zika|{index_val}
+87439-6|Interprétation Sérologie virus Zika|
+87622-7|Recherche IgM anti-virus Zika|
+95663-1|Recherche IgG anti-virus Zika|
+33390-6|Recherche Ac Anti-VRS|
+52975-0|Titre Anti-VRS|{titer}
+40989-6|Recherche IgG Anti-VRS|
+7991-3|IgG Anti-VRS|{index_val}
+69962-9|Recherche IgM Anti-VRS|
+7992-1|IgM Anti-VRS|{index_val}
+72885-7|Recherche de VRS|
+68966-1|Recherche de VRS|
+5876-8|Recherche de VRS|
+42503-3|Recherche d'Ac Anti-Hantavirus|
+26620-5|Recherche IgG Anti-Hantavirus|
+35392-0|IgG Anti-Hantavirus|{index_val}
+32131-5|Recherche IgM Anti-Hantavirus|
+35393-8|IgM Anti-Hantavirus|{index_val}
+30546-6|Recherche d'Ac anti-Poliovirus 1|
+5281-1|Titre Anti-Poliovirus 1|{titer}
+30547-4|Recherche d'Ac anti-Poliovirus 2|
+5283-7|Titre Anti-Poliovirus 2|{titer}
+30548-2|Recherche d'Ac anti-Poliovirus 3|
+5285-2|Titre Anti-Poliovirus 3|{titer}
+41507-5|Recherche d'Ac Anti-virus de la Rage|
+43590-9|Ac Anti-virus de la Rage|{index_val}
+29566-7|Recherche d'IgG Anti-West Nile virus|
+38997-3|IgG anti-West Nile virus|{index_val}
+29567-5|Recherche d'IgM Anti-West Nile virus|
+38166-5|IgM anti-West Nile virus|{index_val}
+30178-8|Recherche d'IgG Anti-West Nile virus|
+29778-8|Recherche d'IgM Anti-West Nile virus|
+100892-9|Recherche IgM Orthopoxvirus|
+100891-1|Recherche IgG Orthopoxvirus|
+71770-2|Recherche IgG virus Ebola|
+71769-4|Recherche IgG virus Marburg|
+7942-6|Recherche IgG virus Lassa|
+88191-2|Recherche IgG FHV|
+20449-5|Recherche Borrelia burgdorferi|
+5060-9|Ac Borrelia burgdorferi|{EIA_index}
+16480-6|Recherche IgG Borrelia burgdorferi|
+7817-0|Borrelia burgdorferi IgG|[arb'U]/mL
+5062-5|Borrelia burgdorferi IgG|[arb'U]/mL
+40612-4|Recherche IgM Borrelia burgdorferi|
+7818-8|Borrelia burgdorferi IgM|[arb'U]/mL
+5064-1|Borrelia burgdorferi IgM|[arb'U]/mL
+9586-9|Interprétation - Sérologie Borreliose|
+9588-5|Borrelia Ac IgG 18kD|
+98206-6|Borrelia Ac IgG 21kD (DbpA)|
+9589-3|Borrelia Ac IgG 23kD (OspA)|
+9590-1|Borrelia Ac IgG 28kD|
+9591-9|Borrelia Ac IgG 30kD|
+44946-2|Borrelia Ac IgG 31kD (OspA)|
+49977-2|Borrelia Ac IgG 35kD (VlsE)|
+9592-7|Borrelia Ac IgG 39kD (BmpA)|
+9593-5|Borrelia Ac IgG 41kD|
+9594-3|Borrelia Ac IgG 45kD|
+9595-0|Borrelia Ac IgG 58kD (OppA-2)|
+9596-8|Borrelia Ac IgG 66kD|
+49996-2|Borrelia Ac IgG 83-93kD|
+9597-6|Borrelia Ac IgG 93kD|
+6320-6|Borrelia IgG - Score|
+13502-0|Interprétation - Borrelia IgG par immunoblot|
+49994-7|Borrelia Ac IgM 18-20kD|
+9598-4|Borrelia Ac IgM 23kD (OspC)|
+32666-0|Borrelia Ac IgM 25kD|
+44947-0|Borrelia Ac IgM 31kD (OspA)|
+44948-8|Borrelia Ac IgM 34kD|
+49979-8|Borrelia Ac IgM 35kD (VlsE)|
+49983-0|Borrelia Ac IgM 37kD|
+9599-2|Borrelia Ac IgM 39kD (BmpA)|
+9587-7|Borrelia Ac IgM 41kD|
+21116-9|Borrelia Ac IgM 66kD|
+49997-0|Borrelia Ac IgM 83-93kD|
+21117-7|Borrelia Ac IgM 93kD (P100)|
+6321-4|Borrelia Ac IgM - Score|
+13503-8|Interprétation - Borrelia IgM Immunoblot|
+12781-1|Interprétation immunoblot - Sérologie Borreliose|
+83080-2|Recherche IgG Borrelia burgdorferi|
+14077-2|IgG Borrelia burgdorferi|[IU]/mL
+98208-2|Recherche IgM Borrelia burgdorferi|
+14078-0|IgM Borrelia burgdorferi|[IU]/mL
+42767-4|Interpétation - Sérologie Borréliose (LCR)|
+13202-7|Recherche IgG Borrelia|
+48500-3|Borrelia Ac IgG 18kD|
+28057-8|Borrelia Ac IgG 23kD (OspA)|
+49973-1|Borrelia Ac IgG 31kD (OspA)|
+49978-0|Borrelia Ac IgG 35kD (VlsE)|
+28036-2|Borrelia Ac IgG 39kD (BmpA)|
+28040-4|Borrelia Ac IgG 41kD|
+28048-7|Borrelia Ac IgG 58kD (OppA-2)|
+49995-4|Borrelia Ac IgG 83-93kD|
+28054-5|Borrelia Ac IgG 93kD|
+23979-8|Interprétation - Immunoblot Borrelia IgG|
+13203-5|Recherche IgM Borrelia|
+49993-9|Borrelia Ac IgM 18-20kD|
+28062-8|Borrelia Ac IgM 23kD (OspC)|
+49974-9|Borrelia Ac IgM 31kD (OspA)|
+49980-6|Borrelia Ac IgM 35kD (VlsE)|
+28037-0|Borrelia Ac IgM 39kD (BmpA)|
+28043-8|Borrelia Ac IgM 41kD|
+49998-8|Borrelia Ac IgM 83-93kD|
+23985-5|Interprétation - Immunoblot Borrelia IgM|
+32575-3|Recherche IgG Bartonella henselae|
+6954-2|Bartonella henselae - Titre IgG|{IFA_titer}
+32576-1|Recherche IgM Bartonella henselae|
+6955-9|Bartonella henselae - Titre IgM|{IFA_titer}
+32577-9|Recherche IgG Bartonella quintana|
+44827-4|Bartonella quintana - Titre IgG|{IFA_titer}
+32578-7|Recherche IgM Bartonella quintana|
+44825-8|Bartonella quintana - Titre IgM|{IFA_titer}
+40614-0|Recherche d'Ac Anti-Brucella|
+19053-8|Titre Ac Anti-Brucella|{titer}
+66485-4|Interprétation - Sérologie Brucellose|
+49913-7|Recherche IgG anti L. pneumophila|
+29955-2|IgG anti L. pneumophila|{index_val}
+98210-8|Recherche IgM anti L. pneumophila|
+51814-2|IgM anti L. pneumophila|{index_val}
+73671-0|Sérogroupe Legionella pneumophila|
+34372-3|Salmonella typhi O - Titre Ac|{titer}
+23930-1|Salmonella typhi OD - Titre Ac|{titer}
+57769-2|Salmonella typhi O Vi|
+34371-5|Salmonella typhi H - Titre Ac|{titer}
+47388-4|Salmonella typhi HD - Titre Ac|{titer}
+33470-6|Salmonella paratyphi AO - Titre Ac|{titer}
+21511-1|Salmonella paratyphi AH - Titre Ac|{titer}
+27938-0|Salmonella paratyphi BO - Titre Ac|{titer}
+21513-7|Salmonella paratyphi BH - Titre Ac|{titer}
+34370-7|Salmonella paratyphi CO - Titre Ac|{titer}
+34369-9|Salmonella paratyphi CH - Titre Ac|{titer}
+34431-7|Salmonella enteritidis H - Titre Ac|{titer}
+34432-5|Salmonella typhimurium H - Titre Ac|{titer}
+40941-7|Recherche Yersinia enterocolitica|
+40498-8|Titre Yersinia enterocolitica|{titer}
+40932-6|Recherche Yersinia enterocolitica O:3|
+40577-9|Yersinia enterocolitica O:3 - Titre Ac|{titer}
+40933-4|Recherche Ac Yersinia enterocolitica O:5|
+48312-3|Yersinia enterocolitica O:5 - Titre Ac|{titer}
+40934-2|Recherche Yersinia enterocolitica O:8|
+40576-1|Yersinia enterocolitica O:8 - Titre Ac|{titer}
+40935-9|Recherche Yersinia enterocolitica O:9|
+48313-1|Yersinia enterocolitica O:9 - Titre Ac|{titer}
+40936-7|Recherche Yersinia pseudotuberculosis|
+40494-7|Titre Ac Yersinia pseudotuberculosis 1|{titer}
+40497-0|Yersinia pseudotuberculosis 1 - Titre Ac|{titer}
+40496-2|Yersinia pseudotuberculosis 2 - Titre Ac|{titer}
+40495-4|Yersinia pseudotuberculosis 3 - Titre Ac|{titer}
+40677-7|Recherche IgG Toxoplasma gondii|
+8039-0|Toxoplasma gondii Ac IgG|[arb'U]/mL
+5388-4|Toxoplasma gondii IgG|[IU]/mL
+25542-2|Recherche IgM Toxoplasma gondii|
+40678-5|Recherche IgM Toxoplasma gondii|
+8040-8|Toxoplasma gondii IgM|[IU]/L
+5390-0|Toxoplasma gondii IgM|{index_val}
+56991-3|Toxoplasma : Avidité|
+56990-5|Toxoplasma : Pourcentage d'avidité|%
+20464-4|Interprétation - Sérologie Toxoplasmose|
+100114-8|Ac Toxoplasma P30|
+100115-5|Ac Toxoplasma P31|
+100116-3|Ac Toxoplasma P33|
+100117-1|Ac Toxoplasma P40|
+100118-9|Ac Toxoplasma P41|
+100119-7|Ac Toxoplasma P45|
+21569-9|Titre IgG Toxoplasma gondii (LCR)|{titer}
+30568-0|Recherche IgG Toxoplasma gondii (LCR)|
+30038-4|IgG Toxoplasma gondii (LCR)|[IU]/mL
+17859-0|Recherche IgG Helicobacter pylori|
+5176-3|Helicobacter pylori IgG|[arb'U]/mL
+16125-7|Recherche IgA Helicobacter pylori|
+6420-4|Helicobacter pylori IgA|[arb'U]/mL
+51762-3|Helicobacter pylori - Interprétation|
+31843-6|Recherche d'Helicobacter pylori dans les selles|
+45135-1|Recherche IgG Chlamydia trachomatis|
+5089-8|Chlamydia trachomatis IgG|[arb'U]/mL
+26715-3|Chlamydia trachomatis IgG|[arb'U]/mL
+45005-6|Recherche IgA Chlamydia trachomatis|
+100121-3|Recherche IgA Chlamydia trachomatis|
+31293-4|Chlamydia trachomatis IgA|[arb'U]/mL
+45006-4|Chlamydia trachomatis IgA|[arb'U]/mL
+41157-9|Recherche IgM Chlamydia trachomatis|
+40710-6|Recherche IgM Chlamydia trachomatis|
+45001-5|Chlamydia trachomatis IgM|[arb'U]/mL
+44079-2|Inteprétation - Sérologie Chlamydia trachomatis|
+100123-9|Recherche IgA Chlamydia pneumoniae|
+31300-7|Chlamydia pneumoniae IgA|[arb'U]/mL
+100124-7|IgA Chlamydia pneumoniae|[arb'U]/mL
+89641-5|IgG Chlamydia pneumoniae|
+51806-8|Chlamydia pneumoniae IgG|[arb'U]/mL
+24004-4|Recherche IgM Chlamydia pneumoniae|
+89640-7|Recherche IgM Chlamydia pneumoniae|
+51807-6|IgM Chlamydia pneumoniae|[arb'U]/mL
+50612-1|Chlamydia pneumoniae - Interprétation|
+6915-3|Titre IgA Chlamydia psittachi|{titer}
+6916-1|Titre IgG Chlamydia psittachi|{titer}
+6917-9|Titre IgM Chlamydia psittachi|{titer}
+44081-8|Interprétation Sérologie Chlamydia psittachi|
+17302-1|Recherche Ac totaux Mycoplasma pneumoniae|
+45224-3|Recherche IgG Mycoplasma pneumoniae|
+5255-5|IgG Mycoplasma pneumoniae|[arb'U]/mL
+5256-3|IgM Mycoplasma pneumoniae|[arb'U]/mL
+5257-1|Recherche IgM Mycoplasma pneumoniae|
+29659-0|Recherche d'IgG anti-Bordetella pertussis|
+42330-1|IgG anti-Bordetella pertussis|[arb'U]/mL
+85684-9|Recherche d'IgG anti-Toxine Bordetella pertussis|
+24127-3|IgG anti-Toxine Bordetella pertussis|[arb'U]/mL
+69753-2|Recherche d'IgA Anti-Bordetella|
+69754-0|Recherche d'IgG Anti-Bordetella|
+69755-7|Recherche d'IgG Anti Toxine Bordetella|
+74765-9|Recherche d'IgA Anti Toxine Bordetella|
+74766-7|Recherche d'IgG Anti-Toxine 100 Bordetella|
+34716-1|Fièvre Q IgG anti-phase 1|{titer}
+47075-7|Fièvre Q IgM anti-phase 1|{titer}
+34717-9|Fièvre Q IgG anti-phase 2|{titer}
+44814-2|Fièvre Q IgM anti-phase 2|{titer}
+44021-4|Interprétation Sérologie Fièvre Q|
+53935-3|Antitoxine tétanique IgG|[IU]/mL
+23776-8|Recherche d'Ac anti-Rickettsia groupe fièvre boutonneuse|
+5311-6|Titre d'Ac anti-Rickettsia groupe fièvre boutonneuse|{titer}
+32999-5|Recherche IgG anti-Rickettsia groupe fièvre boutonneuse|
+5313-2|Titre IgG anti-Rickettsia groupe fièvre boutonneuse|{titer}
+33000-1|Recherche IgM anti-Rickettsia groupe fièvre boutonneuse|
+5315-7|Titre IgM anti-Rickettsia groupe fièvre boutonneuse|{titer}
+29702-8|Recherche Ac anti-Rickettsia conori|
+29665-7|Titre Ac anti-Rickettsia conori|{titer}
+25749-3|Titre IgG anti-Rickettsia conori|{titer}
+25750-1|Titre IgM anti-Rickettsia conori|{titer}
+22491-5|Recherche Ac anti-Rickettsia groupe Typhus|
+5316-5|Recherche Ac anti-Rickettsia groupe Typhus|
+5318-1|Titre Ac anti-Rickettsia groupe typhus|{titer}
+5320-7|Titre IgG anti-Rickettsia groupe typhus|{titer}
+5322-3|Titre IgM anti-Rickettsia groupe typhus|{titer}
+29706-9|Recherche Ac anti-Rickettsia rickettsii|
+29705-1|Titre Ac anti-Rickettsia rickettsii|{titer}
+42968-8|Recherche d'IgG anti-Rickettsia rickettsii|
+5307-4|Titre IgG anti-Rickettsia rickettsii|{titer}
+42969-6|Recherche d'IgM anti-Rickettsia rickettsii|
+5308-2|Titre IgM anti-Rickettsia rickettsii|{titer}
+29712-7|Recherche d'Ac anti-Rickettsia typhi|
+29711-9|Titre Ac anti-Rickettsia typhi|{titer}
+56881-6|Recherche IgG anti-Rickettsia typhi|
+5324-9|Titre IgG anti-Rickettsia typhi|{titer}
+33001-9|Recherche IgM anti-Rickettsia typhi|
+5325-6|Titre IgM anti-Rickettsia typhi|{titer}
+66718-8|Interprétation - Sérologie Rickettsies|
+40616-5|Recherche d'IgA anti-campylobacter|
+40617-3|Recherche d'IgG anti-campylobacter|
+69575-9|Recherche d'Ac anti-campylobacter jejuni|
+23124-1|Recherche d'Ac anti-Francisella tularensis|
+23125-8|Titre Ac Anti-Francisella tularensis|{titer}
+93717-7|Recherche IgG anti-Francisella tularensis|
+70121-9|IgG Anti-Francisella tularensis|[arb'U]/mL
+93716-9|Recherche IgM anti-Francisella tularensis|
+16878-1|IgM Anti-Francisella tularensis|[arb'U]/mL
+93718-5|Interprétation - Sérologie de la tularémie|
+33706-3|Recherche d'Ac Yersinia pestis|
+48654-8|IgG Toxine Corynebacterium diphtheriae|
+51815-9|IgG Leptospira|[arb'U]/mL
+51819-1|IgM Leptospira|[arb'U]/mL
+23198-5|Titre Ac Leptospira|{titer}
+25788-1|Antistreptolysine O|[IU]/mL
+5371-0|Titre Antistreptolysine O|{titer}
+5133-4|Antistreptodornase|[IU]/mL
+14207-5|Titre Antistreptodornase|{titer}
+71776-9|Contrôle négatif|[arb'U]/mL
+71772-8|Contrôle positif|[arb'U]/mL
+71774-4|Contrôle positif|[arb'U]/mL
+46217-6|Titre|[arb'U]/mL
+64084-7|Titre|[arb'U]/mL
+71773-6|Interprétation|
+74279-1|Contrôle négatif|[CFU]
+74280-9|Contrôle positif|[CFU]
+74278-3|Antigène ESAT 6|[CFU]
+74277-5|Antigène CFP 10|[CFU]
+6447-7|Ag soluble Legionella pneumophila|
+77949-6|Ag soluble Streptococcus pneumoniae|
+86590-7|Ag soluble Streptococcus pneumoniae|
+24110-9|Recherche Ac Treponema pallidum|
+63464-2|Syphilis Ac|{index_val}
+8041-6|Recherche Ac Treponema pallidum|
+26009-1|Syphilis - Titre Ac|{HA_titer}
+5393-4|Recherche Ac Treponema pallidum|
+34382-2|Syphilis - Titre Ac|{IFA_titer}
+17727-9|Titre IgG Treponema pallidum|{titer}
+17728-7|Titre IgM Treponema pallidum|{titer}
+5292-8|Dépistage VDRL|
+50690-7|Titre VDRL|{titer}
+73752-8|Interprétation - Sérologie Syphilis|
+40679-3|IgG Treponema pallidum|
+40680-1|IgM Treponema pallidum|
+50689-9|Recherche Ac Treponema pallidum|
+50695-6|Syphilis - Titre Ac|{titer}
+98215-7|Recherche Ac Treponema pallidum|
+98216-5|Ac anti-treponema pallidum|{index_val}
+9826-9|Recherche Ac Treponema pallidum|
+98217-3|Titre IgG Treponema pallidum|
+98218-1|Titre IgM Treponema pallidum|
+5290-2|Dépistage VDRL|
+31146-4|Titre VDRL|{titer}
+98220-7|Recherche IgG Treponema pallidum|
+69946-2|Recherche IgM Treponema pallidum|
+56921-0|Recherche d'Ac amibes|
+25400-3|Titre - Ac Amibes|{titer}
+21259-7|Titre - Ac Amibes|{titer}
+90297-3|Recherche d'Ac amibes|
+5150-8|Index - Ac Amibes|{index_val}
+56922-8|Recherche IgG Amibes|
+9522-4|Index IgG Amibes|{index_val}
+9523-2|Index IgM Amibes|{index_val}
+9521-6|Index IgA Amibes|{index_val}
+47406-4|Recherche d'amibes dans le LCR|
+16818-7|Titre Ac Amibes dans le LCR|{titer}
+6630-8|Recherche Ac Schistosomes|
+100129-6|Titre Ac Schistosoma|{titer}
+33317-9|Recherche IgG Schistosomes|
+6629-0|Recherche Ac Schistosomes|
+6628-2|Recherche Ac Schistosomes|
+25422-7|Titre IgG Schistosoma|{titer}
+25757-6|Index IgG Schistosoma|{index_val}
+6627-4|Recherche Ac Schistosoma mansoni|
+8019-2|Index Ac Schistosoma mansoni|{index_val}
+41422-7|Schistosoma haematobium|
+41423-5|Schistosoma japonicum|
+100130-4|Schistosoma mansoni|
+100131-2|P8|
+100132-0|P9|
+100133-8|P10|
+100134-6|P11|
+100135-3|P12-13|
+100136-1|P14-15|
+100137-9|P15-16|
+100138-7|P18-19|
+100139-5|P22-24|
+100140-3|P30-34|
+100141-1|P65|
+100142-9|P70|
+100143-7|P80|
+100144-5|P95|
+100145-2|P110|
+100146-0|P120|
+40674-4|Recherche IgG Toxocara|
+9718-8|IgG Toxocara|[arb'U]/mL
+100087-6|IgG P24-35|
+17715-4|Ac Toxocara (LCR)|[arb'U]/mL
+77743-3|Recherche Ac Toxocara (Prélèvement oculaire)|
+56984-8|Recherche Ac Cysticerque|
+7847-7|Recherche IgG Cysticerque|
+25389-8|IgG Cysticerque|{index_val}
+9600-8|Recherche Ac Cysticerque|
+6374-3|Recherche IgG Cysticerque|
+100089-2|6-8 kD|
+9601-6|13kD|
+9602-4|14kD|
+9603-2|18kD|
+9604-0|21kD|
+9605-7|24kD|
+9606-5|39-42kD|
+100090-0|45kD|
+9607-3|50kD|
+24039-0|Interprétation - Sérologie cysticerque (WB)|
+56480-7|Recherche cysticerque dans le LCR|
+41427-6|Recherche Ac Trypanosoma brucei|
+34383-0|Titre Ac Trypanosoma brucei|{titer}
+25813-7|Titre Ac Trypanosoma cruzi|{titer}
+59393-9|Titre IgG Trypanosoma cruzi|{titer}
+57320-4|Recherche Ac Trypanosoma cruzi|
+100091-8|Index Ac Trypanosoma cruzi|{index_val}
+87994-0|Recherche IgG Trypanosoma cruzi|
+59387-1|Index IgG Trypanosoma cruzi|{index_val}
+87997-3|Recherche IgM Trypanosoma cruzi|
+51827-4|Index IgM Trypanosoma cruzi|{index_val}
+51764-9|Interprétation - Sérologie Trypanosoma cruzi|
+100093-4|P15-16|
+100094-2|P21-22|
+100095-9|P27-28|
+100096-7|P42|
+100097-5|P45-47|
+100098-3|P120-200|
+100099-1|P160|
+26671-8|Recherche Ac ascaris|
+74815-2|Recherche IgG ascaris|
+10718-5|Ac Strongyloïdes|{index_val}
+80660-4|Recherche IgG Strongyloïdes|
+34376-4|Index IgG Strongyloïdes|{index_val}
+6632-4|Recherche IgG Strongyloïdes stercalis|
+63443-6|Recherche Ac Fasciola hepatica|
+56924-4|Titre Ac Fasciola hepatica|{titer}
+25406-0|Titre Ac Fasciola|{titer}
+100100-7|Recherche IgG Fasciola|
+25407-8|index IgG Fasciola|{index_val}
+27342-5|Titre Ac Fasciola hepatica|{titer}
+100101-5|P8-9|
+100102-3|P27-28|
+100103-1|P60|
+100104-9|P42|
+25409-4|Titre Ac filaria|{titer}
+41417-7|Index Ac filaria|{index_val}
+100106-4|Recherche IgG filaria|
+25410-2|Index IgG filaria|{index_val}
+13245-6|Index IgM filaria|{index_val}
+100107-2|Recherche IgG Leishmania|
+100108-0|Index IgG Leishmania|{index_val}
+56951-7|Recherche IgG Leishmania|
+52985-9|Titre IgG Leishmania|{titer}
+100110-6|p14|
+100111-4|p16|
+56515-0|Recherche IgG Plasmodium falciparum|
+49743-8|Titre IgG Plasmodium falciparum|{titer}
+56967-3|Recherche Ac Plasmodium falciparum|
+25423-5|IgG Trichines|[arb'U]/mL
+6563-1|Recherche IgG Trichinella|
+52979-2|IgG Trichines|{titer}
+30324-8|Ag Cryptocoques|
+9820-2|Titre Ag Cryptocoques|{titer}
+29903-2|Ag Cryptocoques|
+9818-6|Titre Ag Cryptocoques|{titer}
+46964-3|Recherche Ag Cryptococcus (LCR)|
+9819-4|Titre Ag Cryptococcus (LCR)|{titer}
+29896-8|Recherche Ag Cryptococcus (LCR)|
+9817-8|Titre Ag Cryptococcus (LCR)|{titer}
+5052-6|Recherche Ac Aspergillus|
+7807-1|Ac Aspergillus|{index_val}
+7107-6|IgG Aspergillus|{index_val}
+42766-6|Interprétation - Sérologie Aspergillose|
+44099-0|Recherche Ag galactomannane|
+44357-2|Index Ag galactomannane|{index_val}
+53865-2|Ag galactomannane (LCR)|{index_val}
+88555-8|Recherche Ag galactomannane (LBA)|
+76075-1|Ag galactomannane (LBA)|{index_val}
+16539-9|Recherche Ag solubles Candida|
+27440-7|Candida - Ag solubles|pg/mL
+22162-2|Recherche Ac Candida|
+42859-9|Titre Ac Candida|{titer}
+51539-5|Recherche IgG Candida|
+7172-0|IgG Candida|[arb'U]/mL
+26007-5|Recherche Ac Echinococcus|
+26008-3|Titre Ac Echinococcus|{titer}
+25397-1|Recherche Ac Echinococcus|
+6391-7|Index Ac Echinococcus|{index_val}
+32171-1|Recherche IgG Echinococcus|
+9656-0|Index IgG Echinococcus|{index_val}
+9657-8|Index IgM Echinococcus|{index_val}
+26673-4|Recherche Ac Echinococcus granulosus|
+48359-4|Titre Ac Echinococcus granulosus|{titer}
+43602-2|Index Ac Echinococcus granulosus|{index_val}
+22264-6|Recherche IgG Echinococcus granulosus|
+47308-2|Index IgG Echinococcus granulosus|{index_val}
+9783-2|Titre IgG Ehrlichia|{titer}
+9784-0|Titre IgM Ehrlichia|{titer}
+23877-4|Titre IgG Anaplasma|{titer}
+23878-2|Titre IgM Anaplasma|{titer}
+21330-6|Recherche Ac histoplasma (LCR)|
+6821-3|Ac Thermoactinomyces vulgaris|
+19761-6|IgG Thermoactinomyces vulgaris|
+6818-9|Ac Saccharopolyspora rectivirgula|
+19749-1|IgG Saccharopolyspora rectivirgula|
+24497-0|Ac Canari (protéines sériques)|
+24503-5|Ac Perruche (déjections)|
+24502-7|Ac Perruche (sérum)|
+23843-6|Ac Perruche calopsitte (déjections)|
+24505-0|Ac Pigeon (déjections)|
+6733-0|Ac Pigeon (sérum)|
+25835-0|Détection d'ARN du VIH-1|
+20447-9|Charge virale du virus VIH-1|{copies}/mL
+29541-0|Charge virale du virus VIH-1 (log)|{Log_copies}/mL
+62469-2|Charge virale du virus VIH-1|[IU]/mL
+69353-1|Détection de l'ARN du virus VIH-2|
+86548-5|Charge virale du virus VIH-2|{copies}/mL
+81652-0|Charge virale du virus VIH-2 (log)|{Log_copies}/mL
+69354-9|Charge virale du virus VIH-2|[IU]/mL
+74854-1|Quantification de l'ADN proviral|{copies}/mL
+34699-9|Détection de l'ADN Proviral VIH-2|
+30554-0|VIH mutations détectées|
+45175-7|VIH Inhibiteurs nucléos(t)idiques RT|
+30287-7|Abacavir|
+30284-4|Didadosine|
+41402-9|Emtricitabine|
+30283-6|Lamivudine|
+49620-8|Lamivudine ou Emtricitrabine|
+30286-9|Stavudine|
+41396-3|Ténofovir|
+30282-8|Zidovudine|
+45176-5|VIH Inhibiteurs non nucléos(t)idiques RT|
+30291-9|Éfavirenz|
+52749-9|Étravirine|
+30289-3|Névirapine|
+68463-9|Rilpivirine|
+33630-5|VIH Inhibiteurs de Protéase|
+30292-7|Indinavir|
+30293-5|Ritonavir|
+49619-0|Indinavir+ritonavir|
+30295-0|Saquinavir|
+49621-6|Saquinavir+ritonavir|
+30294-3|Nelfinavir|
+43736-8|Fosamprénavir|
+30297-6|Amprénavir|
+49623-2|Amprénavir ou fosamprénavir|
+41031-6|Lopinavir|
+42000-0|Lopinavir+ritonavir|
+41403-7|Atazanavir|
+55091-3|Darunavir|
+49630-7|Darunavir+ritonavir|
+43737-6|Tipranavir|
+61199-6|VIH-1 Inhibiteurs d'intégrase|
+72526-7|Elvitégravir|
+72525-9|Raltégravir|
+72857-6|Dolutégravir|
+90080-3|Bictégravir|
+30285-1|Zalcitabine|
+30290-1|Delavirdine|
+72858-4|Enfuvirtide|
+42317-8|Foscarnet|
+5007-0|Détection de l'ADN du virus de l'hépatite B (VHB)|
+42595-9|Charge virale du virus de l'hépatite B|[IU]/mL
+48398-2|Charge virale du virus de l'hépatite B (log)|{Log_IU}/mL
+29615-2|Charge virale du virus de l'hépatite B|{copies}/mL
+45161-7|Charge virale du virus de l'hépatite B (log)|{Log_copies}/mL
+95236-6|Interprétation PCR (VHB)|
+32366-7|Génotypage Hépatite B|
+30288-5|Adéfovir|
+56791-7|Entécavir|
+72839-4|Famciclovir|
+56792-5|Telbivudine|
+49882-4|Codon 80|
+72851-9|Codon 84|
+72850-1|Codon 85|
+72849-3|Codon 169|
+49877-4|Codon 173|
+49878-2|Codon 180|
+49879-0|Codon 181|
+72848-5|Codon 184|
+72847-7|Codon 191|
+72846-9|Codon 194|
+72845-1|Codon 202|
+49880-8|Codon 204|
+72844-4|Codon 214|
+72843-6|Codon 215|
+72842-8|Codon 233|
+49881-6|Codon 236|
+72841-0|Codon 237|
+72840-2|Codon 250|
+11259-9|Détection de l'ARN du virus de l'hépatite C|
+11011-4|Charge virale du virus de l'hépatite C|[IU]/mL
+38180-6|Charge virale du virus de l'hépatite C (log)|{Log_IU}/mL
+20416-4|Charge virale du virus de l'hépatite C|{copies}/mL
+47252-2|Charge virale du virus de l'hépatite C (log copies)|{Log_copies}/mL
+32286-7|Génotype du virus de l'hépatite C|
+7906-1|Détection de l'ARN du virus de l'hépatite D (VHB)|
+85512-2|Charge virale du virus de l'hépatite D|[IU]/mL
+85513-0|Charge virale du virus de l'hépatite D (log)|{Log_IU}/mL
+80426-0|Charge virale du virus de l'hépatite D|{copies}/mL
+69577-5|Détection de l'ADN du virus de l'hépatite E (VHE)|
+90460-7|Détection de l'ARN du virus de l'hépatite E (VHE)|
+69961-1|Charge virale du virus de l'hépatite E|[IU]/mL
+78750-7|Charge virale du virus de l'hépatite E (log)|{Log_IU}/mL
+4996-5|Détection de l'ADN cytomégalovirus (CMV)|
+30246-3|Détection de l'ADN cytomégalovirus (CMV)|
+72493-0|Charge virale CMV|[IU]/mL
+72494-8|Charge virale CMV (log)|{Log_IU}/mL
+30247-1|Charge virale CMV|{copies}/mL
+54206-8|Charge virale CMV (log)|{Log_copies}/mL
+34451-5|Détection de l'ADN Herpes simplex virus (HSV)|
+43244-3|Détection de l'ADN du virus HHV-6|
+49392-4|Charge virale HHV-6|{copies}/mL
+100679-0|Charge virale HHV-6 (log)|{Log_copies}/mL
+32364-2|Détection de l'ADN de l'herpes virus 8|
+49404-7|Charge virale HHV-8|{copies}/mL
+100683-2|Charge virale HHV-8 (log)|{Log_copies}/mL
+49102-7|Charge virale HHV-8|[IU]/mL
+29248-2|Détection de l'ADN Varicelle zona virus (VZV)|
+47003-9|Charge virale du virus de la Varicelle (VZV)|{copies}/mL
+9572-9|Détection de l'ADN du Parvovirus B19|
+49434-4|Charge virale du Parvovirus B19|{copies}/mL
+69355-6|Charge virale du Parvovirus B19 (log)|{Log_copies}/mL
+74420-1|Charge virale du Parvovirus B19|[IU]/mL
+74419-3|Charge virale du Parvovirus B19 (log)|{Log_IU}/mL
+47982-4|Charge virale EBV|{copies}/mL
+100677-4|Charge virale EBV (log)|{Log_copies}/mL
+43730-1|Charge virale EBV|[IU]/mL
+60274-8|Détection de l'ARN du virus de la rubéole|
+86576-6|Détection de l'ARN du virus de la rougeole|
+53603-7|Détection de l'ARN du virus des oreillons|
+21055-9|Détection de l'ADN de l'adénovirus|
+49334-6|Charge virale de l'adénovirus|{copies}/mL
+66723-8|Charge virale de l'adénovirus (log)|{Log_copies}/mL
+7855-0|Détection de l'ARN du virus de la Dengue|
+32362-6|Détection de l'ADN du virus BK|
+32284-2|Charge virale virus BK|[IU]/mL
+41479-7|Charge virale virus BK|{copies}/mL
+44805-0|Charge virale virus BK (log)|{Log_copies}/mL
+60260-7|Détection de l'ARN du virus chikungunya|
+32363-4|Détection de l'ADN du virus JC|
+49413-8|Charge virale du virus JC|{copies}/mL
+100685-7|Charge virale du virus JC|{Log_copies}/mL
+85622-9|Détection de l'ARN du virus Zika|
+32361-8|Détection de l'ARN du virus West Nile|
+92141-1|Détection de l'ARN du virus de la Grippe B|
+92142-9|Détection de l'ARN du virus de la Grippe A|
+95941-1|Détection de l'ARN d'Influenza virus A+B + SARS-CoV-2 + VRS|
+81428-5|Détection de l'ARN de l'influenza A H7|
+92883-8|Détection de l'ARN du Parainfluenza virus 1+2+3+4|
+92140-3|Détection de l'ARN du Parainfluenza virus 1|
+92139-5|Détection de l'ARN du Parainfluenza virus 2|
+92138-7|Détection de l'ARN du Parainfluenza virus 3|
+92137-9|Détection de l'ARN du Parainfluenza virus 4|
+94040-3|Détection de l'ARN de l'adénovirus|
+92136-1|Détection de l'ADN adénovirus B+C+E|
+92135-3|Détection de l'ADN du Bocavirus|
+92146-0|Détection de l'ARN du Coronavirus 229E+NL63|
+92147-8|Détection de l'ARN du Coronavirus HKU1+OC43|
+92134-6|Détection de l'ARN du Métapneumovirus|
+92130-4|Détection de l'ARN du Rhinovirus|
+92131-2|Détection de l'ARN du virus respiratoire syncytial|
+92132-0|Détection de l'ARN entérovirus|
+92128-8|Détection de l'ADN de Bordetella pertussis|
+92129-6|Détection de l'ADN de Bordetella parapertussis|
+91817-7|Bordetella holmseii|
+34645-2|Recherche Chlamydia pneumoniae|
+92133-8|Détection de l'ADN de Chlamydia pneumoniae|
+61366-1|Recherche d'Haemophilus influenzae|
+92127-0|Détection de l'ADN d'Haemophilus influenzae|
+21363-7|Recherche de Legionella pneumophila|
+92145-2|Détection de l'ADN de Legionella pneumophila|
+92144-5|Détection de l'ADN de Moraxella catarrhalis|
+29257-3|Recherche Mycoplasma pneumoniae|
+92126-2|Détection de l'ADN de Mycoplasma pneumoniae|
+49672-9|Recherche de Streptococcus pneumoniae|
+92125-4|Détection de l'ADN de Streptococcus pneumoniae|
+94366-2|Détection de l'ADN de Streptococcus pyogenes|
+61404-0|Recherche de Staphylococcus aureus|
+35492-8|Recherche de Staphylococcus aureus|
+72887-3|Recherche de Staphylococcus aureus|
+94370-4|Détection de l'ADN de Serratia marcescens|
+94371-2|Détection de l'ADN de Pseudomonas aeruginosa|
+94372-0|Détection de l'ADN de Proteus|
+94374-6|Détection de l'ADN de Klebsiella pneumoniae|
+94375-3|Détection de l'ADN de Klebsiella oxytoca|
+94376-1|Détection de l'ADN de Klebsiella aerogenes|
+94378-7|Détection de l'ADN d'Escherichia coli|
+94379-5|Détection de l'ADN d'Enterobacter complexe cloacae|
+96317-3|Détection de l'ADN d'Acinetobacter calcoaceticus-baumannii complexe|
+76078-5|Détection de l'ARN du virus de la Grippe A|
+77026-3|Détection de l'ARN du virus de la Grippe A H1|
+77027-1|Détection de l'ARN du virus de la Grippe A H3|
+77028-9|Détection de l'ARN du virus de la Grippe A H1N1|
+76080-1|Détection de l'ARN du virus de la Grippe B|
+81308-9|Grippe A - Cycle seuil (Ct)|
+81309-7|Grippe B - Cycle seuil (Ct)|
+88721-6|Détection des ARN du Rhinovirus et entérovirus|
+94500-6|Détection de l'ARN du coronavirus SARS CoV-2|
+94745-7|Ct SARS-CoV-2|
+94640-0|Gène S coronavirus SARS CoV-2|
+94642-6|Ct SARS-CoV-2 gène S|
+94533-7|Gène N coronavirus SARS CoV-2|
+94534-5|Gène RdRp coronavirus SARS CoV-2|
+94646-7|Ct SARS-CoV-2 gène RdRp|
+94559-2|Région ORF1ab coronavirus SARS CoV-2|
+94644-2|Ct SARS-CoV-2 gène ORF1ab|
+94758-0|Gène E coronavirus SARS CoV-2|
+96764-6|Ct SARS-CoV-2 gène E|
+88719-0|Détection ARN Coronavirus 229ER+HKU1+NL63+OC43|
+82161-1|Détection ARN Coronavirus HKU1|
+82162-9|Détection ARN Coronavirus NL63|
+82163-7|Détection ARN Coronavirus 229E|
+82164-5|Détection ARN Coronavirus OC43|
+88197-9|Détection de l'ARN du coronavirus MERS|
+94501-4|Détection de l'ARN du coronavirus MERS|
+94845-5|Détection de l'ARN du coronavirus SARS CoV-2 (Salive)|
+95425-5|Gène N coronavirus SARS CoV-2 (Salive)|
+96448-6|Gène N1 coronavirus SARS CoV-2 (Salive)|
+95824-9|Région ORF1ab coronavirus SARS CoV-2 (Salive)|
+96091-4|Gène RdRp coronavirus SARS CoV-2 (Salive)|
+77369-7|Détection d'ARN du VIH-1 dans le sperme|
+88567-3|Détection de l'ADN cytomégalovirus (CMV) dans la moelle osseuse|
+49350-2|Charge virale CMV (Moelle osseuse)|{copies}/mL
+41498-7|Charge virale du virus VIH-1 dans le LCR|{copies}/mL
+41497-9|Charge virale du virus VIH-1 (log) dans le LCR|{Log_copies}/mL
+86547-7|Charge virale du virus VIH-2 dans le LCR|{copies}/mL
+86549-3|Charge virale du virus VIH-2 (log) dans le LCR|{Log_copies}/mL
+30326-3|Détection de l'ADN cytomégalovirus (CMV) dans le LCR|
+39003-9|Charge virale CMV (LCR)|{copies}/mL
+101815-9|Charge virale CMV (LCR)|[IU]/mL
+23858-4|Détection de l'ADN du virus Epstein Barr dans le LCR|
+34593-4|Charge virale EBV dans le LCR|{copies}/mL
+101817-5|Charge virale EBV dans le LCR|[IU]/mL
+29558-4|Détection de l'ARN de l'entérovirus dans le LCR|
+86594-9|Détection de l'ARN du virus Zika (LCR)|
+21598-8|Détection de l'ADN du VZV dans le LCR|
+82183-5|Haemophilus influenzae|
+82184-3|Listeria monocytogenes|
+82185-0|Neisseria meningitidis|
+82182-7|Escherichia coli K1|
+82186-8|Streptococcus agalactiae|
+82187-6|Streptococcus pneumoniae|
+82181-9|Cryptococcus gattii+Cryptococcus neoformans|
+82189-2|Cytomégalovirus|
+82194-2|Entérovirus|
+82190-0|Herpes simplex virus 1|
+82191-8|Herpes simplex virus 2|
+82192-6|Herpes virus 6|
+82193-4|Paréchovirus A|
+82188-4|Varicelle zona virus|
+88188-8|Détection de l'ARN du virus de la Dengue|
+49352-8|Charge virale EBV dans les urines|{copies}/mL
+85623-7|Détection de l'ARN du virus Zika (Urines)|
+34719-5|Détection de l'ADN cytomégalovirus (CMV) dans le liquide amniotique|
+49348-6|Charge virale CMV (liquide amniotique)|{copies}/mL
+94823-2|Charge virale CMV (liquide amniotique)(log)|{Log_copies}/mL
+50349-0|Détection de l'ADN du Parvovirus B19 dans le liquide amniotique|
+49427-8|Charge virale du Parvovirus B19|{copies}/mL
+94826-5|Charge virale du Parvovirus B19 (log)|{Log_copies}/mL
+94824-0|Charge virale du Parvovirus B19|[IU]/mL
+94825-7|Charge virale du Parvovirus B19 (log)|{Log_IU}/mL
+88901-4|Recherche d'adénovirus|
+39528-5|Détection de l'ADN de l'adénovirus|
+5000-5|Détection de l'ADN du CMV|
+34720-3|Charge virale du CMV|[IU]/mL
+96396-7|Charge virale du CMV (log)|{Log_IU}/mL
+5005-4|Détection de l'ADN de l'EBV|
+9571-1|Détection de l'ADN du Parvovirus B19|
+11483-5|Détection de l'ADN de VZV|
+16130-7|Détection de l'ADN de HSV-1|
+16131-5|Détection de l'ADN de HSV-2|
+29591-5|Détection de l'ARN de l'entérovirus|
+63431-1|Recherche de Bordetella|
+23826-1|Détection de l'ADN de Bordetella pertussis|
+29723-4|Détection de l'ADN de Bordetella parapertussis|
+62427-0|Détection de l'ADN de Bordetella holmseii|
+54091-4|Détection de l'ARN du virus de la rubéole|
+48508-6|Détection de l'ARN du virus de la rougeole|
+40982-1|Détection de l'ARN du virus de la Grippe B|
+34487-9|Détection de l'ARN du virus de la Grippe A|
+94309-2|Détection de l'ARN du coronavirus SARS CoV-2|
+94316-7|Gène N coronavirus SARS CoV-2|
+94510-5|Ct SARS-CoV-2 gène N|
+94639-2|Région ORF1ab coronavirus SARS CoV-2|
+94511-3|Ct SARS-CoV-2 région ORF1ab|
+94310-0|Gène N coronavirus SARS|
+94313-4|Ct coronavirus SARS gène N|
+94509-7|Ct Coronavirus SARS gène E|
+96755-4|Interprétation séquençage - Coronavirus SARS-CoV-2|
+40988-8|Détection de l'ARN du virus respiratoire syncytial|
+10524-7|Observation microscopique|
+77399-4|Détection de l'ADN Papillomavirus 16|
+77400-0|Détection de l'ADN Papillomavirus 18|
+71431-1|Détection HPV 31+33+35+39+45+51+52+56+58+59+66+68|
+77379-6|Interprétation - Détection HPV HR|
+95539-3|Détection de l'ADN Papillomavirus 31|
+61376-0|Détection de l'ADN Papillomavirus 33|
+61377-8|Détection de l'ADN Papillomavirus 35|
+61378-6|Détection de l'ADN Papillomavirus 39|
+95536-9|Détection de l'ADN Papillomavirus 45|
+95535-1|Détection de l'ADN Papillomavirus 51|
+95534-4|Détection de l'ADN Papillomavirus 52|
+61383-6|Détection de l'ADN Papillomavirus 53|
+61396-8|Détection de l'ADN Papillomavirus 56|
+61384-4|Détection de l'ADN Papillomavirus 58|
+61385-1|Détection de l'ADN Papillomavirus 59|
+61386-9|Détection de l'ADN Papillomavirus 66|
+61388-5|Détection de l'ADN Papillomavirus 68|
+61390-1|Détection de l'ADN Papillomavirus 70|
+61391-9|Détection de l'ADN Papillomavirus 73|
+61392-7|Détection de l'ADN Papillomavirus 82|
+42481-2|Détection HPV 6+11+42+43+44|
+69002-4|Détection HPV 16+18+31+33+35+39+45+51+52+56+58+59+66+68 E6+E7|
+30167-1|Détection HPV 16+18+31+33+35+39+45+51+52+56+58+59+68|
+82675-0|Détection HPV 16+18+31+33+35+39+45+51+52+56+58+59+66+68|
+59465-5|Interprétation|
+100383-9|Détection de l'ADN du virus Monkeypox|
+79190-5|Détection de l'ARN du virus Zika|
+34892-0|Détection de l'ARN du virus West Nile|
+6539-1|Recherche du virus de la rage|
+51646-8|Détection de l'ARN du virus de la Rage|
+100370-6|Orthopoxvirus identifié|
+51664-1|Détection de l'ARN du virus chikungunya|
+28009-9|Volume des urines|mL
+59830-0|Hématies|/min
+59829-2|Leucocytes|/min
+5767-9|Aspect|
+2756-5|Ph urinaire|[pH]
+5778-6|Couleur|
+53326-5|Densité urinaire|
+5808-1|Hématies|/mL
+798-9|Hématies|/uL
+30405-5|Leucocytes|/uL
+75665-0|Parasites|
+49755-2|Cristaux|
+87827-2|Cylindres|
+20453-7|Cellules épithéliales|
+58456-5|Cellules vésicales|
+12248-1|Cellules rénales|
+8249-5|Cellules transitionelles|
+11276-3|Cellules tubulaires rénales|
+8247-9|Mucus|
+5813-1|Trichomonas vaginalis|
+8248-7|Spermatozoïdes|
+25145-4|Bactérie|
+51480-2|Dénombrement Bactérie|/uL
+32356-8|Levures|
+10715-1|Schistosome|
+653-6|Observation microscopique|
+652-8|Observation microscopique (Ziehl)|
+6357-8|Chlamydia trachomatis|
+21416-3|Neisseria gonorrhoeae|
+92685-7|Trichomonas vaginalis|
+88226-6|Mycoplasma genitalium|
+105623-3|Mycoplasma hominis|
+105624-1|Ureaplasma urealyticum|
+105625-8|Ureaplasma parvum|
+52990-9|Détection de l'ADN Leptospira|
+17928-3|Culture aérobie :|
+17934-1|Culture anaérobie :|
+601-5|Champignon|
+17784-0|Parasites|
+87969-2|Observation microscopique|
+551-2|Brucella|
+6453-5|Leptospira|
+93789-6|Délai de pousse|d
+90435-9|Statut de culture aérobie|
+90437-5|Statut de culture anaérobie|
+21026-0|Interprétation|
+52989-1|Détection de l'ADN Leptospira|
+49780-0|Détection de l'ADN Leishmania|
+53606-0|Détection de l'ADN du méningocoque|
+70021-1|Détection de l'ADN de Salmonella typhi|
+104449-4|Détection de l'ADN de Salmonella paratyphi|
+51587-4|Recherche de Plasmodium|
+32206-5|Plasmodium identifié|
+53556-7|Hématies impaludées %|%
+70569-9|Plasmodium Antigène|
+76772-3|Plasmodium falciparum Antigène|
+47260-5|Plasmodium identifié|
+41447-4|Recherche de Plasmodium falciparum|
+70568-1|Recherche de Plasmodium knowlesi|
+41448-2|Recherche de Plasmodium malariae|
+41449-0|Recherche de Plasmodium ovale|
+41450-8|Recherche de Plasmodium vivax|
+16279-2|Détection de l'ADN Toxoplasma gondii|
+40745-2|Filaire identifié|
+32803-9|Aspect|
+30401-4|Leucocytes|/uL
+32822-9|Cellules épithéliales|%
+32804-7|Polynucléaires neutrophiles %|%
+27930-7|Polynucléaires neutrophiles %|%
+14709-0|Polynucléaires éosinophiles %|%
+30377-6|Polynucléaires éosinophiles %|%
+14625-8|Polynucléaires basophiles %|%
+14819-7|Lymphocytes|%
+30421-2|Lymphocytes|%
+32807-0|Cellules mononucléées|%
+14823-9|Macrophages|%
+30425-3|Macrophages|%
+51927-2|Autres cellules|%
+32810-4|Bactérie|
+55320-6|Levures|
+55318-0|Champignon|
+21021-1|Observation microscopique|
+32813-8|Interprétation - Prélèvement Bronchopulmonaire|
+589-2|Identification Legionella|
+33455-7|Aspect|
+14328-9|Leucocytes|
+29993-3|Polynucléaires éosinophiles|
+14327-1|Cellules épithéliales|
+55316-4|Levures|
+648-6|Observation microscopique|
+647-8|Observation microscopique (Ziehl)|
+6460-0|Culture :|
+539-7|Mycobacterium identifié|
+9823-6|Mycobacterium identifié|
+14556-5|Détection ADN Mycobacterium tuberculosis|
+14557-3|Détection ADN Mycobacterium tuberculosis|
+85362-2|Détection ADN Mycobacterium complexe tuberculosis|
+43913-3|Détection de l'ADN de Bordetella pertussis|
+42588-4|Détection de l'ADN de Bordetella parapertussis|
+80600-0|Toxine pertussique|
+41393-0|Date de recueil|
+47938-6|Origine du liquide|
+9335-1|Aspect|
+12182-2|Cellules|/uL
+26455-6|Hématies|/uL
+12238-2|Polynucléaires neutrophiles|%
+11031-2|Lymphocytes|%
+20493-3|Histiocytes|%
+13357-9|Cellules synoviales|
+76350-8|Autres cellules|%
+6825-4|Cristaux|
+41599-2|Bactérie|
+10763-1|Observation microscopique|
+20430-5|Milieu de culture|
+21025-2|Interprétation - Liquide biologique|
+29605-3|Aspect du liquide synovial|
+14664-7|Couleur|
+14950-0|Viscosité|
+34980-3|Volume|mL
+26458-0|Erythrocytes|10*3/uL
+26469-7|Leucocytes|10*3/uL
+17836-8|Polynucléaires neutrophiles %|%
+17834-3|Polynucléaires éosinophiles %|%
+26483-8|Lymphocytes %|%
+17835-0|Monocytes %|%
+70033-6|Ragocytes %|%
+75355-8|Autres cellules %|%
+38458-6|Cristaux|
+2348-1|Glucose|mg/L
+2886-0|Protéines|g/L
+14363-6|Observation microscopique|
+621-3|Culture :|
+48038-4|Interprétation - Liquide synovial|
+10333-3|Aspect|
+10335-8|Couleur|
+26465-5|Leucocytes|/uL
+26454-9|Hématies|/uL
+26479-6|Lymphocytes %|%
+26512-4|Polynucléaires neutrophiles %|%
+75374-9|Autres cellules %|%
+14357-8|Observation microscopique|
+638-7|Observation microscopique (encre de chine)|
+21024-5|Interprétation - LCR|
+52988-3|Détection de l'ADN Leptospira|
+99092-9|Détection de l'ADN du méningocoque|
+97503-7|Recherche de prion|
+101649-2|Protéines Tau|mg/L
+31989-7|Protéine 14-3-3 antigène|
+87728-2|Aspect|
+48051-7|Hématies|
+44242-6|Hématies|
+12226-7|Leucocytes|
+44092-5|Leucocytes|
+12211-9|Cellules épithéliales|
+20502-1|Clue cells|
+44241-8|Clue cells|
+44023-0|Bactérie|
+14370-1|Levures|
+44245-9|Champignons filamenteux|
+14367-7|Trichomonas vaginalis|
+14319-8|Observation microscopique|
+43400-1|Lactobacillus morphotypes|
+43398-7|Gardnerella vaginalis+Prevotella morphotypes|
+43391-2|Score de vaginose bactérienne|
+45084-1|Chlamydia trachomatis|
+32705-6|Neisseria gonorrhoeae|
+92700-4|Trichomonas vaginalis|
+88228-2|Mycoplasma genitalium|
+106025-0|Mycoplasma hominis|
+106026-8|Ureaplasma urealyticum|
+106027-6|Ureaplasma parvum|
+697-3|Gonocoques|
+14371-9|Levures|
+14368-5|Trichomonas vaginalis|
+6474-1|Observation microscopique|
+10354-9|Culture :|
+15388-2|Mycoplasma hominis|
+21191-2|Chlamydia trachomatis|
+21415-5|Neisseria gonorrhoeae|
+100700-4|Trichomonas vaginalis|
+91874-8|Mycoplasma genitalium|
+106013-6|Mycoplasma hominis|
+106014-4|Ureaplasma urealyticum|
+106015-1|Ureaplasma parvum|
+6565-6|Trichomonas vaginalis|
+691-6|Neisseria gonorrhoeae|
+48712-4|Observation microscopique|
+6356-0|Chlamydia trachomatis|
+47387-6|Neisseria gonorrhoeae|
+6568-0|Trichomonas vaginalis|
+91844-1|Trichomonas vaginalis|
+91849-0|Recherche de Mycoplasma genitalium|
+91848-2|Recherche de Mycoplasma hominis|
+91842-5|Recherche de Ureaplasma urealyticum|
+91843-3|Recherche de Ureaplasma parvum|
+80363-5|Chlamydia trachomatis|
+88224-1|Neisseria gonorrhoeae|
+88229-0|Mycoplasma genitalium|
+698-1|Neisseria gonorrhoeae|
+21613-5|Chlamydia trachomatis|
+24111-7|Neisseria gonorrhoeae|
+46154-1|Trichomonas vaginalis|
+69935-5|Mycoplasma genitalium|
+68546-1|Mycoplasma hominis|
+51988-4|Ureaplasma urealyticum|
+69933-0|Ureaplasma parvum|
+70061-7|Papillomavirus humain|
+48683-7|Streptococcus agalactiae|
+75694-0|Papillomavirus humain 18/45|
+44550-2|Papillomavirus|
+72163-9|Leucocytes|
+43411-8|Culture :|
+643-7|Observation microscopique|
+16400-4|Aspect|
+32825-2|Leucocytes|
+53558-3|Culture :|
+87973-4|Observation microscopique|
+51578-3|Chlamydia trachomatis|
+105922-9|Neisseria gonorrhoeae|
+106023-5|Trichomonas vaginalis|
+106019-3|Mycoplasma genitalium|
+106020-1|Mycoplasma hominis|
+106021-9|Ureaplasma urealyticum|
+106022-7|Ureaplasma parvum|
+88170-6|Observation microscopique|
+88142-5|Culture :|
+626-2|Culture :|
+14362-8|Observation microscopique|
+29636-8|Aspect|
+17773-3|Levures|
+33668-5|Hématies|
+13655-6|Leucocytes|
+45379-5|Polynucléaires éosinophile|
+649-4|Observation microscopique|
+6470-9|Recherche de parasites|
+87998-1|Recherche d'Amibes|
+20781-1|Recherche de Cryptosporidium|
+39534-3|Recherche de Cryptosporidium (IF)|
+625-4|Culture :|
+10643-5|Amibes|
+43371-4|Salmonella et/ou shigella identifié|
+20955-1|Salmonella|
+6331-3|Campylobacter identifié|
+28549-4|Yersinia identifié|
+73835-1|BLSE identifiée|
+77924-9|Recherche d'enterobacter résistant|
+87995-7|Recherche d'anguillules|
+6579-7|Identification de Vibrion|
+97314-9|Détection ADN Vibrion|
+92690-7|Recherche d'Adénovirus|
+80674-5|Recherche d'Adénovirus|
+69938-9|Recherche d'Astrovirus|
+92691-5|Recherche d'Astrovirus|
+8012-7|Recherche de Rotavirus|
+92693-1|Recherche de Rotavirus|
+79389-3|Recherche de Rotavirus|
+80675-2|Recherche de Rotavirus|
+54905-5|Recherche de Norovirus I|
+54906-3|Recherche de Norovirus II|
+92692-3|Recherche de Norovirus I+II|
+79388-5|Recherche de Norovirus|
+72111-8|Recherche de Sapovirus|
+92694-9|Recherche de Sapovirus|
+81656-1|Recherche de Campylobacter|
+80684-4|Recherche de Campylobacter|
+79382-8|Recherche de Campylobacter|
+54067-4|Recherche de Clostridium difficile|
+80685-1|Recherche des toxines Clostridium botulinum|
+41633-9|Recherche des toxines Clostridium botulinum|
+70296-9|Recherche de Plesiomonas|
+80678-6|Recherche de Salmonelle|
+79383-6|Recherche de Salmonelle|
+81657-9|Recherche de Salmonelle|
+70242-3|Recherche de Shigelle et escherischia coli|
+80680-2|Recherche de Vibrio|
+79384-4|Recherche de Vibrio|
+92686-5|Recherche de Vibrio|
+23652-1|Recherche d'Aeromonas|
+79385-1|Recherche de Yersinia|
+80676-0|Recherche Escherichia coli|
+79386-9|Recherche des toxines Escherichia coli|
+79387-7|Recherche des toxines Escherichia coli|
+80677-8|Recherche des toxines Escherichia coli|
+80679-4|Recherche des toxines Escherichia coli|
+81285-9|Identification des toxines Escherichia coli|
+80681-0|Recherche de Cryptosporidium|
+80682-8|Recherche d'amibes|
+80683-6|Recherche de Giardia|
+79390-1|Pathogènes gastro-intestinaux identifiés|
+79177-2|Recherche de GDH dans les selles|
+71429-5|Détection de l'ADN de campylobacter|
+91060-4|Détection de l'ADN d'Helicobacter pylori|
+88509-5|Recherche gène de résistance 23S|
+11029-6|Consistance|
+87928-8|Examen macroscopique|
+38897-5|Fibres|
+11102-1|Cristaux Charcot-leyden|
+10704-5|Recherche de parasites|
+10701-1|Recherche de parasites|
+14125-9|Recherche d'Amibes|
+32819-5|Recherche de microsporidies|
+6371-9|Ag Cryptosporidium|
+29905-7|Ag Entamoeba histolytica|
+91676-7|Ag Giardia lamblia|
+20924-7|Recherche de parasites|
+20926-2|Recherche de parasites|
+70295-1|Recherche d'amibes|
+70292-8|Recherche de Blastocystis|
+6676-1|Oxyurose - Scotch test|
+9787-3|Sarcoptes scabiei identifié|
+10636-9|Acanthamoeba identifié (Prélèvement oculaire)|
+88162-3|Acanthamoeba identifié (cornée/Conjonctive)|
+87991-6|Acanthamoeba identifié (lentille de contact)|
+88163-1|Détection de l'ADN d'Acanthamoeba (cornée/conjonctive)|
+87988-2|Détection de l'ADN d'Acanthamoeba (lentille de contact)|
+33511-7|Aspect|
+31208-2|Origine du prélèvement|
+74574-5|Examen macroscopique|
+20932-0|Parasites|
+32763-5|Bactérie|
+32765-0|Levures|
+70124-3|Hématies|
+32761-9|Leucocytes|
+26885-4|Parasites|
+664-3|Observation microscopique|
+656-9|Observation microscopique (Ziehl)|
+660-1|Tréponème pâle (Fond Noir)|
+11475-1|Microorganisme identifié|
+564-5|Nombre de colonies|
+32368-3|Ureaplasma|
+18482-0|Levures|
+555-3|Candida identifié|
+20789-4|Sérotype Escherichia coli|
+40684-3|Acinetobacter résistant identifié|
+13316-5|Enterococcus résistant identifié|
+63480-8|Pseudomonas aeruginosa résistant|
+13317-3|Staphylococcus aureus résistant|
+50595-8|Interprétation|
+44038-8|Bactérie identifiée|
+6459-2|Bactérie identifiée (TIAC)|
+33685-9|Recherche de Yersinia pestis|
+33691-7|Détection de l'ADN du virus de la peste|
+90100-9|Listeria identifié|
+61369-5|Détection de l'ADN de Listeria monocytogenes|
+17563-8|Salmonella identifié|
+104450-2|Détection de l'ADN de Salmonella typhi|
+104447-8|Détection de l'ADN de Salmonella paratyphi|
+44093-3|Recherche de méningocoque|
+70172-2|Sérogroupe méningocoque|
+49671-1|Détection de l'ADN du méningocoque|
+90066-2|Identification de corynebacterium|
+67561-1|Détection de l'ADN de Corynebacterium diphtheriae|
+6581-3|Identification de vibrion|
+11469-4|Recherche de bacillus anthracis|
+41623-0|Détection de l'ADN de Bacillus anthracis|
+552-0|Identification de brucella|
+41626-3|Détection de l'ADN de Brucella|
+33694-1|Recherche Clostridium botulinum|
+45039-5|Recherche de la toxine botulique|
+44274-9|Identification de la toxine botulique|
+46705-0|Identification gène de la toxine botulique|
+104175-5|Détection de la toxine tétanique|
+104176-3|Détection de la toxine tétanique|
+6521-9|Détection de l'ADN de Pneumocystis jiroveci|
+33676-8|Recherche de Francisella tularensis|
+33679-2|Détection de l'ADN de Francisella tularensis|
+48871-8|Détection de l'ADN de Rickettsia groupe typhus|
+41163-7|Détection de l'ADN de Treponema pallidum|
+29559-2|Détection de l'ADN d'Haemophilus ducreyi|
+5014-6|Détection de l'ADN d'Herpes simplex virus|
+41429-2|Détection de l'ADN d'acanthamoeba|
+23159-7|Détection de l'ADN de Leishmania|
+543-9|Mycobacterium identifié|
+38379-4|Détection ADN Mycobacterium complexe tuberculosis|
+13956-8|Détection ADN Mycobacterium tuberculosis|
+94064-3|Gène eis|
+94062-7|Gène rrs|
+94055-1|Gène inhA|
+94054-4|Gène katG|
+94056-9|Gène fabG1|
+94057-7|Gène ahpC|
+94060-1|Gène gyrA|
+101576-7|Gène gyrB|
+95809-0|Recherche de carbapénémases par PCR|
+85823-3|Gène blaGES|
+85833-2|Gène blaGIM|
+85498-4|Gène blaIMP|
+95540-1|Gènes blaIMP+blaVIM|
+49617-4|Gène blaKPC|
+73982-1|Gène blaNDM|
+86712-7|Gène blaOXA|
+86713-5|Gène blaOXA-134-like|
+98065-6|Gène blaOXA-143|
+85825-8|Gène blaOXA-23-like|
+93390-3|Gène blaOXA-23-like gène+blaOXA-48-like|
+85826-6|Gène blaOXA-24-like|
+85503-1|Gène blaOXA-48|
+85827-4|Gène blaOXA-48-like|
+86714-3|Gène blaOXA-51-like|
+85828-2|Gène blaOXA-58-like|
+85829-0|Gène blaSPM|
+85501-5|Gène blaVIM|
+88250-6|Gène CTX-M|
+92968-7|Recherche d'une résistance à la méticilline|
+29576-6|Antibiogramme|
+18964-7|Pénicilline|
+6932-8|Pénicilline - CMI|
+18965-4|Pénicilline G|
+392-1|Pénicilline G - CMI|
+18961-3|Oxacilline|
+383-0|Oxacilline - CMI|
+18864-9|Ampicilline|
+28-1|Ampicilline - CMI|
+18865-6|Ampicilline+sulbactam|
+32-3|Ampicilline+sulbactam - CMI|
+18861-5|Amoxicilline|
+16-6|Amoxicilline - CMI|
+18862-3|Amoxicilline+clavulanate|
+20-8|Amoxicilline+clavulanate - CMI|
+18994-4|Ticarcilline|
+500-9|Ticarcilline - CMI|
+18995-1|Ticarcilline+clavulanate|
+504-1|Ticarcilline+clavulanate - CMI|
+55717-3|Ticarcilline+sulbactam|
+55716-5|Ticarcilline+sulbactam - CMI|
+18969-6|Pipéracilline|
+408-5|Pipéracilline - CMI|
+54197-9|Pipéracilline+sulbactam|
+54198-7|Pipéracilline+sulbactam - CMI|
+18970-4|Pipéracilline+tazobactam|
+412-7|Pipéracilline+tazobactam - CMI|
+18991-0|Témocilline|
+492-9|Témocilline - CMI|
+18947-2|Mezlocilline|
+331-9|Mezlocilline - CMI|
+18867-2|Azlocilline|
+40-6|Azlocilline - CMI|
+41739-4|Sulbactam|
+41718-8|Sulbactam - CMI|
+18859-9|Mécillinam|
+8-3|Mécillinam - CMI|
+18875-5|Céfadroxyl|
+64-6|Céfadroxyl - CMI|
+18897-9|Céfalexine|
+149-5|Céfalexine - CMI|
+18902-7|Céfradine|
+169-3|Céfradine - CMI|
+18874-8|Céfaclor|
+84-4|Céfaclor - CMI|
+18877-1|Céfatrizine|
+72-9|Céfatrizine - CMI|
+18940-7|Loracarbef|
+307-9|Loracarbef - CMI|
+18878-9|Céfazoline|
+76-0|Céfazoline - CMI|
+18900-1|Céfalotine|
+161-0|Céfalotine - CMI|
+55631-6|Céfalotine+sulbactam|
+55630-8|Céfalotine+sulbactam - CMI|
+51724-3|Céfuroxime|
+51774-8|Céfuroxime - CMI|
+35783-0|Céfuroxime axétil|
+20460-2|Céfuroxime axétil - CMI|
+18896-1|Céfuroxime parentérale|
+145-3|Céfuroxime parentérale - CMI|
+55738-9|Céfotiam hexétil|
+55737-1|Céfotiam hexétil - CMI|
+18876-3|Céfamandole|
+68-7|Céfamandole - CMI|
+55635-7|Céfamandole+sulbactam|
+55634-0|Céfamandole+sulbactam - CMI|
+18888-8|Céfoxitine|
+116-4|Céfoxitine - CMI|
+41730-3|Céfoxitine+clavulanate|
+41675-0|Céfoxitine+clavulanate - CMI|
+32374-1|Céfotiam|
+35773-1|Céfotiam - CMI|
+18887-0|Céfotétan|
+112-3|Céfotétan - CMI|
+41729-5|Céfotétan+clavulanate|
+41672-7|Céfotétan+clavulanate - CMI|
+18884-7|Céfopérazone|
+100-8|Céfopérazone - CMI|
+54166-4|Céfopérazone+sulbactam|
+54167-2|Céfopérazone+sulbactam - CMI|
+18880-5|Céfixime|
+80-2|Céfixime - CMI|
+18890-4|Cefpodoxime|
+120-6|Cefpodoxime - CMI|
+18886-2|Céfotaxime|
+108-1|Céfotaxime - CMI|
+18895-3|Ceftriaxone|
+141-2|Ceftriaxone - CMI|
+18893-8|Ceftazidime|
+133-9|Ceftazidime - CMI|
+73603-3|Ceftazidime+avibactam|
+73625-6|Ceftazidime+avibactam - CMI|
+73602-5|Ceftolozane+tazobactam|
+73624-9|Ceftolozane+tazobactam - CMI|
+18892-0|Cefsulodine|
+128-9|Cefsulodine - CMI|
+18868-0|Aztréonam|
+44-8|Aztréonam - CMI|
+18879-7|Céfépime|
+6644-9|Céfépime - CMI|
+18889-6|Cefpirome|
+8275-0|Cefpirome - CMI|
+73605-8|Ceftaroline|
+73627-2|Ceftaroline - CMI|
+35802-8|Ertapénème|
+35801-0|Ertapénème - CMI|
+18932-4|Imipénème|
+279-0|Imipénème - CMI|
+18943-1|Méropénème|
+6652-2|Méropénème - CMI|
+18982-9|Streptomycine|
+460-6|Streptomycine - CMI|
+18928-2|Gentamicine|
+267-5|Gentamicine - CMI|
+18929-0|Gentamicine à large spectre|
+7018-5|Gentamicine à large spectre - CMI|
+18954-8|Nétilmicine|
+359-0|Nétilmicine - CMI|
+32381-6|Isépamicine|
+35821-8|Isépamicine - CMI|
+18935-7|Kanamycine|
+291-5|Kanamycine - CMI|
+18996-9|Tobramycine|
+508-2|Tobramycine - CMI|
+18860-7|Amikacine|
+12-5|Amikacine - CMI|
+18917-5|Doxycycline|
+225-3|Doxycycline - CMI|
+18952-2|Nalidixate|
+351-7|Nalidixate - CMI|
+18980-3|Spectinomycine|
+452-3|Spectinomycine - CMI|
+18993-6|Tétracycline|
+496-0|Tétracycline - CMI|
+18948-0|Minocycline|
+335-0|Minocycline - CMI|
+42357-4|Tigécycline|
+42355-8|Tigécycline - CMI|
+18968-8|Pipémidate|
+404-4|Pipémidate - CMI|
+18956-3|Norfloxacine|
+367-3|Norfloxacine - CMI|
+18963-9|Péfloxacine|
+390-5|Péfloxacine - CMI|
+18959-7|Ofloxacine|
+375-6|Ofloxacine - CMI|
+18906-8|Ciprofloxacine|
+185-9|Ciprofloxacine - CMI|
+20629-2|Lévofloxacine|
+20396-8|Lévofloxacine - CMI|
+31039-1|Moxifloxacine|
+31037-5|Moxifloxacine - CMI|
+18919-1|Érythromycine|
+233-7|Érythromycine - CMI|
+18907-6|Clarithromycine|
+189-1|Clarithromycine - CMI|
+18866-4|Azithromycine|
+36-4|Azithromycine - CMI|
+18981-1|Spiramycine|
+456-4|Spiramycine - CMI|
+18938-1|Lincomycine|
+299-8|Lincomycine - CMI|
+32383-2|Pristinamycine|
+35834-1|Pristinamycine - CMI|
+18908-4|Clindamycine|
+193-3|Clindamycine - CMI|
+61188-9|Clindamycine résistance induite|
+23640-6|Quinupristine+dalfopristine|
+23641-4|Quinupristine+dalfopristine - CMI|
+35845-7|Télithromycine|
+35844-0|Télithromycine - CMI|
+29258-1|Linézolide|
+29254-0|Linézolide - CMI|
+18989-4|Téicoplanine|
+484-6|Téicoplanine - CMI|
+19000-9|Vancomycine|
+524-9|Vancomycine - CMI|
+18997-7|Triméthoprime|
+512-4|Triméthoprime - CMI|
+18998-5|Triméthoprime+sulfaméthoxazole|
+516-5|Triméthoprime+sulfaméthoxazole - CMI|
+35789-7|Daptomycine|
+35788-9|Daptomycine - CMI|
+18955-5|Nitrofurantoïne|
+363-2|Nitrofurantoïne - CMI|
+18912-6|Colistine|
+205-5|Colistine - CMI|
+18927-4|Acide fusidique|
+262-6|Acide fusidique - CMI|
+25596-8|Fosfomycine|
+25653-7|Fosfomycine - CMI|
+25608-1|Nitroxoline|
+25723-8|Nitroxoline - CMI|
+18974-6|Rifampicine|
+428-3|Rifampicine - CMI|
+20389-3|Mupirocine|
+35823-4|Mupirocine - CMI|
+18903-5|Chloramphénicol|
+173-5|Chloramphénicol - CMI|
+18946-4|Métronidazole|
+327-7|Métronidazole - CMI|
+20385-1|Rifampicine|
+20383-6|Isoniazide|
+5643-2|Alcoolémie|g/L
+42242-8|Alcool éthylique urinaire|
+4024-6|Salicylés|mg/L
+4026-1|Acide salicylique|mg/L
+3298-7|Paracétamol|mg/L
+13622-6|Paracétamol urinaire|mg/L
+3948-7|Phénobarbital|mg/L
+29742-4|Date de la dernière prise|
+29637-6|Heure de la dernière prise|
+52425-6|Traitement médicamenteux|
+18612-2|Voie d'administration|
+52426-4|Posologie|
+14334-7|Lithium|mmol/L
+25462-3|Lithium intra-érythrocytaire|mmol/L
+20421-4|Recherche de barbituriques|
+42662-7|Recherche de benzodiazépines|
+51690-6|Recherche d'amphétamines|
+51691-4|Recherche d'opiacés|
+72407-0|Recherche de benzoylecgonine|
+42491-1|Recherche de cannabinoïdes|
+72400-5|Recherche de méthadone|
+72402-1|Recherche d'oxycodone|
+51692-2|Recherche de phencyclidine|
+72401-3|Recherche de propoxyphène|
+19270-8|Recherche de barbituriques|
+14316-4|Recherche de benzodiazépines|
+19312-8|Recherche d'antidépresseurs tricycliques|
+19295-5|Recherche d'opiacés|
+14314-9|Recherche de Benzoylecgonine|
+19550-3|Recherche de méthadone|
+19261-7|Recherche d'amphétamines|
+19343-3|Recherche d'amphétamine|
+19419-1|Recherche de Dextroamphétamine|
+19423-3|Recherche de Dextromethamphétamine|
+19554-5|Recherche de Méthamphétamine|
+19565-1|Recherche de MDA|
+59844-1|Recherche de MDEA|
+19568-5|Recherche de MDMA(Ectasy)|
+18282-4|Recherche de cannabinoïdes|
+19415-9|Recherche de cannabis|
+19359-9|Recherche de cocaïne|
+19597-4|Recherche de morphine|
+19439-9|Recherche d'héroïne|
+19642-8|Recherche d'oxycodone|
+19659-2|Recherche de phencyclidine|
+19429-0|Recherche de Dextropropoxyphène|
+19577-6|Recherche de Méthylphénidate|
+12327-3|Recherche de kétamine|
+54247-2|Interprétation - Toxiques urinaires|
+75811-0|Interprétation - Recherche de stupéfiants|
+3392-8|Benzoylecgonine|ng/mL
+27226-0|Cocaéthylène|ng/mL
+3396-9|Cocaïne|ng/mL
+30107-7|Ecgonine méthylester|ng/mL
+8147-1|Amphétamines|ng/mL
+59837-5|MDA|ng/mL
+33016-7|MDEA|ng/mL
+3778-8|Méthamphétamine|ng/mL
+51791-2|Recherche de Cannabis|
+3528-7|Cannabis|ng/mL
+78753-1|Recherche THC-OH|
+40864-1|THC-OH|ng/mL
+49746-1|Recherche THC-COOH|
+16150-5|THC-COOH|ng/mL
+59956-3|Phencyclidine|ng/mL
+3934-7|Phencyclidine|ng/mL
+8217-2|Opiacés|ng/mL
+3506-3|Codéine|ng/mL
+42901-9|Dihydrocodéine|ng/mL
+3827-3|Morphine|ng/mL
+12788-6|6-monoacétylmorphine|ng/mL
+82369-0|Recherche de buprénorphine|
+3413-2|Buprénorphine|ng/mL
+53881-9|Norbuprénorphine|ng/mL
+3307-6|Alfentanyl|ng/mL
+29356-3|Recherche de fentanyl|
+3636-8|Fentanyl|ng/mL
+3682-2|Recherche d'hydromorphone|ng/mL
+3683-0|Hydromorphone|ng/mL
+3771-3|Recherche de méthadone|
+3772-1|Méthadone|ng/mL
+13576-4|Recherche d'oxycodone|
+3893-5|Oxycodone|ng/mL
+3744-0|Recherche de péthidine|
+3745-7|Péthididne|ng/mL
+12437-0|Tramadol|ng/mL
+3542-8|Recherche de dextropropoxyphène|
+3543-6|Dextropropoxyphène|ng/mL
+3870-3|Recherche de nordextropropoxyphène|
+10341-6|Nordextropropoxyphène|ng/mL
+16334-5|Alfentanyl|ng/mL
+3415-7|Buprénorphine|ng/mL
+3545-1|Dextropropoxyphène|ng/mL
+50542-0|EDDP|ng/mL
+9835-0|Hydromorphone|ng/mL
+3773-9|Recherche Méthadone|
+3774-7|Méthadone|ng/mL
+3842-2|Nalorphine|ng/mL
+49751-1|Norbuprénorphine|ng/mL
+11246-6|Oxycodone|ng/mL
+43219-5|Recherche de Tramadol|
+17719-6|Tramadol|ng/mL
+4050-1|Thiopental|mg/L
+46976-7|Recherche de benzodiazépines|
+13545-9|Recherche Alprazolam|
+3312-6|Alprazolam|ng/mL
+61035-2|Recherche Hydroxyalprazolam|
+27921-6|Hydroxyalprazolam|ng/mL
+3405-8|Bromazépam|ng/mL
+3456-1|Recherche Chlordiazépoxide|
+3457-9|Chlordiazépoxide|ng/mL
+3487-6|Clobazam|ng/mL
+35107-2|Norclobazam|ng/mL
+13550-9|Recherche Clonazépam|
+3494-2|Clonazépam|ug/L
+28059-4|7-aminoclonazépam|ug/L
+13551-7|Recherche Clorazépate|
+3498-3|Clorazépate|ng/mL
+6896-5|Clozapine|ng/mL
+10992-6|Norclozapine|ng/mL
+3549-3|Recherche Diazépam|
+3548-5|Diazépam|ug/L
+13572-3|Recherche Nordiazépam|
+3537-8|Nordiazépam|ug/L
+14069-9|Estazolam|ng/mL
+50966-1|Recherche Flunitrazépam|
+23864-2|Flunitrazépam|ng/mL
+3652-5|Recherche Flurazépam|
+3653-3|Flurazépam|ng/mL
+13565-7|Recherche Lorazépam|
+3724-2|Lorazépam|ng/mL
+34332-7|Lormétazépam|ng/mL
+3821-6|Midazolam|ng/mL
+69797-9|1-hydroxymidazolam|ng/mL
+54402-3|4-hydroxymidazolam|ng/mL
+3858-8|Nitrazépam|ng/mL
+21046-8|7-aminoflunitrazépam|ng/mL
+3886-9|Oxazépam|ng/mL
+3977-6|Prazépam|ng/mL
+80554-9|Zopiclone|ng/mL
+6953-4|Zolpidem|ng/mL
+80148-0|Antidépresseurs tricycliques|
+3412-4|Bupivacaïne|ng/mL
+3694-7|Indométacine|ng/mL
+17034-0|Kétoprofène|ng/mL
+3714-3|Lidocaïne|ng/mL
+10541-1|Mépivacaïne|ng/mL
+3960-2|Phénylbutazone|ng/mL
+34668-4|Prilocaïne|ng/mL
+34673-4|Propofol|mg/L
+51203-8|Ropivacaïne|ng/mL
+73827-8|Gamma hydroxybutyrate (GHB)|mg/L
+28044-6|Gamma hydroxybutyrate urinaire|mg/L
+3422-3|Caféine|mg/L
+3755-6|Méprobamate urinaire|ng/mL
+10365-5|Cotinine|mg/L
+59646-0|Recherche de Cotinine urinaire|
+10366-3|Cotinine urinaire|mg/L
+14593-8|Aluminium|umol/L
+5574-9|Aluminium|ug/L
+52915-6|Aluminium urinaire|umol/L
+32295-8|Aluminium urinaire/24h|umol/(24.h)
+5577-2|Aluminium urinaire|ug/L
+26707-0|Aluminium urinaire/24h|ug/(24.h)
+25321-1|Antimoine|nmol/L
+5580-6|Antimoine|ug/L
+25323-7|Arsenic|nmol/L
+5585-5|Arsenic|ug/L
+52899-2|Béryllium|nmol/L
+5594-7|Béryllium|ug/L
+52914-9|Bore|umol/L
+5607-7|Bore|ug/L
+25359-1|Cadmium|nmol/L
+21129-2|Cadmium|ug/L
+25374-0|Chrome|nmol/L
+5622-6|Chrome|ug/L
+25378-1|Cobalt|nmol/L
+5627-5|Cobalt|ug/L
+14665-4|Cuivre|umol/L
+5631-7|Cuivre|ug/L
+34273-3|Cuivre urinaire|umol/L
+14666-2|Cuivre urinaire /24h|umol/(24.h)
+2494-3|Iode|ug/L
+25448-2|Iode|nmol/L
+25467-2|Manganèse|nmol/L
+5683-8|Manganèse|ug/L
+32330-3|Mercure|nmol/L
+5687-9|Mercure|ug/L
+25481-3|Molybdène|nmol/L
+5698-6|Molybdène|ug/L
+25486-2|Nickel|nmol/L
+5702-6|Nickel|ug/L
+5714-1|Platine|ug/L
+25459-9|Plomb|nmol/L
+10912-4|Plomb|ng/L
+14808-0|Plomb urinaire|umol/L
+14809-8|Plomb urinaire /24h|umol/(24.h)
+25521-6|Sélénium|nmol/L
+5724-0|Sélénium|ug/L
+14955-9|Zinc|umol/L
+5763-8|Zinc|mg/L
+25557-0|Zinc érythrocytaire|umol/L{RBCs}
+5761-2|Zinc érythrocytaire|mg/L{RBCs}
+35669-1|Amikacine|mg/L
+3321-7|Amikacine - Taux résiduel|mg/L
+3319-1|Amikacine - Pic|mg/L
+35668-3|Gentamicine|mg/L
+3665-7|Gentamicine - Taux résiduel|mg/L
+3663-2|Gentamicine - Pic|mg/L
+47395-9|Kanamycine|mg/L
+3700-2|Kanamycine - Taux résiduel|mg/L
+3698-8|Kanamycine - Pic|mg/L
+47385-0|Nétilmycine|mg/L
+3850-5|Nétilmycine - Taux résiduel|mg/L
+3848-9|Nétilmycine - Pic|mg/L
+4043-6|Téicoplanine|mg/L
+34379-8|Téicoplanine  - Taux résiduel|mg/L
+34378-0|Téicoplanine  - Pic|mg/L
+35670-9|Tobramycine|mg/L
+4059-2|Tobramycine - Taux résiduel|mg/L
+4057-6|Tobramycine - Pic|mg/L
+20578-1|Vancomycine|mg/L
+4092-3|Vancomycine - Taux résiduel|mg/L
+4090-7|Vancomycine - Pic|mg/L
+3344-9|Amoxicilline|mg/L
+16365-9|Amoxicilline+clavulanate|mg/L
+16628-0|Cloxacilline|mg/L
+3882-8|Oxacilline|mg/L
+3972-7|Pipéracilline|mg/L
+3911-5|Pénicilline|mg/L
+4054-3|Ticarcilline|mg/L
+4055-0|Ticarcilline+Acide clavulanique|mg/L
+3443-9|Céfazoline|mg/L
+16567-0|Céfixime|mg/L
+80608-3|Céfuroxime|mg/L
+16619-9|Clarithromycine|mg/L
+3486-8|Clindamycine|mg/L
+3484-3|Ciprofloxacine|mg/L
+16645-4|Colistine|mg/L
+17010-0|Imipénème|mg/L
+3906-5|Péfloxacine|mg/L
+3877-8|Ofloxacine|mg/L
+3697-0|Isoniazide|mg/L
+3607-9|Éthambutol|mg/L
+11001-5|Pyrazinamide|mg/L
+4021-2|Rifampicine|mg/L
+24032-5|Rifabutine|mg/L
+80637-2|Bédaquiline|mg/L
+3519-6|Cyclosérine|mg/L
+16845-0|Éthionamide|mg/L
+3639-2|5-fluorocytosine|mg/L
+3354-8|Amphotéricine B|mg/L
+58420-1|Anidulafungine|mg/L
+58419-3|Caspofungine|mg/L
+10987-6|Fluconazole|mg/L
+10989-2|Itraconazole|mg/L
+18337-6|Hydroxyitraconazole|mg/L
+10990-0|Kétoconazole|mg/L
+10991-8|Métronidazole|mg/L
+58418-5|Micafungine|mg/L
+53731-6|Posaconazole|mg/L
+38370-3|Voriconazole|mg/L
+73684-3|Atovaquone|mg/L
+3463-7|Chloroquine|ug/L
+29149-2|Méfloquine|ug/L
+34669-2|Pyriméthamine|ug/L
+4019-6|Quinine|mg/L
+78773-9|Abacavir|ng/mL
+72259-5|Adéfovir|ng/mL
+31028-4|Amprénavir|ng/mL
+41470-6|Atazanavir|ng/mL
+57954-0|Darunavir|ng/mL
+27082-7|Delavirdine|ng/mL
+48307-3|Didanosine|ng/mL
+33928-3|Éfavirenz|ng/mL
+57961-5|Étravirine|ng/mL
+31033-4|Indinavir|ng/mL
+49226-4|Lamivudine|ng/mL
+31179-5|Lopinavir|ng/mL
+32647-0|Nelfinavir|ng/mL
+32646-2|Névirapine|ng/mL
+72835-2|Raltégravir|ng/mL
+80547-3|Rilpivirine|ng/mL
+31027-6|Ritonavir|ng/mL
+19051-2|Saquinavir|ng/mL
+49227-2|Stavudine|ng/mL
+38374-5|Ténofovir|ng/mL
+57383-2|Tipranavir|ng/mL
+6894-0|Zidovudine|ng/mL
+9416-9|Aciclovir|mg/L
+15367-6|Ganciclovir|mg/L
+41469-8|Ribavirine|ng/mL
+53828-0|Ciclosporine taux résiduel|ug/L
+53834-8|Ciclosporine T2h|ug/L
+77348-1|Tacrolimus taux résiduel|ug/L
+72671-1|Évérolimus taux résiduel|ug/L
+72676-0|Sirolimus taux résiduel|ug/L
+72667-9|Mycophénolate taux résiduel|mg/L
+38901-5|Léflunomide|ng/mL
+44828-2|Tériflunomide|ng/mL
+3616-0|Ethosuximide|mg/L
+3432-2|Carbamazépine|mg/L
+6899-9|Felbamate|mg/L
+9738-6|Gabapentine|mg/L
+59297-2|Lacosamide|mg/L
+6948-4|Lamotrigine|mg/L
+30471-7|Lévétiracétam|mg/L
+3968-5|Phénytoïne|mg/L
+47414-8|Prégabaline|ng/mL
+3978-4|Primidone|mg/L
+59340-0|Stiripentol|mg/L
+17713-9|Topiramate|mg/L
+30042-6|Vigabatrin|mg/L
+3333-2|Amitriptyline|ng/mL
+3872-9|Nortriptyline|ng/mL
+3341-5|Amoxapine|ng/mL
+34635-3|Citalopram|ng/mL
+3491-8|Clomipramine|ng/mL
+3536-0|Norclomipramine|ng/mL
+3531-1|Désipramine|ng/mL
+3579-0|Doxépine|ng/mL
+46227-5|Duloxétine|ng/mL
+3644-2|Fluoxétine|ng/mL
+3868-7|Norfluoxétine|ng/mL
+3690-5|Imipramine|ng/mL
+3735-8|Maprotiline|ng/mL
+2635-1|Miansérine|ng/mL
+17283-3|Mirtazapine|ng/mL
+34415-0|Normirtazapine|ng/mL
+74941-6|Moclobémide|ng/mL
+9699-0|Paroxétine|ng/mL
+6906-2|Sertraline|ng/mL
+6897-3|Norsertraline|ng/mL
+4083-2|Trimipramine|ng/mL
+16746-0|Nortrimipramine|ng/mL
+9630-5|Venlafaxine|ng/mL
+4049-3|Théophylline|ug/L
+12423-0|Alimémazine|ng/mL
+3471-0|Chlorpromazine|ng/mL
+10536-1|Dipyridamole|ng/mL
+3669-9|Halopéridol|ng/mL
+63482-4|Lévomépromazine|ng/mL
+3753-1|Méprobamate|mg/L
+9393-0|Rispéridone|ng/mL
+9383-1|9-hydroxyrispéridone|ng/mL
+3576-6|Disopyramide|ng/mL
+4086-5|Acide valproïque|mg/L
+10535-3|Digoxine|ug/L
+6694-4|Quinidine|ng/mL
+60040-3|Acébutolol|ng/mL
+3704-4|Labétolol|ng/mL
+3992-5|Propranolol|ng/mL
+12416-4|Sotalol|ng/mL
+6898-1|Diltiazem|ng/mL
+3793-7|Méthotrexate|mg/L
+3642-6|5-fluorouracile|ng/mL
+15363-5|Busulfan|ng/mL
+53449-5|Cyclophosphamide|mg/L
+53450-3|Cytarabine C|mg/L
+53451-1|Cytarabine U|mg/L
+57844-3|Imatinib|mg/L
+13626-7|Mitotane|mg/L
+3485-0|Cisplatine|ng/mL
+73679-3|Sorafénib|mg/L
+86894-3|Adalimumab|ug/mL
+86895-0|Anti-Adalimumab|ng/mL
+87404-0|Certolizumab|ug/mL
+87405-7|Anti-Certolizumab|ng/mL
+82470-6|Etanercept|ug/mL
+82469-8|Anti-Etanercept|ng/mL
+87406-5|Golimumab|ug/mL
+87407-3|Anti-Golimumab|ng/mL
+86896-8|Infliximab|ug/mL
+86897-6|Anti-Infliximab|ng/mL
+82467-2|Rituximab|ug/mL
+82466-4|Anti-Rituximab|ng/mL
+87408-1|Ustekinumab|ug/mL
+87409-9|Anti-Ustekinumab|ng/mL
+86898-4|Védolizumab|ug/mL
+86899-2|Anti-Védolizumab|ng/mL
+22587-0|T.P.H.A.|Titre
+50758-2|Herpes Simplex Virus 1 IgG (Index)|Index
+50759-0|Herpes Simplex Virus 2 IgG (Index)|Index
+43396-1|Cholestérol non-HDL|g/L
+1963-8|Réserve alcaline (Bicarbonates)|mmol/L
+2742-5|Enzyme de conversion (ACE)|U/L
+5196-1|Antigène HBs (Index)|Index
+13967-5|PROTEINE LIANT LA TESTOSTERONE ET L'ESTRADIOL (TeBG)|nmol/L
+9830-1|Rapport Cholestérol Total / HDL|Ratio
+788-0|Index d'anisocytose (RDW)|%
+6096-9|TROPHATOP (Mélange Allergènes)|Index
+5206-8|IgG anti-HSV1|Index
+5209-2|IgG anti-HSV2|Index
